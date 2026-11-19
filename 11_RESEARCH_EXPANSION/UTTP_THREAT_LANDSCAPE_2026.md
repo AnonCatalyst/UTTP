@@ -20,7 +20,7 @@ and that the wider NVE ecosystem — especially **764** and **O9A** — has been
 designated, prosecuted, and studied by governments and independent researchers.
 
 **UTTP itself is not a designated terrorist entity in the sources reviewed.**
-Canada designated **764**; New Zealand designated **O9A**. Independent analysis
+Canada designated **764**; New Zealand designated **O9A/ONA** on 2025-12-07. Independent analysis
 (Sparx Intelligence, July 2026) describes UTTP as an NVE network with overlap to
 764, NLM, and MMC. That is an analytic assessment, not a legal designation.
 
@@ -32,8 +32,9 @@ Canada designated **764**; New Zealand designated **O9A**. Independent analysis
 
 - **Canada listed 764 as a terrorist entity** on 2025-12-10. The regulation was
   published in the Canada Gazette on 2025-12-17.
-- **New Zealand designated O9A as a terrorist entity** in 2025; 764 is described
-  in the same extremist ecosystem.
+- **New Zealand designated O9A/ONA** on 2025-12-07; its statement of case lists
+  764 as an O9A **nexion**. Nexions are operationally independent, so this is a
+  network position, not a command relationship.
 - **US DOJ/FBI and Canadian RCMP cases** document serious 764-linked child
   exploitation, coercion, and cyberstalking.
 - **Independent academic/think-tank work** (GNET, CTC West Point, GWU Program on
@@ -157,7 +158,7 @@ labelled by confidence.
 
 - Public Safety Canada, “Government of Canada lists four new terrorist entities,” 2025-12-10.
 - Canada Gazette, SOR/2025-263, 2025-12-17.
-- NZ Gazette, 2025-go11755.
+- NZ Gazette, 2025-au7135 (designation 2025-12-07; corrigendum 2025-au7194).
 - FBI and DOJ 764 cases; RCMP peace-bond release.
 - UNO NCTE, *Prosecuting Nihilistic Violent Extremism*, 2025-12.
 - GNET, *The Designation of 764 Network*, 2026-03-16.

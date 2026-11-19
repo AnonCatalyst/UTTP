@@ -1,5 +1,24 @@
 # Changelog
 
+## 2026-11-19 — O9A trace and 764→O9A correction
+
+- Added `14_O9A_764_TRACE/` with a sourced O9A profile, the 764→O9A trace,
+  structure/ideology analysis, designations, evidence limits, timeline, and
+  sources.
+- Corrected the New Zealand notice number from the old `2025-go11755` to
+  **2025-au7135** (designation 2025-12-07; published 2025-12-10; corrigendum
+  **2025-au7194**).
+- Clarified that the NZ statement of case lists **764 as an O9A nexion**, but
+  nexions are operationally independent; "parent company" and "command" language
+  is not supported.
+- Added `05_PARENT_ENTITIES/09A Cult/README.md` explaining that "09A Cult" is a
+  legacy archive label, not an O9A headquarters.
+- Updated navigation, entity map, timeline, source ledger, tracking register, and
+  the 764 profile.
+- Annotated two historical WIC dossiers with a correction banner (hierarchy/parent
+  language); content was not deleted.
+- No original file was deleted. No private data was added.
+
 ## 2026-11-19 — HTML capture viewing fix
 
 ### HTML capture viewing fix

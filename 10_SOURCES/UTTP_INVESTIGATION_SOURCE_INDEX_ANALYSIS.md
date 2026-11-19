@@ -1,6 +1,6 @@
 # UTTP INVESTIGATION — EVIDENTIARY SOURCE INDEX
 
-> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. It also contains superseded O9A “parent/operational arm” wording and earlier notice numbers. See `14_O9A_764_TRACE/` and `00_READ_FIRST/CLAIM_LEDGER.md`. **The NZ O9A designation does not establish a UTTP–O9A link; 764 is listed as an O9A nexion, and the UTTP link remains an assessment/lead.**
 
 
 **Date:** 2026-09-21
@@ -28,13 +28,13 @@ The central finding: **the UTTP investigation is supported by government designa
 | **Source** | **Jurisdiction** | **What It Establishes** |
 |---|---|---|
 | Canada Gazette, Part 2, Vol. 159, No. 26 | Canada | Formal regulation designating 764 as a terrorist entity |
-| New Zealand Gazette, Notice 2025-go11755 | New Zealand | Formal designation of two terrorist entities including O9A |
+| New Zealand Gazette, Notice 2025-au7135 | New Zealand | Formal designation of two terrorist entities including O9A/ONA (7 Dec 2025; published 10 Dec 2025) |
 | NZ DPMC Decision Statement | New Zealand | Official reasoning for designating Terrorgram Collective and O9A |
 | NZ Police Statement of Case — O9A | New Zealand | Full legal case for O9A designation |
 
 **What this category proves:** Multiple national governments have formally designated 764 and/or O9A as terrorist entities. These designations are legal instruments, not opinions. They carry evidentiary weight.
 
-**Why it matters for the archive:** The claim that UTTP is connected to 764 and O9A is not a WIC invention. It is a structure that governments have independently identified as a security threat. WIC's contribution is mapping how UTTP fits into that structure — not creating the structure itself.
+**Why it matters for the archive:** Governments have independently designated **764** and **O9A**. Those designations do not establish a UTTP connection. WIC's contribution is mapping UTTP's assessed overlap with that ecosystem — not treating the designations as a UTTP finding.
 
 ---
 
@@ -130,7 +130,7 @@ This table shows which claims are supported by which categories of source. The p
 |---|---|---|---|---|---|
 | UTTP exists and is active | — | Yes | Yes | Yes | Yes |
 | UTTP is linked to 764 | Yes (Canada) | Yes (FBI, DOJ) | Yes (GNET, CTC) | Yes | Yes |
-| UTTP is linked to O9A | Yes (NZ) | — | Yes | Yes | Yes |
+| UTTP is linked to O9A | — (NZ designates O9A, not UTTP) | — | Lead/assessment | Lead | Yes |
 | 764 is a designated terrorist entity | Yes (Canada) | Yes (FBI) | Yes | Yes | Yes |
 | O9A is a designated terrorist entity | Yes (NZ) | — | Yes | Yes | Yes |
 | The network targets minors | — | Yes (FBI, DOJ) | Yes (GNET) | Yes | Yes |
@@ -206,7 +206,7 @@ The Hillsborough County case in January 2026 produced a real arrest. A 14-year-o
 
 **UTTP harassment → Nihilistic Violence → O9A-aligned networks → planned mass casualty attack.**
 
-The pipeline is not a theory. It is a case file.
+The reported trajectory is a serious case lead, not a court-established command chain. Treat it as **A/C**, not **E**.
 
 ### 5.4 The Archive Is Independent of WIC's Interpretation
 

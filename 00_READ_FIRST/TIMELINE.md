@@ -15,7 +15,9 @@ single-source/alleged, `X` = disputed/superseded.
 | 2025 | 764 recruitment/infiltration into UTTP high command alleged | A/S | WIC archive, GitHub Issue #1 commenter, community records. Not a court finding. |
 | 2025-12-10 | Canada lists **764** as a terrorist entity | E | [Public Safety Canada](https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html). |
 | 2025-12-17 | Canada Gazette publishes the 764 listing regulation | E | [Canada Gazette SOR/2025-263](https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html). |
-| 2025 (NZ) | New Zealand designates **O9A** as a terrorist entity | E | [NZ Gazette 2025-go11755](https://gazette.govt.nz/notice/id/2025-go11755); NZ DPMC decision. |
+| 2025-12-07 | New Zealand designates **O9A/ONA** and the **Terrorgram Collective** as terrorist entities | E | [NZ Gazette 2025-au7135](https://gazette.govt.nz/notice/id/2025-au7135); NZ Police statement of case. |
+| 2025-12-10 | NZ Gazette publishes notice 2025-au7135; corrigendum 2025-au7194 follows on 2025-12-11 | E | NZ Gazette. |
+| 2025-12 | NZ O9A statement of case lists **764, NLM, and MKY among O9A nexions**; nexions are operationally independent | E | NZ Police statement of case, paras 16–20. |
 | 2026-04 | UTTP-linked accounts reportedly active on X, including shock content and harassment campaigns | D | Community documentation (Namu/other wikis); not independently verified. |
 | 2026-07-15 | Independent analysis describes UTTP as an NVE network overlapping 764/NLM/MMC | C | [Sparx Intelligence](https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism). |
 | 2026-09-17 | WIC records UTTP investigation status as ACTIVE | A | WIC archive metadata. |

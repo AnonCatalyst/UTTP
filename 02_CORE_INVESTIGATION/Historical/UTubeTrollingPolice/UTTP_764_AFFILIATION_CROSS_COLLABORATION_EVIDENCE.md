@@ -5,6 +5,11 @@
 **Classification:** Public — Investigative Record
 **Purpose:** To document, using the network's own admissions alongside independent institutional sources, that UTTP is affiliated with the 764 network.
 
+> **2026-11-19 correction:** This dossier is preserved as historical WIC analysis.
+> Its “parent ideology / operational arm” table overstates command. New Zealand’s
+> O9A statement of case lists 764 as an O9A **nexion**, but nexions are
+> operationally independent. See `14_O9A_764_TRACE/` and the claim ledger.
+
 
 ## 1. EXECUTIVE SUMMARY
 

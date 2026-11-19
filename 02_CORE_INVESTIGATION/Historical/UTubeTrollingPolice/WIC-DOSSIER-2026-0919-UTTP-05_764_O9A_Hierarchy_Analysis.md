@@ -8,6 +8,11 @@
 **Method:** Open-source intelligence, cross-platform trace correlation, law enforcement document analysis
 **Status:** Active — Living Document
 
+> **2026-11-19 correction:** This dossier is preserved as historical WIC analysis.
+> Its “hierarchy,” “parent,” and “operational arm” language overstates the evidence.
+> New Zealand’s O9A statement of case lists 764 as an O9A **nexion**, but nexions
+> are operationally independent. See `14_O9A_764_TRACE/` and the claim ledger.
+
 ---
 
 ## 1. EXECUTIVE SUMMARY

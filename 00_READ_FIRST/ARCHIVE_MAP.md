@@ -65,7 +65,9 @@ Grouped by named network or community:
 
 ## 05_PARENT_ENTITIES
 
-- `09A Cult/` — data sheet and images.
+- `09A Cult/` — data sheet, images, and a new `README.md` explaining that
+  "09A Cult" is a legacy archive label, not a central O9A headquarters. See
+  `14_O9A_764_TRACE/` for the sourced O9A profile.
 
 ## 06_COMMUNITY_NOTES
 
@@ -137,6 +139,19 @@ Dedicated UTTP and 764 profiles plus the evidence test for overlap:
 - `EVIDENCE_AND_LIMITS.md` — what is proven, assessed, or unsupported.
 - `ANALYSIS_2026.md` — why the overlap matters.
 - `SOURCES.md` — source list.
+
+## 14_O9A_764_TRACE
+
+Dedicated trace from 764 to the Order of Nine Angles, added 2026-11-19:
+
+- `README.md` — purpose, bottom line, reading order.
+- `O9A_FULL_PROFILE.md` — names, origins, structure, ideology, designations.
+- `764_TO_O9A_TRACE.md` — the sourced nexus/nexion finding and its limits.
+- `O9A_STRUCTURE_AND_IDEOLOGY.md` — nexions, acolytes/adherents, radicalisation logic.
+- `DESIGNATIONS_AND_LEGAL.md` — NZ and Canada instruments; what is not designated.
+- `EVIDENCE_AND_LIMITS.md` — claim-by-claim confidence and corrections.
+- `TIMELINE.md` — dated events.
+- `SOURCES.md` — primary and independent sources.
 
 ## Root files
 

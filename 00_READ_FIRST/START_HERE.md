@@ -48,7 +48,8 @@ ledger separates:
 7. [11_RESEARCH_EXPANSION/README.md](../11_RESEARCH_EXPANSION/README.md) — expanded public-source research.
 8. [12_TRACKING/README.md](../12_TRACKING/README.md) — tracking snapshot, register, methods, and INBOX.
 9. [13_UTTP_764_OVERLAP/README.md](../13_UTTP_764_OVERLAP/README.md) — UTTP/764 profiles and overlap proof standard.
-10. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+10. [14_O9A_764_TRACE/README.md](../14_O9A_764_TRACE/README.md) — sourced 764→O9A trace and O9A profile.
+11. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 
@@ -61,7 +62,7 @@ ledger separates:
 | `02_CORE_INVESTIGATION/` | Historical records, tactics, observations, members list, defenders. |
 | `03_AFFILIATIONS/` | Networks and communities documented as affiliated or adjacent. |
 | `04_OFFSHOOTS/` | DPOS, 11th Street, and other successor/splinter material. |
-| `05_PARENT_ENTITIES/` | Parent/ideological predecessor material, including 09A Cult. |
+| `05_PARENT_ENTITIES/` | Legacy context, including the 09A Cult archive label. |
 | `06_COMMUNITY_NOTES/` | Endorsements, petitions, Soyjak Wiki rebuttal, community context. |
 | `07_DONATED_DOCUMENTS/` | Donated notes, links, and supplementary intelligence. |
 | `08_DTAD_2025/` | DTAD 2025 dataset: malicious server lists and user exports. |
@@ -70,6 +71,7 @@ ledger separates:
 | `11_RESEARCH_EXPANSION/` | New 2026 landscape, source ledger, FPE operation, open questions. |
 | `12_TRACKING/` | Group-level tracking: snapshot, register, board, methods, INBOX, collection plan, leads. |
 | `13_UTTP_764_OVERLAP/` | Detailed UTTP and 764 profiles, tactic-overlap matrix, evidence limits. |
+| `14_O9A_764_TRACE/` | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
 
 No original file was deleted in the 2026-11-19 organization pass. Moves are
 recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
@@ -86,6 +88,8 @@ recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
 - Added source/claim/confidence separation and a dated timeline.
 - Added expanded public-source research and a verification queue.
 - Added a data dictionary and path map.
+- Added `14_O9A_764_TRACE/` with a sourced O9A profile and 764→O9A trace;
+  corrected the NZ notice number to `2025-au7135`.
 - Kept every original file and every original folder's contents.
 
 ---

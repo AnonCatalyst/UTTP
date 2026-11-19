@@ -28,7 +28,9 @@ fluidity** between UTTP and the 764 ecosystem. It does **not** support saying
 commands 764.”
 
 - **764** is a designated terrorist entity in Canada (2025); New Zealand
-  designated O9A, which is adjacent to 764.
+  designated O9A/ONA (2025-12-07), and the NZ O9A statement of case lists 764 as
+  an O9A **nexion**. Nexions are operationally independent; see
+  [`14_O9A_764_TRACE/`](../14_O9A_764_TRACE/).
 - **UTTP** is a decentralised harassment/NVE-adjacent brand. Independent analysis
   (Sparx Intelligence, 2026-07-15) explicitly describes overlap with 764/NLM/MMC,
   grooming “similarly to 764,” and fluid membership across groups.

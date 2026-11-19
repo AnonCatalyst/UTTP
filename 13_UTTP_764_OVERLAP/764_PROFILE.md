@@ -9,9 +9,11 @@ A for synthesis.
 ## 1. Status
 
 **764 is a designated terrorist entity in Canada** (listed 2025-12-10; regulation
-published 2025-12-17). New Zealand designated **O9A** in 2025; 764 is described as
-part of the same extremist ecosystem. The United States has prosecuted 764-linked
-cases, but this review did not find a US designation of 764.
+published 2025-12-17). New Zealand designated **O9A/ONA** on **2025-12-07**
+(Gazette 2025-au7135); the NZ O9A statement of case lists **764 as an O9A
+nexion**. Nexions are operationally independent, so this is a network position,
+not a command chain. The United States has prosecuted 764-linked cases, but this
+review did not find a US designation of 764.
 
 **764 is not a single company or a single leader.** It is described by governments
 and researchers as a decentralised transnational network of nihilistic violent
@@ -54,7 +56,8 @@ the content.
 ## 4. Legal and research record
 
 - Canada: Public Safety listing and Canada Gazette regulation (2025).
-- New Zealand: O9A designation (2025).
+- New Zealand: O9A/ONA designation (2025-12-07); 764 listed as an O9A nexion
+  in the statement of case.
 - US: FBI/DOJ cases and congressional interest; UNO NCTE report on prosecutions.
 - Research: GNET, CTC West Point, GWU Program on Extremism, ADL, ISD, CNA.
 - Independent analysis: 764/Com hybridisation and “remotely coerced violence.”

@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | [Public Safety Canada — four new terrorist entities](https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html) | 2025-12-10 | Canada lists 764; victim/recruitment description |
 | [Canada Gazette SOR/2025-263](https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html) | 2025-12-17 | Legal instrument |
-| [NZ Gazette 2025-go11755](https://gazette.govt.nz/notice/id/2025-go11755) | 2025 | O9A designation |
+| [NZ Gazette 2025-au7135](https://gazette.govt.nz/notice/id/2025-au7135) | 2025-12-10 | O9A/ONA designation; 7 Dec 2025 |
 | [UNO NCTE — Prosecuting NVE](https://www.unomaha.edu/ncite/news/2025/12/img/prosecuting-nve-report.pdf) | 2025-12 | 764 prosecutions/structure |
 | [GNET — 764: terrorism, extremism, CSE](https://gnet-research.org/2024/01/19/764-the-intersection-of-terrorism-violent-extremism-and-child-sexual-exploitation/) | 2024-01-19 | 764 tactics/recruitment |
 | [GNET — designation analysis](https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/) | 2026-03-16 | Designation context |

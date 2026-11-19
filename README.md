@@ -12,8 +12,10 @@
 **Confidence note:** this archive contains WIC analysis, community documentation,
 donated leads, and independent sources. They are not the same kind of evidence.
 UTTP itself is not a designated terrorist entity in the sources reviewed; Canada
-designated **764** (2025) and New Zealand designated **O9A** (2025). Read the
-claim ledger before repeating an allegation as fact.
+designated **764** (2025) and New Zealand designated **O9A/ONA** (2025-12-07).
+New Zealand's O9A statement of case lists 764 as an O9A **nexion**, but nexions are
+operationally independent; this is not a command relationship. Read the claim
+ledger before repeating an allegation as fact.
 
 ---
 
@@ -99,7 +101,7 @@ The goal is accountability through documentation. Nothing more.
 | [`02_CORE_INVESTIGATION/`](02_CORE_INVESTIGATION/) | Historical dossiers, tactics, observations, members list, defenders. |
 | [`03_AFFILIATIONS/`](03_AFFILIATIONS/) | Documented/lead affiliations and adjacent networks. |
 | [`04_OFFSHOOTS/`](04_OFFSHOOTS/) | DPOS, 11th Street, and successor/splinter material. |
-| [`05_PARENT_ENTITIES/`](05_PARENT_ENTITIES/) | Parent/predecessor context, including 09A Cult. |
+| [`05_PARENT_ENTITIES/`](05_PARENT_ENTITIES/) | Legacy context, including the 09A Cult archive label. |
 | [`06_COMMUNITY_NOTES/`](06_COMMUNITY_NOTES/) | Endorsements, petitions, community context. |
 | [`07_DONATED_DOCUMENTS/`](07_DONATED_DOCUMENTS/) | Donated notes, links, and supplementary intelligence. |
 | [`08_DTAD_2025/`](08_DTAD_2025/) | DTAD 2025 server/user exports. |
@@ -108,6 +110,7 @@ The goal is accountability through documentation. Nothing more.
 | [`11_RESEARCH_EXPANSION/`](11_RESEARCH_EXPANSION/) | 2026 landscape expansion, source ledger, FPE correction, verification queue. |
 | [`12_TRACKING/`](12_TRACKING/) | Group-level UTTP tracking board, register, methods, collection plan, INBOX for new notes. |
 | [`13_UTTP_764_OVERLAP/`](13_UTTP_764_OVERLAP/) | Dedicated UTTP/764 profiles and tactic-overlap analysis. |
+| [`14_O9A_764_TRACE/`](14_O9A_764_TRACE/) | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

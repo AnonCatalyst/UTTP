@@ -10,7 +10,7 @@
 | **AUTTP** | Anti-UTTP coalition/opposition grouping. |
 | **DPOS** | Degeneracy Police Order State; documented offshoot/affiliate in the archive. |
 | **764** | A transnational nihilistic violent extremist network; **listed as a terrorist entity in Canada** (2025). |
-| **O9A** | Order of Nine Angles; **designated as a terrorist entity in New Zealand** (2025); overlaps with the 764 ecosystem. |
+| **O9A** | Order of Nine Angles; **designated as a terrorist entity in New Zealand** on 2025-12-07; 764 is listed as an O9A nexion in the NZ statement of case. |
 | **NVE** | Nihilistic Violent Extremism: an analytic category used in government/academic work. |
 | **FPE** | Fundamental Paper Education: an animated web-series fandom targeted/entered during the 2026 WIC engagement. |
 | **FPE-Police** | A branding/AU pattern inside FPE; not evidence of a formal organisation without corroboration. |

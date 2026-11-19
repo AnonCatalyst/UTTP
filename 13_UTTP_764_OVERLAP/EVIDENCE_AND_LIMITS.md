@@ -17,7 +17,8 @@
 
 1. **764 is designated in Canada** and is a serious NVE/child-exploitation
    network. **E**
-2. **764 and O9A overlap** in the same extremist ecosystem; NZ designated O9A. **E/C**
+2. **764 is listed as an O9A nexion** in New Zealand's O9A statement of case;
+   nexions are operationally independent. NZ designated O9A/ONA on 2025-12-07. **E**
 3. **UTTP has a long history of harassment, raids, doxxing threats, mass
    reporting, and platform migration.** **C**
 4. **UTTP and 764 overlap in tactic families and membership fluidity**, according
@@ -40,6 +41,8 @@
 - “UTTP is 764.”
 - “UTTP is a designated terrorist entity.”
 - “764 is a parent company of UTTP.”
+- “O9A commands 764.” The NZ statement says nexions are operationally independent.
+- “09A Cult is O9A's headquarters.” It is a legacy archive label.
 - “Every UTTP faction is 764.”
 - “The FPE operation is independent proof of a 764 command link.”
 

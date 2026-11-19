@@ -34,7 +34,7 @@ graph TD
   UTTP --> AFR
   UTTP --> DPOS
   NU -. assessed overlap .-> N764
-  N764 --- O9A
+  N764 -. listed as O9A nexion .-> O9A
   N764 --- NLM
   UTTP -. targeted / infiltrated .-> FPE
   FPE --> FPEB
@@ -58,12 +58,12 @@ graph TD
 | UTTP | RUTTP/TYRANNY, AFR | Splinters | D | Community-reported; not formally confirmed. |
 | UTTP | DPOS | Offshoot/affiliate | A/D | WIC documents DPOS as an offshoot/associate; see `04_OFFSHOOTS/`. |
 | UTTP | 764 | Overlap/recruitment pipeline (assessed) | A/C | 764 is independently designated; UTTP-specific pipeline is WIC/community assessment. |
-| 764 | O9A | Adjacent/overlapping extremist ecosystem | C | Government designations and academic analysis; “764 = O9A” is too strong. |
+| 764 | O9A | Listed as an O9A nexion in the NZ statement of case; decentralised ecosystem | E/C | Nexions are operationally independent; this is not a command relationship. |
 | UTTP | FPE | Target/incursion ecosystem | A | WIC's FPE record; not an alliance. |
 | WIC | FPE | Documenter / temporary defense role | A | WIC states it is not an FPE partner and did not accept a governing role. |
 | AUTTP | UTTP | Opposition/coalition | D | Community documentation. |
 | UTTP | SRA, TM-TNM, UU, 148-1488, UETR-GSR, SPWN | Affiliation/lead folders | A/D | Presence in `03_AFFILIATIONS/` means documented/lead material, not proof of command. |
-| 09A Cult | O9A | Parent/predecessor context | A/D | Archive folder context; do not flatten O9A into a single organisation. |
+| 09A Cult | O9A | Legacy archive label for O9A-adjacent material | D | Not a headquarters or proven parent; "09A" is an alternate spelling. |
 
 ## Reading rule
 
