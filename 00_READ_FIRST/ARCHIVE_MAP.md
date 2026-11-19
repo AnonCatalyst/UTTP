@@ -112,6 +112,19 @@ New public-source research added in the 2026-11-19 pass:
 
 ---
 
+## 12_TRACKING
+
+Group-level tracking product added 2026-11-19:
+
+- `README.md` — scope, non-negotiables, headline.
+- `SNAPSHOT_2026-11-19.md` — current assessment.
+- `TRACKING_REGISTER.csv` — group/faction register.
+- `TRACKING_BOARD.md` — operational watch board.
+- `COLLECTION_PLAN.md` — ethical public-source collection.
+- `OPEN_LEADS.md` — gaps and verification priorities.
+
+No private individuals and no individual tracking.
+
 ## Root files
 
 - `README.md` — public front page and warnings.

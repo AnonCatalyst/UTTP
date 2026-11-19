@@ -106,6 +106,7 @@ The goal is accountability through documentation. Nothing more.
 | [`09_STYXNET_REPORTS/`](09_STYXNET_REPORTS/) | StyxNet exports and recon reports. |
 | [`10_SOURCES/`](10_SOURCES/) | Source indexes and law-enforcement/academic maps. |
 | [`11_RESEARCH_EXPANSION/`](11_RESEARCH_EXPANSION/) | 2026 landscape expansion, source ledger, FPE correction, verification queue. |
+| [`12_TRACKING/`](12_TRACKING/) | Group-level UTTP tracking board, register, collection plan, snapshot. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

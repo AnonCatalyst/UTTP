@@ -27,5 +27,6 @@ New in this pass:
 
 - `00_READ_FIRST/`
 - `11_RESEARCH_EXPANSION/`
+- `12_TRACKING/`
 
 Git tag `pre-organize-20261118` records the pre-organization state.

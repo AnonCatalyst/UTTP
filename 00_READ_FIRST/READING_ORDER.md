@@ -26,6 +26,7 @@ Do not cite “the archive” as if it were a primary source. Cite the source in
 5. `02_CORE_INVESTIGATION/Historical/`
 6. `10_SOURCES/`
 7. `VERIFICATION_QUEUE.md` — pick an open claim and verify it
+8. `12_TRACKING/TRACKING_BOARD.md` — group-level watch board
 
 ## If you are a platform trust-and-safety team
 

@@ -25,6 +25,8 @@
 - Added confidence labels and identified outdated/unsupported claims in
   `CLAIM_LEDGER.md`.
 - Generated `MANIFEST.csv` with path, size, and SHA-256 for every file.
+- Added `12_TRACKING/` group-level tracking snapshot, register, board, collection
+  plan, and open leads. No individual tracking and no private data.
 
 **What did not change**
 
