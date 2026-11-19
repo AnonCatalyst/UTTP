@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import csv, json, hashlib, re
+from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -423,7 +424,7 @@ search_types = styx_summary.get('search_types', {})
 row_classes = styx_summary.get('row_classes', {})
 
 monitor = {
- "updated": "2026-11-19",
+ "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
  "styxnet": {
   "raw_rows": len(styx_rows) or styx_summary.get('raw_rows', 0),
   "exact_rows": search_types.get('exact', 0),
@@ -467,7 +468,7 @@ monitor = {
 data = {
  "meta": {
   "title": "WinterGateIC Entity Intelligence",
-  "updated": "2026-11-19",
+  "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
   "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
   "entity_count": len(entities),
   "area_rows": len(area_rows),

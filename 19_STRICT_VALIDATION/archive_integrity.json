@@ -20,10 +20,6 @@
     {
       "path": "18_ENTITY_TRACKING/build_entity_intelligence.py",
       "reason": "size_mismatch"
-    },
-    {
-      "path": "18_ENTITY_TRACKING/entity-intelligence.json",
-      "reason": "size_mismatch"
     }
   ],
   "manifest_hash_ok": true,
