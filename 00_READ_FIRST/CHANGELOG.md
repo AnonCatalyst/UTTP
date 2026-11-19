@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-19 — UTTP area intelligence register
+
+- Added `02_CORE_INVESTIGATION/AREA_INTELLIGENCE/` with a 200-row
+  platform/surface register, methodology, and sources.
+- Coverage: YouTube, Discord, X, Telegram, TikTok, Roblox, Instagram, Reddit,
+  4chan, Kiwi Farms, Soyjak Wiki, Doxbin, Pastebin/Rentry, Mastodon, Bluesky,
+  Tumblr, Twitch/Kick, Facebook/Snapchat, Google+, and Steam/Minecraft.
+- No usernames, account IDs, invite links, or private identifiers are included.
+- Added navigation entries; raw lists and expanded member/group listings remain.
+
 ## 2026-11-19 — Members and groups listings restored/expanded
 
 - Added `02_CORE_INVESTIGATION/Members_List/README.md`.

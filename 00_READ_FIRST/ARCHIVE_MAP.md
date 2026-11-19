@@ -41,6 +41,7 @@ in older copies is superseded by the correction ledger.
 | `Tactics/` | Tactical analysis of UTTP and 764 methods, burner profiles. |
 | `Observations/` | Phase 1 reception/observation report. |
 | `Members_List/` | Entity/alias registry, indicator lists, burner profile material, and the expanded members/groups register. |
+| `AREA_INTELLIGENCE/` | 200-row platform/surface register of UTTP areas; no handles or account IDs. |
 | `Defenders/` | Material about people or accounts that defended UTTP or disputed the archive. |
 
 ---
