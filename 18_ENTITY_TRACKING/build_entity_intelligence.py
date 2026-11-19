@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import csv, json, hashlib
+import csv, json, hashlib, re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -209,6 +209,101 @@ entities = [e for e in entities if e['id'] not in {'GATEKEEPER', 'WIC'}]
 for e in entities:
     e['related'] = [r for r in (e.get('related') or []) if r not in {'GATEKEEPER', 'WIC'}]
 
+
+ALIASES = {
+    'uttputubetrollpolice': 'UTTP',
+    'uttpempirenuuttp': 'UTTP-EMPIRE',
+    'circusfallfaction': 'CIRCUSFALL',
+    'officerslappyfactionuttpforum': 'OFFICERSLAPPY',
+    'dposdegeneracypoliceorderstate': 'DPOS',
+    'antifandomresistanceafr': 'AFR',
+    'bn0rempire': 'BN0R',
+    'redditdefenceforcerdf': 'RDF',
+    'kktkkukluxtrollklan': 'KKTK',
+    'yfga': 'YFGA',
+    'vgcpvideogamecartoonpolice': 'VGCP',
+    'affantifandomfront': 'AFF',
+    'auttpantiuttp': 'AUTTP',
+    '764': '764',
+    'harmnation': 'HARMNATION',
+    'o9aona': 'O9A',
+    'spawnism': 'SPAWNISM',
+    'fpepolice': 'FPE-POLICE',
+    'fpeecosystem': 'FPE',
+    'tnmthemilitia': 'TNM',
+    '1481488': '148',
+    'imperiumoftheenclavegrs': 'ENCLAVE',
+    'gatekeeper': None,
+}
+
+
+def parse_general_list():
+    path = ROOT / '02_CORE_INVESTIGATION' / 'Members_List' / 'General_List_v2_Structured_2026-11-19.md'
+    if not path.exists():
+        return []
+    added = []
+    known_ids = {e['id'] for e in entities}
+    known_names = {nkey(e['name']) for e in entities}
+    used_ids = set(known_ids)
+    section = None
+    for line in path.read_text(encoding='utf-8').splitlines():
+        if line.startswith('###'):
+            section = line[4:].strip()
+            continue
+        if line.startswith('## '):
+            section = line[3:].strip()
+            continue
+        if not line.startswith('|'):
+            continue
+        cells = [c.strip() for c in line.strip().strip('|').split('|')]
+        if len(cells) < 4:
+            continue
+        name = cells[0].strip()
+        if not name or name.lower() in {'group', 'name', 'campaign', 'handle'} or set(name) <= set('-: '):
+            continue
+        key = nkey(name)
+        if key in ALIASES:
+            continue
+        if key in known_names or key in used_ids:
+            continue
+        if section and section.startswith(('4.', '5.')):
+            continue
+        if section and 'campaign' in section.lower():
+            continue
+        if section and section.startswith('2.'):
+            typ, status, confidence, note = cells[1], cells[2], cells[3], cells[4] if len(cells) > 4 else ''
+        else:
+            typ, status, confidence, note = cells[1], 'adjacent/lead', cells[2], cells[3] if len(cells) > 3 else ''
+        eid = re.sub(r'[^A-Z0-9]+', '_', key.upper()).strip('_')[:40]
+        base = eid
+        suffix = 1
+        while eid in used_ids:
+            suffix += 1
+            eid = f'{base}_{suffix}'
+        used_ids.add(eid)
+        entities.append({
+            'id': eid,
+            'name': name,
+            'type': typ,
+            'status': status,
+            'confidence': confidence,
+            'summary': note,
+            'origin': 'General List v2 register',
+            'current_state': status,
+            'watch_priority': 'medium' if confidence in {'D', 'S', 'D/S'} else 'low',
+            'related': {'TYRANNYRUTTP': ['UTTP', 'OFFICERSLAPPY'], 'RDFPARTY': ['RDF', 'UTTP'], 'THEFARTKNOCKERSTFK': ['UTTP']}.get(eid, []),
+            'tactics': [],
+            'areas': [],
+            'evolution': [],
+            'sources': ['S035'],
+            'not_supported': [],
+            'learning': {'stage': 'registry lead', 'risk_score': 0.3, 'next_likely': 'unverified', 'basis': 'General List v2 register'},
+        })
+        known_names.add(key)
+        added.append(eid)
+    return added
+
+parse_general_list()
 methods = [
  {"id":"M001","name":"Open-source intelligence (OSINT)","use":"Public records, archives, screenshots, exports, and public posts","confidence":"E/C/A"},
  {"id":"M002","name":"Source-ledger verification","use":"Every claim tied to a source and confidence label","confidence":"E/C/A"},

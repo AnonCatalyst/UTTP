@@ -3,7 +3,7 @@
     "title": "WinterGateIC Entity Intelligence",
     "updated": "2026-11-19",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
-    "entity_count": 28,
+    "entity_count": 31,
     "area_rows": 200,
     "area_platforms": 20,
     "source_count": 91,
@@ -1374,6 +1374,89 @@
         "risk_score": 0.1,
         "next_likely": "none",
         "basis": "archive label"
+      }
+    },
+    {
+      "id": "TYRANNYRUTTP",
+      "name": "TYRANNY / RUTTP",
+      "type": "splinter",
+      "status": "reported",
+      "confidence": "D",
+      "summary": "OfficerPWRGE lineage.",
+      "origin": "General List v2 register",
+      "current_state": "reported",
+      "watch_priority": "medium",
+      "related": [
+        "UTTP",
+        "OFFICERSLAPPY"
+      ],
+      "tactics": [],
+      "areas": [],
+      "evolution": [],
+      "sources": [
+        "S035"
+      ],
+      "not_supported": [],
+      "learning": {
+        "stage": "registry lead",
+        "risk_score": 0.3,
+        "next_likely": "unverified",
+        "basis": "General List v2 register"
+      }
+    },
+    {
+      "id": "RDFPARTY",
+      "name": "RDFPARTY",
+      "type": "RDF splinter",
+      "status": "reported",
+      "confidence": "D",
+      "summary": "DNB/soycord-style splinter.",
+      "origin": "General List v2 register",
+      "current_state": "reported",
+      "watch_priority": "medium",
+      "related": [
+        "RDF",
+        "UTTP"
+      ],
+      "tactics": [],
+      "areas": [],
+      "evolution": [],
+      "sources": [
+        "S035"
+      ],
+      "not_supported": [],
+      "learning": {
+        "stage": "registry lead",
+        "risk_score": 0.3,
+        "next_likely": "unverified",
+        "basis": "General List v2 register"
+      }
+    },
+    {
+      "id": "THEFARTKNOCKERSTFK",
+      "name": "TheFartKnockers (TFK)",
+      "type": "splinter",
+      "status": "historical/disbanded",
+      "confidence": "D",
+      "summary": "Doxing group.",
+      "origin": "General List v2 register",
+      "current_state": "historical/disbanded",
+      "watch_priority": "medium",
+      "related": [
+        "UTTP"
+      ],
+      "tactics": [],
+      "areas": [],
+      "evolution": [],
+      "sources": [
+        "S035"
+      ],
+      "not_supported": [],
+      "learning": {
+        "stage": "registry lead",
+        "risk_score": 0.3,
+        "next_likely": "unverified",
+        "basis": "General List v2 register"
       }
     }
   ],
@@ -5037,11 +5120,7 @@
         "reason": "size_mismatch"
       },
       {
-        "path": "19_STRICT_VALIDATION/strict_validate.py",
-        "reason": "size_mismatch"
-      },
-      {
-        "path": "20_LIVE_MONITORING/run_pipeline.sh",
+        "path": "18_ENTITY_TRACKING/entity-intelligence.json",
         "reason": "size_mismatch"
       }
     ],
@@ -5058,7 +5137,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-19T03:43:24Z",
+    "updated": "2026-11-19T03:48:54Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -5066,7 +5145,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5100,
+        "elapsed_ms": 5098,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -5076,7 +5155,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 74,
+        "elapsed_ms": 688,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -5085,7 +5164,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 825,
+        "elapsed_ms": 840,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -5094,7 +5173,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 146,
+        "elapsed_ms": 188,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -5103,7 +5182,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 436,
+        "elapsed_ms": 413,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -5112,7 +5191,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 280,
+        "elapsed_ms": 252,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -5121,7 +5200,7 @@
         "status": 403,
         "final_url": "https://soyjakwiki.org/UTTP",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 88,
+        "elapsed_ms": 94,
         "ok": false,
         "source_id": "S023",
         "url": "https://soyjakwiki.org/UTTP"
@@ -5130,7 +5209,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 123,
+        "elapsed_ms": 98,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -5139,7 +5218,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 604,
+        "elapsed_ms": 679,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -5148,25 +5227,25 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 539,
+        "elapsed_ms": 410,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
       }
     ],
-    "tel_records": 31
+    "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-19T03:43:24Z",
+    "updated": "2026-11-19T03:48:54Z",
     "count": 0,
     "entries": []
   },
   "cold_storage": {
-    "updated": "2026-11-19T03:28:32.314867Z",
-    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T032832Z.json.gz",
-    "snapshot_bytes": 3241,
-    "snapshots": 3,
-    "total_bytes": 9605,
+    "updated": "2026-11-19T03:45:11.922731Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T034511Z.json.gz",
+    "snapshot_bytes": 2980,
+    "snapshots": 5,
+    "total_bytes": 15567,
     "github": "disabled",
     "tel_records": 31
   },
@@ -5262,7 +5341,7 @@
       "confidence": "E"
     }
   ],
-  "tel_records": 31,
+  "tel_records": 34,
   "monitor": {
     "updated": "2026-11-19",
     "styxnet": {
@@ -5283,7 +5362,7 @@
     "archive": {
       "manifest_files": 631,
       "public_release_gb": 6,
-      "entity_count": 28,
+      "entity_count": 31,
       "source_count": 91,
       "area_rows": 200,
       "area_platforms": 20,
@@ -5293,7 +5372,7 @@
       "unique_tactics": 49
     },
     "monitor_feed": {
-      "updated": "2026-11-19T03:43:24Z",
+      "updated": "2026-11-19T03:48:54Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -5301,7 +5380,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5100,
+          "elapsed_ms": 5098,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -5311,7 +5390,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 74,
+          "elapsed_ms": 688,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -5320,7 +5399,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 825,
+          "elapsed_ms": 840,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -5329,7 +5408,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 146,
+          "elapsed_ms": 188,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -5338,7 +5417,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 436,
+          "elapsed_ms": 413,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -5347,7 +5426,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 280,
+          "elapsed_ms": 252,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -5356,7 +5435,7 @@
           "status": 403,
           "final_url": "https://soyjakwiki.org/UTTP",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 88,
+          "elapsed_ms": 94,
           "ok": false,
           "source_id": "S023",
           "url": "https://soyjakwiki.org/UTTP"
@@ -5365,7 +5444,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 123,
+          "elapsed_ms": 98,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -5374,7 +5453,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 604,
+          "elapsed_ms": 679,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -5383,29 +5462,29 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 539,
+          "elapsed_ms": 410,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
         }
       ],
-      "tel_records": 31
+      "tel_records": 34
     },
-    "tel_records": 31,
+    "tel_records": 34,
     "tel_intake": 0,
     "cold_storage": {
-      "updated": "2026-11-19T03:28:32.314867Z",
-      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T032832Z.json.gz",
-      "snapshot_bytes": 3241,
-      "snapshots": 3,
-      "total_bytes": 9605,
+      "updated": "2026-11-19T03:45:11.922731Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T034511Z.json.gz",
+      "snapshot_bytes": 2980,
+      "snapshots": 5,
+      "total_bytes": 15567,
       "github": "disabled",
       "tel_records": 31
     },
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-19T03:43:24Z",
+      "last_refresh": "2026-11-19T03:48:54Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",
