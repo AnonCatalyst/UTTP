@@ -15,32 +15,14 @@
   ],
   "csv_files_checked": 17,
   "bad_csv_files": [],
-  "manifest_rows_checked": 630,
+  "manifest_rows_checked": 631,
   "bad_manifest_rows": [
     {
-      "path": "18_ENTITY_TRACKING/entity-intelligence.json",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "19_STRICT_VALIDATION/archive_integrity.json",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "19_STRICT_VALIDATION/strict_validation_summary.json",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "20_LIVE_MONITORING/monitor_feed.json",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "20_LIVE_MONITORING/run_pipeline.py",
-      "reason": "size_mismatch"
-    },
-    {
-      "path": "20_LIVE_MONITORING/run_pipeline.sh",
+      "path": "19_STRICT_VALIDATION/strict_validate.py",
       "reason": "size_mismatch"
     }
   ],
-  "manifest_hash_ok": true
+  "manifest_hash_ok": true,
+  "candidate_handles": 15,
+  "ownership_verified": 15
 }

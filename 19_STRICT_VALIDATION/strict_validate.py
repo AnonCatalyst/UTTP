@@ -157,6 +157,21 @@ def main():
         writer.writeheader()
         writer.writerows(rejected)
 
+    candidate_path = ROOT / '09_STYXNET_REPORTS' / 'validation' / 'styxnet_handle_candidates.csv'
+    candidate_handles = set()
+    if candidate_path.exists():
+        for row in csv.DictReader(candidate_path.open(newline='', encoding='utf-8')):
+            candidate_handles.add(row['handle'])
+    verified_handles = set()
+    for row in rows:
+        handle = row.get('aliases') or row.get('similar_username') or ''
+        if handle not in candidate_handles:
+            continue
+        if row.get('status') not in {'200', '206', '204'}:
+            continue
+        url = norm_url(row.get('url', ''))
+        if 'uttp' in url or nkey(handle) in nkey(url):
+            verified_handles.add(handle)
     links_checked, broken_links = validate_internal_links()
     json_checked, bad_json, non_strict_json = validate_json()
     csv_checked, bad_csv = validate_csv()
@@ -179,6 +194,8 @@ def main():
         'manifest_rows_checked': manifest_checked,
         'bad_manifest_rows': bad_manifest,
         'manifest_hash_ok': manifest_hash_ok,
+        'candidate_handles': len(candidate_handles),
+        'ownership_verified': len(verified_handles),
         'rule': 'HTTP success, profile path, no search/login/error/gated/duplicate/unclear, confidence >= 70, non-generic title, platform not in blocklist.',
     }
     (OUT / 'strict_validation_summary.json').write_text(json.dumps(summary, indent=2) + '\n', encoding='utf-8')
@@ -196,6 +213,8 @@ def main():
         'manifest_rows_checked': manifest_checked,
         'bad_manifest_rows': bad_manifest,
         'manifest_hash_ok': manifest_hash_ok,
+        'candidate_handles': len(candidate_handles),
+        'ownership_verified': len(verified_handles),
     }
     (OUT / 'archive_integrity.json').write_text(json.dumps(integrity, indent=2) + '\n', encoding='utf-8')
 
@@ -212,6 +231,8 @@ def main():
         'manifest_rows': manifest_checked,
         'bad_manifest_rows': len(bad_manifest),
         'manifest_hash_ok': manifest_hash_ok,
+        'candidate_handles': len(candidate_handles),
+        'ownership_verified': len(verified_handles),
     }, indent=2))
 
 if __name__ == '__main__':
