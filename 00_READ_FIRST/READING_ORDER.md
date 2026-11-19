@@ -27,6 +27,7 @@ Do not cite “the archive” as if it were a primary source. Cite the source in
 6. `10_SOURCES/`
 7. `VERIFICATION_QUEUE.md` — pick an open claim and verify it
 8. `12_TRACKING/TRACKING_BOARD.md` — group-level watch board
+9. `13_UTTP_764_OVERLAP/TACTIC_OVERLAP_MATRIX.md` — overlap evidence test
 
 ## If you are a platform trust-and-safety team
 

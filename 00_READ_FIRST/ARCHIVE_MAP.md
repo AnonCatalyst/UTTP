@@ -122,8 +122,21 @@ Group-level tracking product added 2026-11-19:
 - `TRACKING_BOARD.md` — operational watch board.
 - `COLLECTION_PLAN.md` — ethical public-source collection.
 - `OPEN_LEADS.md` — gaps and verification priorities.
+- `INBOX/` — drop folder for new group-level tracking notes and template.
+- `METHODS/` — method tracker (group-level tactics, not people).
 
 No private individuals and no individual tracking.
+
+## 13_UTTP_764_OVERLAP
+
+Dedicated UTTP and 764 profiles plus the evidence test for overlap:
+
+- `UTTP_FULL_PROFILE.md` — history, structure, factions, methods, targets.
+- `764_PROFILE.md` — designation, structure, victim pattern, legal record.
+- `TACTIC_OVERLAP_MATRIX.md` — tactic-by-tactic comparison.
+- `EVIDENCE_AND_LIMITS.md` — what is proven, assessed, or unsupported.
+- `ANALYSIS_2026.md` — why the overlap matters.
+- `SOURCES.md` — source list.
 
 ## Root files
 

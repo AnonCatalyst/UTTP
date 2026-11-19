@@ -25,8 +25,11 @@
 - Added confidence labels and identified outdated/unsupported claims in
   `CLAIM_LEDGER.md`.
 - Generated `MANIFEST.csv` with path, size, and SHA-256 for every file.
-- Added `12_TRACKING/` group-level tracking snapshot, register, board, collection
-  plan, and open leads. No individual tracking and no private data.
+- Added `12_TRACKING/` group-level tracking snapshot, register, board, methods,
+  collection plan, open leads, and `INBOX/` for new tracking notes.
+- Added `13_UTTP_764_OVERLAP/` dedicated UTTP/764 profiles and tactic-overlap
+  evidence analysis.
+- No individual tracking and no private data added.
 
 **What did not change**
 

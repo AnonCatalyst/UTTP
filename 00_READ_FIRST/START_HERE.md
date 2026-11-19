@@ -46,8 +46,9 @@ ledger separates:
 5. [CLAIM_LEDGER.md](CLAIM_LEDGER.md) — accuracy review and corrections.
 6. [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — file formats and fields.
 7. [11_RESEARCH_EXPANSION/README.md](../11_RESEARCH_EXPANSION/README.md) — expanded public-source research.
-8. [12_TRACKING/README.md](../12_TRACKING/README.md) — group-level tracking snapshot, register, and collection plan.
-9. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+8. [12_TRACKING/README.md](../12_TRACKING/README.md) — tracking snapshot, register, methods, and INBOX.
+9. [13_UTTP_764_OVERLAP/README.md](../13_UTTP_764_OVERLAP/README.md) — UTTP/764 profiles and overlap proof standard.
+10. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 
@@ -67,7 +68,8 @@ ledger separates:
 | `09_STYXNET_REPORTS/` | StyxNet exports and UTTP identity/recon reports. |
 | `10_SOURCES/` | Source indexes and law-enforcement/academic source maps. |
 | `11_RESEARCH_EXPANSION/` | New 2026 landscape, source ledger, FPE operation, open questions. |
-| `12_TRACKING/` | Group-level UTTP tracking: snapshot, register, board, collection plan, leads. |
+| `12_TRACKING/` | Group-level tracking: snapshot, register, board, methods, INBOX, collection plan, leads. |
+| `13_UTTP_764_OVERLAP/` | Detailed UTTP and 764 profiles, tactic-overlap matrix, evidence limits. |
 
 No original file was deleted in the 2026-11-19 organization pass. Moves are
 recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
