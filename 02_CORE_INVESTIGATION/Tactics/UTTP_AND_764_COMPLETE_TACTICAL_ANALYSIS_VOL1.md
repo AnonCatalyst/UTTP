@@ -1,5 +1,8 @@
 # WINTERGATE INTELLIGENCE COLLECTIVE
 
+> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+
+
 # UTTP: THE COMPLETE THREAT DOSSIER
 
 ## Volume I — Origins, Structure, Leadership, and Evolution

@@ -2,6 +2,18 @@
 
 **WinterGate Intelligence Collective**
 **Status: ACTIVE** - **2026-09-17**
+**Archive organization:** v2 — **2026-11-19**
+**Public release:** **6 GB** — see `01_ARCHIVE_RELEASE/`
+
+> **Start here:** [`00_READ_FIRST/START_HERE.md`](00_READ_FIRST/START_HERE.md)
+> **Accuracy first:** [`00_READ_FIRST/CLAIM_LEDGER.md`](00_READ_FIRST/CLAIM_LEDGER.md)
+> **What changed:** [`00_READ_FIRST/CHANGELOG.md`](00_READ_FIRST/CHANGELOG.md)
+
+**Confidence note:** this archive contains WIC analysis, community documentation,
+donated leads, and independent sources. They are not the same kind of evidence.
+UTTP itself is not a designated terrorist entity in the sources reviewed; Canada
+designated **764** (2025) and New Zealand designated **O9A** (2025). Read the
+claim ledger before repeating an allegation as fact.
 
 ---
 
@@ -11,9 +23,9 @@
 
 # 📢 UTTP ARCHIVE — 6 GB RELEASED
 
-The first public release of the UTTP evidence archive is live.
+The 6 GB public release of the UTTP evidence archive is live.
 
-6 GB of the 10 GB total. Remaining 4 GB held back for a technical fix (data salvaged).
+**6 GB public archive.** The older “10 GB total / 4 GB remaining” wording is superseded; see the claim ledger.
 
 **Download**:
 - https://mega.nz/file/L84gDCZZ#WLPuLSFsPJenbGwJHoxk-yOgtIoCKm0__XtT-RJYZXw
@@ -65,7 +77,7 @@ All content is legal, publicly accessible, and free for exploration and discover
 
 ## PURPOSE
 
-UTTP is a decentralized harassment network that has operated across YouTube, Discord, X, and other platforms for years. It is linked to offshoot groups, aligned networks, and parent entities engaged in coordinated abuse, extortion, and exploitation.
+WIC assesses UTTP as a decentralised harassment network that has operated across YouTube, Discord, X, and other platforms for years. It has documented/lead links to offshoot groups, aligned networks, and parent entities; the strength of each link varies and is tracked in the claim ledger.
 
 This archive exists to:
 
@@ -78,13 +90,36 @@ The goal is accountability through documentation. Nothing more.
 
 ---
 
+## ARCHIVE NAVIGATION
+
+| Folder | What it contains |
+| --- | --- |
+| [`00_READ_FIRST/`](00_READ_FIRST/) | Start here, claim ledger, timeline, entity map, data dictionary, manifest. |
+| [`01_ARCHIVE_RELEASE/`](01_ARCHIVE_RELEASE/) | 6 GB release notice and download pointer. |
+| [`02_CORE_INVESTIGATION/`](02_CORE_INVESTIGATION/) | Historical dossiers, tactics, observations, members list, defenders. |
+| [`03_AFFILIATIONS/`](03_AFFILIATIONS/) | Documented/lead affiliations and adjacent networks. |
+| [`04_OFFSHOOTS/`](04_OFFSHOOTS/) | DPOS, 11th Street, and successor/splinter material. |
+| [`05_PARENT_ENTITIES/`](05_PARENT_ENTITIES/) | Parent/predecessor context, including 09A Cult. |
+| [`06_COMMUNITY_NOTES/`](06_COMMUNITY_NOTES/) | Endorsements, petitions, community context. |
+| [`07_DONATED_DOCUMENTS/`](07_DONATED_DOCUMENTS/) | Donated notes, links, and supplementary intelligence. |
+| [`08_DTAD_2025/`](08_DTAD_2025/) | DTAD 2025 server/user exports. |
+| [`09_STYXNET_REPORTS/`](09_STYXNET_REPORTS/) | StyxNet exports and recon reports. |
+| [`10_SOURCES/`](10_SOURCES/) | Source indexes and law-enforcement/academic maps. |
+| [`11_RESEARCH_EXPANSION/`](11_RESEARCH_EXPANSION/) | 2026 landscape expansion, source ledger, FPE correction, verification queue. |
+
+No original file was deleted in the 2026-11-19 pass. See
+[`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and
+[`00_READ_FIRST/MANIFEST.csv`](00_READ_FIRST/MANIFEST.csv) for file hashes.
+
+---
+
 ## DOCUMENTATION STANDARDS
 
 Every entry in this archive is held to the following standards:
 
 - **Verifiable claims only** — every assertion must have a linked, publicly accessible source
 - **No unverified accusations** — allegations are labeled "alleged" unless corroborated by evidence or acknowledgment
-- **No private individuals** — only public-facing handles and group identities are documented
+- **No new private individuals** — this pass adds group-level analysis; historical captures may contain public-facing handles/IDs and are not an invitation to contact or expose anyone
 - **Evidence with timestamps** — screenshots include capture dates and archived links where possible
 - **Separation of verified and unverified** — clear distinction between "Verified" and "Alleged" sections
 - **No doxing** — no home addresses, employers, family details, or private identifiers
@@ -112,12 +147,14 @@ The scope is intentionally narrow. This is not a general-purpose repository for 
 
 All sources undergo manual review by WIC staff before publication.
 
-Restricted content, where it exists, is subject to WIC's data handling policy and is not published publicly. Public content is limited to material that is:
+Restricted content, where it exists, is subject to WIC's data handling policy. Public content is intended to be:
 
-- Open source
-- Legally obtainable
-- Free of private individual identifiers
+- Open source or donated with provenance
+- Lawfully obtainable
 - Relevant to the investigation
+- Free of *newly added* private identifiers
+
+Historical captures may contain public-facing handles or IDs. Their presence is not consent to contact, expose, or target anyone.
 
 No illegal content is hosted here. No hacked material is published. No private data is exposed.
 
@@ -139,6 +176,22 @@ WIC supports the work of law enforcement. This archive exists to make their job 
 
 ---
 
+## ACCURACY AND SOURCE SEPARATION
+
+- **WIC analysis** is labelled as WIC analysis.
+- **Community documentation** (wikis, directories, donated notes) is a lead, not
+  a court finding.
+- **Independent sources** (government, law enforcement, academic, journalism) are
+  linked in `11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md`.
+- **Allegations** are labelled `alleged`/single-source where not corroborated.
+- **Outdated wording** (including “10 GB total / 4 GB remaining” and “UTTP is a
+  terrorist entity”) is corrected in `00_READ_FIRST/CLAIM_LEDGER.md`; old files
+  are preserved for provenance, not reprinted as current fact.
+- **No private data is added by this archive pass.** Historical identifiers in
+  old captures are not an invitation to contact or expose anyone.
+
+---
+
 ## CONTRIBUTIONS
 
 Donated documentation is accepted on a case-by-case basis. Submissions must meet the documentation standards above. Sources are reviewed manually before any content is published.
@@ -149,13 +202,15 @@ Contributors are not asked to take risks. No one is asked to infiltrate, entrap,
 
 ## LEGAL
 
-All content in this repository is:
+To the best of WIC's knowledge, content in this repository is:
 
-- Open Source Intelligence (OSINT)
-- Publicly accessible at the time of collection
+- Open Source Intelligence (OSINT), donated documentation, or WIC analysis
+- Publicly accessible or donated with provenance at the time of collection
 - Documented for research, journalistic, and accountability purposes
 
-No content is obtained through unauthorized access, hacking, or breach of confidentiality.
+Some material is graphic or NSFW; read the content warning. “Legal” is jurisdiction-dependent; do not assume reuse is permitted.
+
+WIC does not intentionally publish material obtained through unauthorised access, hacking, or breach of confidentiality. If you believe a file is present in error, open an issue for review.
 
 WIC does not publish unverified claims against private individuals. Any individual who believes content in this archive is inaccurate may contact WIC directly for review.
 

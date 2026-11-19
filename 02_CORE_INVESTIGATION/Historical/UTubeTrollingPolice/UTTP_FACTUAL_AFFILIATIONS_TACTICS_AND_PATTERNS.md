@@ -1,5 +1,8 @@
 # UTTP: FACTUAL DOCUMENTATION OF AFFILIATIONS, TACTICS, AND PATTERNS
 
+> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+
+
 **Compiled:** 2026-09-23
 **Source:** WinterGate Intelligence Collective
 **Classification:** Public — OSINT

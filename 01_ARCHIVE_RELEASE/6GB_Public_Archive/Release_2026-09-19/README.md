@@ -1,7 +1,7 @@
 # UTTP ARCHIVE — OFFICIAL RELEASE
 
 **Release Date:** 2026-09-19
-**Size:** 6 GB (of 10 GB total)
+**Size:** 6 GB public archive
 **Status:** Released
 
 ---
@@ -14,13 +14,11 @@ https://mega.nz/file/L84gDCZZ#WLPuLSFsPJenbGwJHoxk-yOgtIoCKm0__XtT-RJYZXw
 
 ## ABOUT
 
-The 6 GB UTTP evidence archive has been released. The remaining 4 GB is held back pending a technical fix and was salvaged.
+The 6 GB UTTP evidence archive has been released. This notice does not claim a 10 GB total; the older “10 GB / 4 GB remaining” wording is superseded.
 
-Compiled from open source intelligence and donated documentation. No unauthorized access. No doxing. No private individuals. Public record only.
+Compiled from open source intelligence and donated documentation. No unauthorized access. No doxing. Public record only. Historical identifiers in captures are not an invitation to contact or expose anyone.
 
 Built for accountability through documentation, not retaliation. Intended for journalists, researchers, platforms, and law enforcement.
-
-4 GB release to follow.
 
 ---
 

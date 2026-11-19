@@ -1,5 +1,8 @@
 # UTTP INVESTIGATION — STATUS UPDATE
 
+> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+
+
 **Document ID:** WIC-DOSSIER-2026-0921-UTTP-06
 **Date:** 2026-09-21
 **Status:** Active — First Public Response Received
