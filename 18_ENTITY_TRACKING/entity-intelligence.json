@@ -445,7 +445,7 @@
         "UTTP",
         "764",
         "O9A",
-        "Spawnism",
+        "SPAWNISM",
         "FPE"
       ],
       "tactics": [
@@ -517,7 +517,7 @@
         "UTTP",
         "DPOS",
         "O9A",
-        "HarmNation"
+        "HARMNATION"
       ],
       "tactics": [
         "sextortion",
@@ -5037,11 +5037,11 @@
         "reason": "size_mismatch"
       },
       {
-        "path": "20_LIVE_MONITORING/run_pipeline.sh",
+        "path": "19_STRICT_VALIDATION/strict_validate.py",
         "reason": "size_mismatch"
       },
       {
-        "path": "20_LIVE_MONITORING/sync_tel_intake.py",
+        "path": "20_LIVE_MONITORING/run_pipeline.sh",
         "reason": "size_mismatch"
       }
     ],
@@ -5058,7 +5058,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-19T03:39:36Z",
+    "updated": "2026-11-19T03:43:24Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -5066,7 +5066,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5107,
+        "elapsed_ms": 5100,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -5076,7 +5076,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 119,
+        "elapsed_ms": 74,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -5085,7 +5085,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 859,
+        "elapsed_ms": 825,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -5094,7 +5094,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 134,
+        "elapsed_ms": 146,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -5103,7 +5103,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 445,
+        "elapsed_ms": 436,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -5112,7 +5112,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 426,
+        "elapsed_ms": 280,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -5121,7 +5121,7 @@
         "status": 403,
         "final_url": "https://soyjakwiki.org/UTTP",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 89,
+        "elapsed_ms": 88,
         "ok": false,
         "source_id": "S023",
         "url": "https://soyjakwiki.org/UTTP"
@@ -5130,7 +5130,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 110,
+        "elapsed_ms": 123,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -5139,7 +5139,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 680,
+        "elapsed_ms": 604,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -5148,7 +5148,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 458,
+        "elapsed_ms": 539,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -5157,7 +5157,7 @@
     "tel_records": 31
   },
   "tel_intake": {
-    "updated": "2026-11-19T03:39:37Z",
+    "updated": "2026-11-19T03:43:24Z",
     "count": 0,
     "entries": []
   },
@@ -5281,7 +5281,7 @@
       "unclear_rows": 73
     },
     "archive": {
-      "manifest_files": 630,
+      "manifest_files": 631,
       "public_release_gb": 6,
       "entity_count": 28,
       "source_count": 91,
@@ -5293,7 +5293,7 @@
       "unique_tactics": 49
     },
     "monitor_feed": {
-      "updated": "2026-11-19T03:39:36Z",
+      "updated": "2026-11-19T03:43:24Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -5301,7 +5301,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5107,
+          "elapsed_ms": 5100,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -5311,7 +5311,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 119,
+          "elapsed_ms": 74,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -5320,7 +5320,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 859,
+          "elapsed_ms": 825,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -5329,7 +5329,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 134,
+          "elapsed_ms": 146,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -5338,7 +5338,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 445,
+          "elapsed_ms": 436,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -5347,7 +5347,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 426,
+          "elapsed_ms": 280,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -5356,7 +5356,7 @@
           "status": 403,
           "final_url": "https://soyjakwiki.org/UTTP",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 89,
+          "elapsed_ms": 88,
           "ok": false,
           "source_id": "S023",
           "url": "https://soyjakwiki.org/UTTP"
@@ -5365,7 +5365,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 110,
+          "elapsed_ms": 123,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -5374,7 +5374,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 680,
+          "elapsed_ms": 604,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -5383,7 +5383,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 458,
+          "elapsed_ms": 539,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -5405,7 +5405,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-19T03:39:37Z",
+      "last_refresh": "2026-11-19T03:43:24Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",

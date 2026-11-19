@@ -35,11 +35,11 @@
       "reason": "size_mismatch"
     },
     {
-      "path": "20_LIVE_MONITORING/run_pipeline.sh",
+      "path": "19_STRICT_VALIDATION/strict_validate.py",
       "reason": "size_mismatch"
     },
     {
-      "path": "20_LIVE_MONITORING/sync_tel_intake.py",
+      "path": "20_LIVE_MONITORING/run_pipeline.sh",
       "reason": "size_mismatch"
     }
   ],

@@ -10,4 +10,5 @@ cd /var/tmp/opencode/O9A-work
 /usr/bin/python3 20_LIVE_MONITORING/sync_tel_intake.py >/var/tmp/opencode/sync-tel-intake.log 2>&1
 /usr/bin/python3 18_ENTITY_TRACKING/build_entity_intelligence.py >/var/tmp/opencode/build-json.log 2>&1
 /usr/bin/python3 /var/tmp/opencode/entity-work/build_page.py >/var/tmp/opencode/build-page.log 2>&1
+/usr/bin/python3 20_LIVE_MONITORING/cold_storage.py >/var/tmp/opencode/cold-storage.log 2>&1
 /usr/bin/python3 /var/tmp/opencode/O9A-work/20_LIVE_MONITORING/update_manifest.py >/var/tmp/opencode/update-manifest.log 2>&1

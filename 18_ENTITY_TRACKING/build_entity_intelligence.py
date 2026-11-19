@@ -125,14 +125,14 @@ entities = [
    {"date":"2026","event":"RDFPARTY splinter reported","confidence":"D"}],
   "sources":["S023"],"not_supported":["RDF is independently verified"],"learning":{"stage":"revival","risk_score":0.48,"next_likely":"fragmentation or decline","basis":"revival, splinter, community reporting"}},
  {
-  "id":"DPOS","name":"Degeneracy Police Order State (DPOS)","type":"hardcore UTTP offshoot","status":"active/reforming","confidence":"C/D","summary":"Structured, police-state-themed Discord network with Empire/Task Force/ISA HQ/log units. Bridges UTTP raid culture to 764/Com-style grooming, blackmail, and shock content. Not a 764 unit and no merger is established.","origin":"mid-2023","current_state":"Rotating micro-servers and rebrand attempts reported; no independent census.","watch_priority":"high","related":["UTTP","764","O9A","Spawnism","FPE"],"tactics":["raids","doxxing/swat threats","mass reporting","shock/gore spam","blackmail/extortion allegations","grooming/self-harm coercion allegations","platform migration"],"areas":["Discord","X","Telegram","Roblox","Fandom spaces"],"evolution":[
+  "id":"DPOS","name":"Degeneracy Police Order State (DPOS)","type":"hardcore UTTP offshoot","status":"active/reforming","confidence":"C/D","summary":"Structured, police-state-themed Discord network with Empire/Task Force/ISA HQ/log units. Bridges UTTP raid culture to 764/Com-style grooming, blackmail, and shock content. Not a 764 unit and no merger is established.","origin":"mid-2023","current_state":"Rotating micro-servers and rebrand attempts reported; no independent census.","watch_priority":"high","related":["UTTP","764","O9A","SPAWNISM","FPE"],"tactics":["raids","doxxing/swat threats","mass reporting","shock/gore spam","blackmail/extortion allegations","grooming/self-harm coercion allegations","platform migration"],"areas":["Discord","X","Telegram","Roblox","Fandom spaces"],"evolution":[
    {"date":"2023","event":"DPOS emerges as hardcore UTTP offshoot","confidence":"C/D"},
    {"date":"2024-2025","event":"Escalation into doxxing, swatting threats, shock spam, grooming/blackmail allegations","confidence":"A/S/D"},
    {"date":"2025","event":"Public exposure campaigns; server disruptions","confidence":"D/S"},
    {"date":"2026","event":"Rotating micro-servers and rebrand attempts reported","confidence":"A/S/D"}],
   "sources":["S027","S023"],"not_supported":["DPOS is a 764 unit","764 commands DPOS","DPOS is a real police/state","1,750+ linked accounts verified"],"learning":{"stage":"bridge node","risk_score":0.78,"next_likely":"continued rebranding and migration","basis":"structured server model, 764 tactical overlap, platform pressure"}},
  {
-  "id":"764","name":"764","type":"designated NVE network","status":"designated (Canada)","confidence":"E","summary":"Decentralised nihilistic violent extremist network in the Com ecosystem. Designated in Canada (2025). Tactical overlap with UTTP/DPOS; not a UTTP command.","origin":"2021, from the Com network","current_state":"Designated, decentralised, with cells/offshoots.","watch_priority":"high","related":["UTTP","DPOS","O9A","HarmNation"],"tactics":["sextortion","CSAM production","animal abuse","self-harm coercion","swatting","grooming"],"areas":["Discord","Telegram","gaming platforms","social media"],"evolution":[
+  "id":"764","name":"764","type":"designated NVE network","status":"designated (Canada)","confidence":"E","summary":"Decentralised nihilistic violent extremist network in the Com ecosystem. Designated in Canada (2025). Tactical overlap with UTTP/DPOS; not a UTTP command.","origin":"2021, from the Com network","current_state":"Designated, decentralised, with cells/offshoots.","watch_priority":"high","related":["UTTP","DPOS","O9A","HARMNATION"],"tactics":["sextortion","CSAM production","animal abuse","self-harm coercion","swatting","grooming"],"areas":["Discord","Telegram","gaming platforms","social media"],"evolution":[
    {"date":"2021","event":"764 emerges from the Com network","confidence":"C"},
    {"date":"2023-2025","event":"Arrests, prosecutions, and designations","confidence":"E"},
    {"date":"2025-12-10","event":"Canada designates 764 (SOR/2025-263)","confidence":"E"}],
@@ -319,25 +319,33 @@ for i, src in enumerate(source_index, 1):
         "confidence": conf_map.get(src.get('type',''), 'D'),
     })
 
+manifest_rows = len(read_csv(ROOT / '00_READ_FIRST' / 'MANIFEST.csv'))
+styx_summary_path = ROOT / '09_STYXNET_REPORTS' / 'validation' / 'styxnet_validation_summary.json'
+styx_summary = json.loads(styx_summary_path.read_text(encoding='utf-8')) if styx_summary_path.exists() else {}
+styx_path = ROOT / '09_STYXNET_REPORTS' / 'styxnet_UTTP_csv_1789803261.csv'
+styx_rows = read_csv(styx_path) if styx_path.exists() else []
+search_types = styx_summary.get('search_types', {})
+row_classes = styx_summary.get('row_classes', {})
+
 monitor = {
  "updated": "2026-11-19",
  "styxnet": {
-  "raw_rows": 823,
-  "exact_rows": 761,
-  "similarity_rows": 62,
-  "unique_platform_labels": 760,
-  "unique_handle_values": 54,
-  "platform_variants": 47,
-  "platform_normalized_keys": 37,
-  "candidate_handles": strict_summary.get('candidate_handles', 15),
+  "raw_rows": len(styx_rows) or styx_summary.get('raw_rows', 0),
+  "exact_rows": search_types.get('exact', 0),
+  "similarity_rows": search_types.get('similarity', 0),
+  "unique_platform_labels": len({r['platform'] for r in styx_rows}),
+  "unique_handle_values": styx_summary.get('unique_handles', 0),
+  "platform_variants": styx_summary.get('platform_variants', 0),
+  "platform_normalized_keys": styx_summary.get('platform_normalized_keys', 0),
+  "candidate_handles": strict_summary.get('candidate_handles', len({r.get('aliases') or r.get('similar_username') for r in styx_rows})),
   "ownership_verified": strict_summary.get('ownership_verified', 0),
-  "profile_path_unverified": 580,
-  "search_or_query_pages": 48,
-  "error_or_gated_pages": 108,
-  "unclear_rows": 73,
+  "profile_path_unverified": row_classes.get('profile_path_unverified', 0),
+  "search_or_query_pages": row_classes.get('search_or_query_page', 0),
+  "error_or_gated_pages": row_classes.get('error_or_gated_page', 0),
+  "unclear_rows": row_classes.get('unclear', 0),
  },
  "archive": {
-  "manifest_files": 630,
+  "manifest_files": manifest_rows,
   "public_release_gb": 6,
   "entity_count": len(entities),
   "source_count": len(sources),
