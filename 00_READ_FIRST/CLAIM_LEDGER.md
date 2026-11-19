@@ -187,7 +187,7 @@ Legend:
 | --- | --- | --- | --- |
 | 6 GB public release | E (release notice) | Archive release README, WIC statement | Public release is 6 GB. |
 | “10 GB total / 4 GB remaining” | X | Older wording | Superseded. Do not repeat. |
-| 534 original tracked files preserved; manifest currently lists 596 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
+| 534 original tracked files preserved; manifest currently lists 595 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
 | Every original file preserved in reorg | E | Git rename history + manifest | No content deletion in the 2026-11-19 pass; paths changed. |
 | Archive is a “target list” | X | Archive scope and policy | It explicitly is not. |
 
@@ -229,13 +229,13 @@ citing a StyxNet handle.
 
 | Claim | Confidence | Basis | Note |
 | --- | --- | --- | --- |
-| DPOS is a hardcore UTTP offshoot/splinter | C/D | WIC/NoTrac3/community lineage; UTTP splinter context | Not a proven current command chain. |
-| DPOS and 764 overlap in grooming/blackmail/self-harm/shock tactics | C/A | WIC/NoTrac3/community; UTTP/764 ecosystem analysis | Overlap is not identity or command. |
+| DPOS is a hardcore UTTP offshoot/splinter | C/D | WIC/third-party/community lineage; UTTP splinter context | Not a proven current command chain. |
+| DPOS and 764 overlap in grooming/blackmail/self-harm/shock tactics | C/A | WIC/third-party/community; UTTP/764 ecosystem analysis | Overlap is not identity or command. |
 | DPOS is a 764 unit or merged with 764 | X | No command/merger/tasking record located | Do not assert. |
 | DPOS is a designated terrorist entity | X | No designation located | 764/O9A are designated, not DPOS. |
 | DPOS is a 764-derived network — 100% confirmed | X/A | WIC overclaim; overlap only | See 16_VALIDATED_FALSE_CLAIMS/. |
 | DPOS is a documented federal target | S/X | No primary federal case/indictment located | Do not assert. |
-| “1,750+ linked accounts” | D/S | NoTrac3/DTAD claim; method unpublished | Unverified count. |
+| “1,750+ linked accounts” | D/S | third-party/DTAD claim; method unpublished | Unverified count. |
 | DPOS server structure: 53 channel snapshots, ~3,205 messages | E | Direct observation of exported Discord JSON | Structure only; not current membership. |
 
 See `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md`.

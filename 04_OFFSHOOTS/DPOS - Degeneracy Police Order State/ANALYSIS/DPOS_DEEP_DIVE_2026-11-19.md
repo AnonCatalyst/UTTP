@@ -156,7 +156,7 @@ users toward exploitation.
 | DPOS | FPE | Target/incursion ecosystem | A/S | FPE harassment/doxxing allegations; WIC/community record |
 | DPOS | TNM/148/GRS/Enclave | Individual crossover | A/D | Members rotate between adjacent spaces |
 | DPOS | GateKeeper | Blacklist/defence target | E | WIC tooling names DPOS actors as a threat category; not an affiliation |
-| DPOS | NoTrac3 | Research source | D | NoTrac3 documented DPOS; not an ally |
+| DPOS | Third-party OSINT | Research source | D | A third-party OSINT group documented DPOS; not an ally |
 
 ### 7.1 UTTP
 
@@ -197,7 +197,7 @@ crews. These are **personnel/ecology links**, not proof of a unified front.
 ### 7.7 Defenders
 
 GateKeeper and community defenders track/blacklist DPOS actors. That is a
-**defence relationship**, not an affiliation. NoTrac3 is a research source, not a
+**defence relationship**, not an affiliation. A third-party OSINT group is a research source, not a
 partner or member.
 
 ---
@@ -206,7 +206,7 @@ partner or member.
 
 - The public archive contains DPOS server captures from **2025**, not a live
   census.
-- WIC/NoTrac3 reporting describes **rotating micro-servers, bans, and rebrands**
+- WIC/third-party reporting describes **rotating micro-servers, bans, and rebrands**
   in late 2025/early 2026. **A/S/D**
 - No independent measurement of current membership or activity was located.
 - DPOS is **not a designated entity** in the sources reviewed.
@@ -224,7 +224,7 @@ command.
 | --- | --- | --- |
 | “DPOS is a 764-derived network — 100% confirmed” | X | Overlap is supported; derivation/command is not |
 | “DPOS is a documented federal target” | S/X | No primary federal case document located |
-| “1,750+ linked accounts” | D/S | NoTrac3/DTAD claim; not independently verified |
+| “1,750+ linked accounts” | D/S | third-party/DTAD claim; not independently verified |
 | “The DPOS lead is 90% likely a 764 member” | A/S | Behavioural overlap is not membership proof |
 | “DPOS is a 764 unit / 764 commands DPOS” | X | No command evidence; both are decentralised |
 | “DPOS is a real state/police force” | X | It is a Discord role-play brand |
@@ -247,7 +247,7 @@ Quarantine and approved replacements are in
 **Archive/WIC analysis (A/S):**
 
 - WIC DPOS bulletins (January 2026);
-- NoTrac3 briefs (October/November 2025);
+- Third-party briefs (October/November 2025);
 - donated victim/community report;
 - server/UID lists (not reproduced here).
 
@@ -260,7 +260,7 @@ Quarantine and approved replacements are in
 **Limits:**
 
 - No live access, no independent census, no court records specific to DPOS.
-- WIC/NoTrac3 material contains overclaims and unverified personal data; this
+- WIC/third-party material contains overclaims and unverified personal data; this
   dossier uses only group-level, sourced findings.
 - Channel names are not proof of operations.
 - Do not publish private identifiers, victim data, or graphic content.

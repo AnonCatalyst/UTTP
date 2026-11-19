@@ -5,12 +5,12 @@
 - Added `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/README.md` and
   `ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md`.
 - Added `ANALYSIS/DPOS_CONNECTIONS.csv` connecting DPOS to UTTP, 764, O9A,
-  Spawnism, FPE, TNM/148/GRS/Enclave, GateKeeper, and NoTrac3.
+  Spawnism, FPE, TNM/148/GRS/Enclave, GateKeeper, and third-party OSINT.
 - Finding: DPOS is a **hardcore UTTP offshoot** and a structured
   police-state-themed bridge to 764/Com; 764 overlap is supported, but no
   764 unit/command/merger is established.
 - Added DPOS claims to the validated/false-claims registers and corrected
-  WIC/NoTrac3 overclaims in place with validation notes.
+  WIC/third-party overclaims in place with validation notes.
 - Updated entity map, tracking register/board, UTTP profile, and navigation.
 
 ## 2026-11-19 — Validated claims / false-claims quarantine

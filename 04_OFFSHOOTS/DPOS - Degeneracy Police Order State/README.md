@@ -10,7 +10,7 @@
 
 Material on **DPOS (Degeneracy Police Order State)**, a hardcore UTTP offshoot /
 splinter and a bridge node into the 764/Com ecosystem. The folder contains raw
-captures, donated documents, Discord exports, and WIC/NoTrac3 analysis.
+captures, donated documents, Discord exports, and WIC/third-party analysis.
 
 ## Read first
 
@@ -30,7 +30,7 @@ chain.
 
 - The archive contains **53 Discord channel snapshots** and ~3,205 messages from
   February–June 2025. These establish observed structure, not current membership.
-- WIC and NoTrac3 material is **A/S/D**; it contains overclaims and unverified
+- WIC and third-party material is **A/S/D**; it contains overclaims and unverified
   personal data. Use the deep dive’s graded findings.
 - No independent institutional report specifically on DPOS was located.
 - DPOS is **not a designated entity** in the sources reviewed.
@@ -47,7 +47,7 @@ graphic content, victim data, or private identifiers.
 
 ## Related folders
 
-- [`02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/`](../../02_CORE_INVESTIGATION/Historical/Degeneracy%20Police%20Order%20State/) — earlier NoTrac3/WIC briefs.
+- [`02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/`](../../02_CORE_INVESTIGATION/Historical/Degeneracy%20Police%20Order%20State/) — earlier external OSINT/WIC briefs.
 - [`13_UTTP_764_OVERLAP/`](../../13_UTTP_764_OVERLAP/) — UTTP/764 overlap analysis.
 - [`14_O9A_764_TRACE/`](../../14_O9A_764_TRACE/) — O9A context.
 - [`16_VALIDATED_FALSE_CLAIMS/`](../../16_VALIDATED_FALSE_CLAIMS/) — quarantined overclaims, including DPOS “764-derived 100%” language.
