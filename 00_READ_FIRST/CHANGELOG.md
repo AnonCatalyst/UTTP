@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-19 — Entity intelligence page and generator
+
+- Added `18_ENTITY_TRACKING/` with `entity-intelligence.json`,
+  `build_entity_intelligence.py`, and `README.md`.
+- Added public page `/entities.html`, linked from `portal.html`.
+- The page renders 30 group-level entities, 40 sources, 200 area rows, claims,
+  watchlists, evolution timelines, and a rule-based learning model.
+- No usernames, account IDs, invite links, victim data, or private identifiers.
+- The generator rebuilds the JSON from archive registers.
+
 ## 2026-11-19 — Current-state / handoff package v1.0
 
 - Added `17_CURRENT_STATE_PACKAGE/` with a short current-state assessment,

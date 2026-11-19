@@ -191,6 +191,14 @@ Short, separate handoff product for platforms, researchers, and authorities:
 - `OFFSHOOT_WATCHLIST.csv` — 2026 offshoot/campaign watchlist.
 - `METRICS.md` — how to measure pressure and success.
 
+## 18_ENTITY_TRACKING
+
+Group-level entity intelligence data and generator:
+
+- `README.md` — scope and safety boundary.
+- `entity-intelligence.json` — entities, areas, sources, claims, watchlist, evolution model.
+- `build_entity_intelligence.py` — rebuilds the JSON from archive registers.
+
 ## Root files
 
 - `README.md` — public front page and warnings.
