@@ -180,6 +180,17 @@ Quarantine for false/superseded claims removed from analysis documents:
 - `FALSE_CLAIMS.csv` — machine-readable register.
 - `QUARANTINE.md` — grouped rejected claims and approved replacements.
 
+## 17_CURRENT_STATE_PACKAGE
+
+Short, separate handoff product for platforms, researchers, and authorities:
+
+- `README.md` — scope and headline.
+- `UTTP_CURRENT_STATE_2026-11-19.md` — 2–5 page current-state assessment.
+- `HANDOFF_BRIEF.md` — platform/authority priorities.
+- `EVIDENCE_PACK.md` — key claims and limits.
+- `OFFSHOOT_WATCHLIST.csv` — 2026 offshoot/campaign watchlist.
+- `METRICS.md` — how to measure pressure and success.
+
 ## Root files
 
 - `README.md` — public front page and warnings.

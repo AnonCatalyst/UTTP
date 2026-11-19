@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-11-19 — Current-state / handoff package v1.0
+
+- Added `17_CURRENT_STATE_PACKAGE/` with a short current-state assessment,
+  platform/authority handoff brief, evidence pack, 2026 offshoot watchlist, and
+  metrics.
+- This is a separate product from the archive setup release v3.
+- No usernames, account IDs, invite links, or private identifiers are included.
+
 ## 2026-11-19 — Archive release v3 (current setup)
 
 - Added `00_READ_FIRST/RELEASE_NOTES_ARCHIVE_V3_2026-11-19.md`.

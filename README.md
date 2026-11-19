@@ -113,6 +113,7 @@ The goal is accountability through documentation. Nothing more.
 | [`14_O9A_764_TRACE/`](14_O9A_764_TRACE/) | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
 | [`15_VALIDATED_CLAIMS/`](15_VALIDATED_CLAIMS/) | Claims that survived source review, with confidence labels. |
 | [`16_VALIDATED_FALSE_CLAIMS/`](16_VALIDATED_FALSE_CLAIMS/) | Quarantined false/superseded claims and approved replacements. |
+| [`17_CURRENT_STATE_PACKAGE/`](17_CURRENT_STATE_PACKAGE/) | Short current-state assessment and platform/authority handoff package. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

@@ -52,7 +52,8 @@ ledger separates:
 11. [14_O9A_764_TRACE/README.md](../14_O9A_764_TRACE/README.md) — sourced 764→O9A trace and O9A profile.
 12. [15_VALIDATED_CLAIMS/README.md](../15_VALIDATED_CLAIMS/README.md) — approved claims and confidence.
 13. [16_VALIDATED_FALSE_CLAIMS/README.md](../16_VALIDATED_FALSE_CLAIMS/README.md) — quarantined false claims and replacements.
-14. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+14. [17_CURRENT_STATE_PACKAGE/README.md](../17_CURRENT_STATE_PACKAGE/README.md) — short current-state and handoff package.
+15. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 
