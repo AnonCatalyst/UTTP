@@ -109,7 +109,7 @@ The goal is accountability through documentation. Nothing more.
 | [`10_SOURCES/`](10_SOURCES/) | Source indexes and law-enforcement/academic maps. |
 | [`11_RESEARCH_EXPANSION/`](11_RESEARCH_EXPANSION/) | 2026 landscape expansion, source ledger, FPE correction, verification queue. |
 | [`12_TRACKING/`](12_TRACKING/) | Group-level UTTP tracking board, register, methods, collection plan, INBOX for new notes. |
-| [`13_UTTP_764_OVERLAP/`](13_UTTP_764_OVERLAP/) | Dedicated UTTP/764 profiles and tactic-overlap analysis. |
+| [`13_UTTP_764_OVERLAP/`](13_UTTP_764_OVERLAP/) | UTTP/764 profiles, tactic-overlap analysis, and the arm/infiltration/merger assessment. |
 | [`14_O9A_764_TRACE/`](14_O9A_764_TRACE/) | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
 
 No original file was deleted in the 2026-11-19 pass. See

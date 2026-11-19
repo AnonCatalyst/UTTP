@@ -92,6 +92,8 @@ recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
   corrected the NZ notice number to `2025-au7135`.
 - Added a StyxNet validation layer with a 47-variant platform-name blocklist
   and separated structural candidates from ownership-confirmed accounts.
+- Added a UTTP/764 final assessment: edge fusion is supported; operational-arm,
+  merger, and 764-specific infiltration claims are not established.
 - Kept every original file and every original folder's contents.
 
 ---

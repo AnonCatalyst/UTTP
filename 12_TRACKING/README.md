@@ -46,4 +46,5 @@ community assessment, not a census, and it does not mean the brand is gone.
 UTTP itself is **not** a designated terrorist entity in the sources reviewed.
 **764** (Canada, 2025) and **O9A/ONA** (New Zealand, 2025-12-07) are designated; NZ lists 764 as an O9A nexion, but nexions are operationally independent. UTTP's
 relationship to that ecosystem is an **assessment**, with independent analysis
-describing overlap.
+describing edge fusion/overlap; no merger or operational-arm relationship is
+established.

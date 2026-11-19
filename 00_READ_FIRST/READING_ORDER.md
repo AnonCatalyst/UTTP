@@ -28,7 +28,8 @@ Do not cite “the archive” as if it were a primary source. Cite the source in
 7. `VERIFICATION_QUEUE.md` — pick an open claim and verify it
 8. `12_TRACKING/TRACKING_BOARD.md` — group-level watch board
 9. `13_UTTP_764_OVERLAP/TACTIC_OVERLAP_MATRIX.md` — overlap evidence test
-10. `14_O9A_764_TRACE/764_TO_O9A_TRACE.md` — sourced 764→O9A trace and its limits
+10. `13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md` — arm vs infiltration vs merger/edge fusion
+11. `14_O9A_764_TRACE/764_TO_O9A_TRACE.md` — sourced 764→O9A trace and its limits
 
 ## If you are a platform trust-and-safety team
 

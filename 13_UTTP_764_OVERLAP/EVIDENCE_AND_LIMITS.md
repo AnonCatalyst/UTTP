@@ -21,8 +21,9 @@
    nexions are operationally independent. NZ designated O9A/ONA on 2025-12-07. **E**
 3. **UTTP has a long history of harassment, raids, doxxing threats, mass
    reporting, and platform migration.** **C**
-4. **UTTP and 764 overlap in tactic families and membership fluidity**, according
-   to independent analysis (Sparx) and the broader research record. **C**
+4. **UTTP and 764 overlap in tactic families, membership fluidity, and at least
+   one joint Doxbin dox**, according to independent analysis (Sparx) and the
+   broader research record. **C/A**
 5. **UTTP targets youth-heavy fandom/gaming spaces**, and 764 targets youth in
    gaming/Discord/Telegram spaces. **C**
 6. **Both use status-through-harm and cross-platform movement.** **C**
@@ -35,10 +36,16 @@
    cases require primary evidence.
 4. Shared manuals/training. **A/D**
 5. Offline violence direction from UTTP to 764. **A/D**
+6. UTTP was infiltrated by NVE/O9A-adjacent actors between 2019 and 2021. **C/A**
+7. UTTP and 764 have fused at the edges (membership, tactics, joint activity). **C/A**
+8. UTTP was specifically infiltrated by 764 as an organisation. **A/S, not established**
 
 ## 4. What is not supported
 
 - “UTTP is 764.”
+- “UTTP is an operational arm of 764.” No command/merger evidence.
+- “UTTP merged with 764.” No merger record located.
+- “764 infiltrated UTTP as an organisation.” Chronology and specificity do not support it.
 - “UTTP is a designated terrorist entity.”
 - “764 is a parent company of UTTP.”
 - “O9A commands 764.” The NZ statement says nexions are operationally independent.
@@ -53,6 +60,8 @@
 - Independent platform trust-and-safety data.
 - A second independent research institution repeating the overlap finding.
 - A government instrument naming UTTP itself (if one exists).
+- A merger announcement, charter, shared leadership roster, or 764 tasking records.
+- Court document naming UTTP as a 764 component or co-conspirator entity.
 
 ## 6. Ethical limits
 
@@ -64,9 +73,10 @@
 
 ## 7. Bottom line
 
-The evidence supports **overlap in tactics and membership ecology**. It does not
-support **identity, command, or designation**. The correct sentence is:
+The evidence supports **edge fusion: overlap in tactics, membership, and joint
+activity**. It does not support **identity, merger, operational-arm status, or
+designation**. The correct sentence is:
 
-> “UTTP is an NVE-adjacent network that overlaps with 764 in recruitment logic,
-> target ecology, status incentives, and cross-platform movement; 764 is the
-> designated entity, not UTTP.”
+> “UTTP is an NVE-adjacent network that has fused at the edges with the 764/Com
+> ecosystem in recruitment logic, target ecology, status incentives, joint
+> harassment, and cross-platform movement; 764 is the designated entity, not UTTP.”

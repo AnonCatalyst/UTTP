@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-11-19 — UTTP/764 arm, infiltration, and merger assessment
+
+- Added `13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md` testing the claims
+  that UTTP is an operational arm of 764, was infiltrated by 764, or merged with
+  764.
+- Finding: **edge fusion and membership overlap are supported; operational-arm,
+  merger, and 764-specific infiltration claims are not established.** 764 is
+  designated; UTTP is not.
+- Added Sparx, Bx Writes, DOJ, Soyjak Wiki, and community-claim sources with
+  confidence labels.
+- Updated the overlap analysis, evidence ledger, tracking snapshot/board, entity
+  map, timeline, and claim ledger.
+- No private data was added; no raw evidence was removed.
+
 ## 2026-11-19 — StyxNet accuracy pass
 
 - Added `09_STYXNET_REPORTS/validation/` with a reproducible validator, a

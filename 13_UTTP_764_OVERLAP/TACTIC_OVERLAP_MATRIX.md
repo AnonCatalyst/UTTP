@@ -23,14 +23,15 @@
 
 ## What the matrix supports
 
-**Supported at C level:**
+**Supported at C or C/A level:**
 
 - shared victim-selection logic (minors/vulnerable youth);
 - grooming/recruitment as a shared method (Sparx explicitly compares UTTP to 764);
 - shared use of youth fandoms/gaming spaces;
 - status-through-harm incentives;
 - fluid membership/cross-platform movement;
-- platform migration/ban evasion.
+- platform migration/ban evasion;
+- joint activity (Sparx documents a Doxbin dox involving UTTP and 764 members; **C/A**).
 
 **Supported at A/S/D only:**
 
@@ -42,6 +43,8 @@
 **Not supported:**
 
 - “UTTP is 764.”
+- “UTTP is an operational arm of 764.”
+- “UTTP merged with 764.”
 - “UTTP is a designated terrorist entity.”
 - “764 centrally commands UTTP.”
 - “Every UTTP faction is involved in 764 activity.”
@@ -58,5 +61,8 @@ Sparx Intelligence (2026-07-15) states:
 - “764 and the UTTP interlope in terms of membership”;
 - both are decentralised and members move across servers, forums, and platforms.
 
-That is **independent analytic support for overlap**, not a court finding and not
-proof of a command relationship.
+Bx Writes (2026-06-25) separately describes UTTP/Foodist groups as having
+“recently begun to fuse with parts of extortion Com, like the 764 network.”
+
+That is **independent analytic support for edge fusion/overlap**, not a court
+finding and not proof of a merger or command relationship.

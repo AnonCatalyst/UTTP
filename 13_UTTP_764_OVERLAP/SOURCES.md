@@ -24,8 +24,11 @@
 
 | Source | Date | Use |
 | --- | --- | --- |
-| [Sparx Intelligence — UTTP: trolling to violent extremism](https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism) | 2026-07-15 | Independent overlap/grooming/membership analysis |
-| [Soyjak Wiki — UTTP](https://soyjakwiki.org/UTTP) | 2026-11-18 | Community faction/current-state documentation |
+| [Sparx Intelligence — UTTP: trolling to violent extremism](https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism) | 2026-07-15 | Independent overlap/grooming/membership analysis; Doxbin joint activity |
+| [Bx Writes — Three Shootings in a Single Day](https://bxwrites.substack.com/p/three-shootings-in-a-single-day-linked) | 2026-06-25 | Independent reporting describing UTTP/Foodist fusion with 764/Com |
+| [U.S. DOJ — Cherkaoui complaint](https://www.justice.gov/usao-nj/media/1417486/dl?inline) | 2025-11 | Individual statements referencing UTTP and 764; not an organizational link |
+| [Soyjak Wiki — UTTP](https://soyjakwiki.org/UTTP) | 2026-11-18 | Community faction/current-state documentation; “intertwined” claim (D) |
+| [Reddit r/truths — UTTP criminal acts](https://www.reddit.com/r/truths/comments/1lyf5jz/the_uttp_has_members_that_have_committed_criminal/) | 2025-07-13 | Community claim of “official partnership” (D/S; unverified) |
 | [UTTP archive — historical/tactics](https://github.com/WinterGate-IC/UTTP) | 2026-11-19 | WIC archive |
 | `02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/UTTP_764_AFFILIATION_CROSS_COLLABORATION_EVIDENCE.md` | 2026 | WIC evidence compilation (A/S) |
 | `02_CORE_INVESTIGATION/Tactics/UTTP_AND_764_COMPLETE_TACTICAL_ANALYSIS_VOL1.md` | 2026-10-01 | WIC tactical analysis (A) |

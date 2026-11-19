@@ -124,7 +124,12 @@ Legend:
 | O9A is a designated terrorist entity in New Zealand | E | NZ Gazette 2025-au7135; NZ DPMC; NZ Police statement of case | Designated 2025-12-07; notice published 2025-12-10. |
 | 764 is listed as an O9A nexion in the NZ statement of case | E | NZ Police statement of case, para 20.5 | Nexions are operationally independent; this is not a command chain. |
 | 764 and O9A overlap in the same extremist ecosystem | C/E | NZ statement of case; GNET; CTC West Point; ISD | “Adjacent/nexion” is supported; “764 = O9A” and “O9A commands 764” are not. |
-| UTTP overlaps with 764/NVE networks | A/C | Sparx Intelligence (2026-07-15); WIC archive; community records | Sparx describes UTTP as an NVE network with overlap to 764/NLM/MMC. The specific recruitment pipeline is WIC/community assessment. |
+| UTTP overlaps with 764/NVE networks | A/C | Sparx Intelligence (2026-07-15); Bx Writes (2026-06-25); WIC archive | Sparx describes membership overlap; Bx describes UTTP/Foodist “fusion” with Com/764. |
+| UTTP and 764 have fused at the edges | C/A | Sparx; Bx Writes; Soyjak Wiki (D) | “Fusion” means shared members/tactics/joint activity, not merger. |
+| UTTP is an operational arm of 764 | X | No command/merger evidence located | 764 is decentralised; UTTP is decentralised. |
+| UTTP merged with 764 | X | No merger record located | Do not state as fact. |
+| 764 infiltrated UTTP as an organisation | A/S | Sparx describes 2019–2021 bad-actor infiltration; 764 emerged in 2021 | Chronology/specificity do not establish a 764 operation. |
+| UTTP was infiltrated by NVE/O9A-adjacent actors | C/A | Sparx | Supported at C/A; not a 764-specific finding. |
 | UTTP leadership deliberately recruited 764/Foodist members | A/S | WIC archive, GitHub Issue #1 commenter, community records | The commenter's account is a party admission/claim, not a court finding. Label as assessed/single-source. |
 | UTTP is itself a listed terrorist entity | X | No listing found for UTTP | Do not state this. |
 | “09A Cult” is O9A's headquarters or UTTP's parent | X | Archive label only; no primary source | “09A” is an alternate spelling; the folder is legacy context. |
@@ -178,7 +183,7 @@ Legend:
 | --- | --- | --- | --- |
 | 6 GB public release | E (release notice) | Archive release README, WIC statement | Public release is 6 GB. |
 | “10 GB total / 4 GB remaining” | X | Older wording | Superseded. Do not repeat. |
-| 534 original tracked files preserved; manifest currently lists 586 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
+| 534 original tracked files preserved; manifest currently lists 587 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
 | Every original file preserved in reorg | E | Git rename history + manifest | No content deletion in the 2026-11-19 pass; paths changed. |
 | Archive is a “target list” | X | Archive scope and policy | It explicitly is not. |
 

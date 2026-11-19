@@ -92,6 +92,10 @@ the 2026 split and bans, while splinters and adjacent networks continue. This is
 a **community assessment**, not a measured census. The brand remains reusable;
 the faction ecosystem is fragmented.
 
+**764 relationship (2026):** edge fusion/overlap, not merger. No evidence located
+that UTTP is an operational arm of 764; see
+[`FINAL_ASSESSMENT_2026-11-19.md`](FINAL_ASSESSMENT_2026-11-19.md).
+
 ---
 
 ## 7. Why it persists

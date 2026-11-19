@@ -24,6 +24,7 @@ court finding.
 | [RCMP — 764 peace bond](https://rcmp.ca/en/news/2026/02/youth-involved-terrorist-activities-764-network-placed-peace-bond-rcmp) | 2026-02 | Law enforcement | Canadian youth 764 case | E |
 | [US House Oversight — 764 investigation](https://oversight.house.gov/release/comer-and-higgins-investigate-violent-online-network-764/) | 2026 | Congressional | Congressional interest in 764 | E |
 | [UNO NCTE — Prosecuting NVE](https://www.unomaha.edu/ncite/news/2025/12/img/prosecuting-nve-report.pdf) | 2025-12 | Academic/CT | 764 prosecutions, FBI investigation volume, victim scale | C/E |
+| [DOJ — Cherkaoui complaint](https://www.justice.gov/usao-nj/media/1417486/dl?inline) | 2025-11 | Court complaint | Individual statements referencing UTTP and 764; not an organizational link | E |
 
 **Not established by these sources:** that UTTP itself is a designated entity;
 that “FBI Tier 1” is an official label; that every UTTP faction is 764.
@@ -49,6 +50,7 @@ that “FBI Tier 1” is an official label; that every UTTP faction is 764.
 | --- | --- | --- | --- |
 | [CBC — Canada lists 764](https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571) | 2025-12-10 | Confirmation of Canadian listing; O9A inspiration | C |
 | [From the Depths — Observations #2](https://www.maargentino.com/observations-from-the-depths-2-hes-making-his-listings-hes-checking-them-twice) | 2025-12-11 | Quotes NZ O9A statement of case on nexions | C/E |
+| [Bx Writes — Three Shootings in a Single Day](https://bxwrites.substack.com/p/three-shootings-in-a-single-day-linked) | 2026-06-25 | Independent reporting on UTTP/Foodist fusion with Com/764 | C/A |
 | [Global News — Canada lists four entities](https://globalnews.ca/news/11572033/canada-terrorist-list-764-online-extremism/) | 2025-12-10 | Confirmation and context | C |
 | [Radio-Canada — Canada first to list 764](https://ici.radio-canada.ca/rci/en/news/2213058/canada-becomes-1st-country-to-list-extremist-network-764-as-terrorists) | 2025-12-11 | Confirmation | C |
 | [NY Post — 764/NVE background](https://nypost.com/2023/09/28/an-inside-look-at-the-satanic-neo-nazi-pedophile-cult-that-ensnared-nyc-man-arrested-on-gun-charges/) | 2023 | Early mainstream coverage; not a primary record | C/D |

@@ -2,8 +2,8 @@
 
 ## 1. The finding
 
-The UTTP–764 relationship is best described as **ecosystem overlap**, not a single
-organisation:
+The UTTP–764 relationship is best described as **edge fusion and ecosystem overlap**,
+not a single organisation and not a merger:
 
 - **Shared target ecology:** youth-heavy fandoms, gaming, Discord/Telegram.
 - **Shared recruitment logic:** grooming/desensitisation, status through harm.
@@ -12,8 +12,15 @@ organisation:
   allegations, offline-violence risk.
 
 Independent analysis (Sparx, July 2026) explicitly describes overlap and fluid
-membership. WIC’s archive documents a recruitment/collaboration pipeline; those
+membership; Bx Writes (June 2026) describes UTTP/Foodist “fusion” with parts of
+Com/764. WIC’s archive documents a recruitment/collaboration pipeline; those
 specific claims remain **A/S** without primary records.
+
+> **Final assessment:** UTTP is **not a proven operational arm of 764**, and no
+> merger is established. The supported finding is **edge fusion**: overlapping
+> membership, shared tactics, joint harassment/doxing, and infiltration by
+> NVE/O9A-adjacent actors. See
+> [`FINAL_ASSESSMENT_2026-11-19.md`](FINAL_ASSESSMENT_2026-11-19.md).
 
 ## 2. Why it matters to defenders
 
@@ -63,5 +70,9 @@ not independent proof of a 764 command link.
 ## 7. Bottom line
 
 The overlap is real enough to matter for prevention and moderation. It is not a
-license to flatten UTTP and 764 into one entity, or to treat a community wiki as a
-court finding.
+license to flatten UTTP and 764 into one entity, to call UTTP an “operational arm”
+without command evidence, or to treat a community wiki as a court finding.
+
+**Correct formulation:** UTTP is an NVE-adjacent harassment network that has
+fused at the edges with the 764/Com ecosystem. It is not a proven arm of 764 and
+is not shown to have merged with 764.
