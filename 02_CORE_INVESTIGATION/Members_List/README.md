@@ -10,6 +10,7 @@ private identifiers.
 
 ## Read first
 
+- [`General_List_v2_Structured_2026-11-19.md`](General_List_v2_Structured_2026-11-19.md) — restructured General List with 2026 offshoots and separated patterns/handles.
 - [`EXPANDED/EXPANDED_MEMBERS_AND_GROUPS_2026-11-19.md`](EXPANDED/EXPANDED_MEMBERS_AND_GROUPS_2026-11-19.md) — expanded group register, DPOS units, public-handle index, and naming patterns.
 - [`EXPANDED/GROUP_REGISTER.csv`](EXPANDED/GROUP_REGISTER.csv) — machine-readable groups.
 - [`EXPANDED/PUBLIC_HANDLE_INDEX.csv`](EXPANDED/PUBLIC_HANDLE_INDEX.csv) — public handles only; confidence-labelled.

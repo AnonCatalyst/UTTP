@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-19 — Structured General List v2
+
+- Added `02_CORE_INVESTIGATION/Members_List/General_List_v2_Structured_2026-11-19.md`.
+- Separated actual public handles, naming-pattern families, core groups, 2026
+  offshoots/campaigns, and adjacent/target ecosystems.
+- Added latest reported offshoots/campaigns: Circusfall, OfficerSlappy/UTTP
+  Forum, AFR, Bn0r Empire, RDF/RDFPARTY, VGCP, AFF, Deltafall, Rockstarfall.
+- Expanded `GROUP_REGISTER.csv`, `PUBLIC_HANDLE_INDEX.csv` context, tracking
+  register, board, snapshot, and timeline.
+- Raw `General List.txt` preserved unchanged.
+
 ## 2026-11-19 — UTTP area intelligence register
 
 - Added `02_CORE_INVESTIGATION/AREA_INTELLIGENCE/` with a 200-row

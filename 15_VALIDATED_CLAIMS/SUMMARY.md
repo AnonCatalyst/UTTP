@@ -53,6 +53,13 @@
 - “764-derived 100%”, “documented federal target”, “1,750+ linked accounts”, and
   “UNIPOL Level 3” are **not validated**. See `16_VALIDATED_FALSE_CLAIMS/`.
 
+## UTTP 2026 offshoot layer
+
+- Circusfall, OfficerSlappy/UTTP Forum, AFR, Bn0r Empire, RDF/RDFPARTY, VGCP,
+  AFF, Deltafall, and Rockstarfall are **community-reported (D/S)**.
+- They are not independently verified and do not establish a unified command.
+- No independent census of current membership exists. **A/X**
+
 ## FPE
 
 - The FPE operation is **WIC’s self-authored record**, not independent proof of a

@@ -98,7 +98,7 @@ The goal is accountability through documentation. Nothing more.
 | --- | --- |
 | [`00_READ_FIRST/`](00_READ_FIRST/) | Start here, claim ledger, timeline, entity map, data dictionary, manifest. |
 | [`01_ARCHIVE_RELEASE/`](01_ARCHIVE_RELEASE/) | 6 GB release notice and download pointer. |
-| [`02_CORE_INVESTIGATION/`](02_CORE_INVESTIGATION/) | Historical dossiers, tactics, observations, expanded members/groups listings, defenders. |
+| [`02_CORE_INVESTIGATION/`](02_CORE_INVESTIGATION/) | Historical dossiers, tactics, observations, structured General List v2 and expanded members/groups listings, defenders. |
 | [`03_AFFILIATIONS/`](03_AFFILIATIONS/) | Documented/lead affiliations and adjacent networks. |
 | [`04_OFFSHOOTS/`](04_OFFSHOOTS/) | DPOS, 11th Street, and successor/splinter material; includes the DPOS deep dive. |
 | [`05_PARENT_ENTITIES/`](05_PARENT_ENTITIES/) | Legacy context, including the 09A Cult archive label. |

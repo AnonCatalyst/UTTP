@@ -42,6 +42,20 @@ account IDs, victim data, or graphic content.
 | GateKeeper | Defence/blacklist platform | Tracks DPOS/UTTP actors | E | Defender, not an affiliate. |
 | FPE ecosystem | Target ecosystem | Not an ally | A | FPE-Police branding is distinct from the fandom. |
 
+### 1a. Latest 2026 offshoot layer
+
+| Group / campaign | Type | Relationship | Confidence | Note |
+| --- | --- | --- | --- | --- |
+| Circusfall faction | 2026 faction | UTTP splinter/revival | D | Early-2026 revival; split with OfficerSlappy faction. |
+| OfficerSlappy faction / UTTP Forum | 2026 faction | UTTP faction/website lineage | D | Mention-spam campaigns; UTTP Forum. |
+| Bn0r Empire | 2026 subgroup | UTTP-adjacent subgroup | D | Bn0r/Chizur-linked; mention-spam ecosystem. |
+| Reddit Defence Force (RDF) | 2025–2026 revival | Reddit-facing UTTP faction | D | RDFPARTY splinter. |
+| RDFPARTY | RDF splinter | DNB/soycord-style splinter | D | Community-reported. |
+| VGCP / VideoGameCartoonPolice | historical opposition | oldest UTTP splinter; anti-UTTP | D | Disbanded. |
+| AFF / Anti Fandom Front | opposition/adjacent | anti-fandom front | D | Distinct from AFR. |
+| Operation Circusfall | campaign | Circusfall faction / X | D | Early-2026 revival; shock/animal-gore spam. |
+| Deltafall → Rockstarfall | campaign | OfficerSlappy faction | D | July–October 2026 mention-spam/raid/copyright-leak reporting. |
+
 ---
 
 ## 2. DPOS internal units (observed structure)

@@ -13,12 +13,15 @@
 | Nu-UTTP / Circusfall | Reported 2026 revival; split with rival faction; claimed later unification | D | 2026-11-19 | Community-reported; no independent confirmation. |
 | OfficerSlappy faction | Reported rival/legacy faction | D | 2026-11-19 | Split details are contested. |
 | AFR | Reported splinter; antifandom.org shut down 2026-08-07; server nuked | D | 2026-11-19 | Continues in decentralized soycord/COM spaces per community source. |
+| Bn0r Empire | Reported 2026 subgroup | D | 2026-11-19 | Bn0r/Chizur-linked; mention-spam ecosystem. |
+| RDF / RDFPARTY | Reported 2025–2026 Reddit revival and DNB splinter | D | 2026-11-19 | Community-reported; no independent census. |
+| VGCP / AFF | Historical splinter/opposition layer | D | 2026-11-19 | VGCP disbanded; AFF distinct from AFR. |
 | DPOS | Hardcore UTTP offshoot; structured police-state brand; bridge to 764/Com | C/D | 2026-11-19 | 764 overlap C/A; no merger/command; current membership unverified. |
 | 764 | Designated terrorist entity (Canada) | E | 2026-11-19 | Edge fusion/overlap assessed; no merger or operational-arm evidence. |
 | O9A | Designated terrorist entity (NZ) | E | 2026-11-19 | Adjacent/overlapping ecosystem. |
 | FPE | Target ecosystem; WIC operation; not an alliance | A | 2026-11-19 | WIC is not an FPE partner. |
 | AUTTP | Community opposition | D | 2026-11-19 | Not a WIC-controlled entity. |
-| Archive | 6 GB public; 604 tracked files; v2 organized | E | 2026-11-19 | Manifest hashes available. |
+| Archive | 6 GB public; 605 tracked files; v2 organized | E | 2026-11-19 | Manifest hashes available. |
 
 ---
 
@@ -32,6 +35,9 @@
   renounces gore spam; claims unification. **D/S**
 - **2026-08-07:** AFR-linked `antifandom.org` forum reported shut down; server
   reportedly nuked. **D**
+- **2026-07-08:** Deltafall campaign reported; later renamed Rockstarfall. **D**
+- **2026-08-07:** AFR-linked antifandom.org reported shut down; server reportedly
+  nuked. **D**
 - **Late 2026:** community wiki describes UTTP as “complete DNB”/almost no
   members while AFR/soycord/COM activity continues. **D**
 - **Independent analysis:** UTTP described as an NVE network with overlap to
