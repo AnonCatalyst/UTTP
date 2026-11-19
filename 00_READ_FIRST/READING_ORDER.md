@@ -38,10 +38,11 @@ Do not cite “the archive” as if it were a primary source. Cite the source in
 1. `00_READ_FIRST/CLAIM_LEDGER.md`
 2. `11_RESEARCH_EXPANSION/UTTP_THREAT_LANDSCAPE_2026.md` — tactics and platform gaps
 3. `02_CORE_INVESTIGATION/Tactics/`
-4. `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md` — DPOS offshoot and bridge analysis
-5. `08_DTAD_2025/` — bulk exports (read the data dictionary first)
-6. `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` — false-positive review and platform blocklist
-7. `11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md`
+4. `02_CORE_INVESTIGATION/Members_List/EXPANDED/EXPANDED_MEMBERS_AND_GROUPS_2026-11-19.md` — expanded groups and public-handle index
+5. `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md` — DPOS offshoot and bridge analysis
+6. `08_DTAD_2025/` — bulk exports (read the data dictionary first)
+7. `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` — false-positive review and platform blocklist
+8. `11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md`
 
 ## If you are a lawful authority
 

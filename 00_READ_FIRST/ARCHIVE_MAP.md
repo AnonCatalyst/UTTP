@@ -40,7 +40,7 @@ in older copies is superseded by the correction ledger.
 | `Historical/` | WIC dossiers, historical records, 764/O9A hierarchy analysis, Operation Crown Drop record. |
 | `Tactics/` | Tactical analysis of UTTP and 764 methods, burner profiles. |
 | `Observations/` | Phase 1 reception/observation report. |
-| `Members_List/` | Entity/alias registry, indicator lists, burner profile material. |
+| `Members_List/` | Entity/alias registry, indicator lists, burner profile material, and the expanded members/groups register. |
 | `Defenders/` | Material about people or accounts that defended UTTP or disputed the archive. |
 
 ---

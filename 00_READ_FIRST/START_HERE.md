@@ -62,7 +62,7 @@ ledger separates:
 | --- | --- |
 | `00_READ_FIRST/` | Navigation, accuracy ledger, timeline, glossary, manifest. |
 | `01_ARCHIVE_RELEASE/` | The 6 GB public release notice and download pointer. |
-| `02_CORE_INVESTIGATION/` | Historical records, tactics, observations, members list, defenders. |
+| `02_CORE_INVESTIGATION/` | Historical records, tactics, observations, expanded members/groups listings, defenders. |
 | `03_AFFILIATIONS/` | Networks and communities documented as affiliated or adjacent. |
 | `04_OFFSHOOTS/` | DPOS, 11th Street, successor/splinter material, and the DPOS deep dive. |
 | `05_PARENT_ENTITIES/` | Legacy context, including the 09A Cult archive label. |

@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-19 — Members and groups listings restored/expanded
+
+- Added `02_CORE_INVESTIGATION/Members_List/README.md`.
+- Added `EXPANDED/EXPANDED_MEMBERS_AND_GROUPS_2026-11-19.md`,
+  `EXPANDED/GROUP_REGISTER.csv`, and `EXPANDED/PUBLIC_HANDLE_INDEX.csv`.
+- Restored access to the original raw indicator lists and separated group names,
+  public handles, and naming-pattern families.
+- Added DPOS internal units (Empire, Task Force, Grand Palace, ISA HQ, Town,
+  Outside, Logs) as observed structure, not a member roster.
+- No new private identifiers were added.
+
 ## 2026-11-19 — DPOS deep dive
 
 - Added `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/README.md` and

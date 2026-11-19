@@ -18,7 +18,7 @@
 | O9A | Designated terrorist entity (NZ) | E | 2026-11-19 | Adjacent/overlapping ecosystem. |
 | FPE | Target ecosystem; WIC operation; not an alliance | A | 2026-11-19 | WIC is not an FPE partner. |
 | AUTTP | Community opposition | D | 2026-11-19 | Not a WIC-controlled entity. |
-| Archive | 6 GB public; 595 tracked files; v2 organized | E | 2026-11-19 | Manifest hashes available. |
+| Archive | 6 GB public; 599 tracked files; v2 organized | E | 2026-11-19 | Manifest hashes available. |
 
 ---
 
