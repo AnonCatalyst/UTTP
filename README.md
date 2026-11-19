@@ -2,7 +2,7 @@
 
 **WinterGate Intelligence Collective**
 **Status: ACTIVE** - **2026-09-17**
-**Archive organization:** v2 — **2026-11-19**
+**Archive organization:** v3 — **2026-11-19**
 **Public release:** **6 GB** — see `01_ARCHIVE_RELEASE/`
 
 > **Start here:** [`00_READ_FIRST/START_HERE.md`](00_READ_FIRST/START_HERE.md)

@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-19 — Archive release v3 (current setup)
+
+- Added `00_READ_FIRST/RELEASE_NOTES_ARCHIVE_V3_2026-11-19.md`.
+- Tag/release target: `archive-v3-20261119`.
+- Covers the current repository setup, not a new 6 GB evidence dump.
+- Snapshot includes the structured General List v2, expanded members/groups,
+  200-row area register, DPOS deep dive, O9A trace, StyxNet validation, and
+  validated/false-claim split.
+
 ## 2026-11-19 — Structured General List v2
 
 - Added `02_CORE_INVESTIGATION/Members_List/General_List_v2_Structured_2026-11-19.md`.
