@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-19 — HTML capture viewing fix
+
+### HTML capture viewing fix
+
+- Renamed the two DPOS `.html` evidence captures to `.html.txt` so browsers and
+  GitHub open them as text instead of treating them as a page to download or
+  render. The bytes are unchanged; a hash comparison against the previous blobs
+  was run before committing.
+- Added `HTML_CAPTURE_NOTES.md` in the DPOS folder.
+
 ## 2026-11-19 — v2 organization and accuracy pass
 
 **What changed**

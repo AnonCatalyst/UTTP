@@ -1,6 +1,6 @@
 path,size_bytes,sha256
 00_READ_FIRST/ARCHIVE_MAP.md,4105,2d3b2a84c29fc962eb95f11e73a68023717ee58da63b7141e315307f16d3d802
-00_READ_FIRST/CHANGELOG.md,1672,bbaca5c9f2c1e8d0398aaed391b1a43acabe738a78eb1d5bd62636673b4f0b25
+00_READ_FIRST/CHANGELOG.md,2065,ab2a7a76d91e6aafd69ac97dc40c0ae20e1122d2724fa5ec8b0596a8317f6795
 00_READ_FIRST/CLAIM_LEDGER.md,10588,4088a6df24029874bdb019da9fc373bffa2db33774119e34d385605f6cec3466
 00_READ_FIRST/DATA_DICTIONARY.md,2883,9499f186556feea0ebe420210c7654f4e0dafe732a48f045704a8223cd0a4227
 00_READ_FIRST/ENTITY_MAP.md,2846,03ce34fbc6ac9caf66d566bf77c1daf48c2b20359df3ba69168ffc38f12c60fe
@@ -333,6 +333,7 @@ path,size_bytes,sha256
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DPOS Chat Leaks JSON/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - 🛡️ ISA Headquarters - 〚📢〛staff-news [1342627158409085108].json,34781,1f2f392af7104afba7a6dcb342fcf5a0cb2ac082d0a11363a8ccf174e9b4b814
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DPOS Chat Leaks JSON/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - 🛡️ ISA Headquarters - 〚🤖〛staff-cmd [1378029185146290247].json,123336,c8ea1fd367392a71b233add34d622cb689a4a02ac7e4f076bbe2b14b4f99d74e
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/G3A5aqSWQAAcICk.png,70772,bc210b27b395fdf0dc0da3defda038212e4ee61320f71ead3f00b7e9f34e2eef
+04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/HTML_CAPTURE_NOTES.md,693,973562cf986f36fc00e97b2d3c2c8e8e03c3c92a60d753866904e473866c067e
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/Images Archive 2025/9gj50d.mp4,3863885,4a63bffea80f8a32a12921f71da82ba614a3d62260b66fa3c9c3ad17145562dd
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/Images Archive 2025/Co Lead Screenshots/IMG_6412.webp,60550,d3e41b68338d255ab50199ea62c676a339388cb125d211314636610604900899
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/Images Archive 2025/Co Lead Screenshots/Screenshot 2025-11-30 140204.png,47182,0cb844fce94b9ee91a17af37eb61ed25d3a5b1acdb5faf2fbef131252a3ea4eb
@@ -444,8 +445,8 @@ path,size_bytes,sha256
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/placeholder,1,01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/ssss.webp,39748,5306a65aafe83b51647cb9501a7d59b3d192dea4e19c00408984cc006748de4b
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/tomas-dpos.admitted-to-being-764.2026-01-13 022751.png,46398,aed53034acc950a6b374d0141bada91003760b81aaa49d249ad51c28a529229f
-04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - Empire - 〚📡〛broadcast [1386088025347326052]-2.html,46822,4b6bd5250433d4636e526a59c4476a98c3a637040bb7f40266d9fee2fb3771d6
-04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - Empire - 〚📡〛broadcast [1386088025347326052].html,34443,31f464cb6124a907ceb38d2ab486e8f27deb6c028ce9447f4352804b48b4e2e3
+04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - Empire - 〚📡〛broadcast [1386088025347326052]-2.html.txt,46822,4b6bd5250433d4636e526a59c4476a98c3a637040bb7f40266d9fee2fb3771d6
+04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/𝗗𝗲𝗴𝗲𝗻𝗲𝗿𝗮𝗰𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗢𝗦 - Empire - 〚📡〛broadcast [1386088025347326052].html.txt,34443,31f464cb6124a907ceb38d2ab486e8f27deb6c028ce9447f4352804b48b4e2e3
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/UTTP&DPOS Groups targeting minors&individuals.pdf,687781,39a11b339520458eeadce0d8bc4542f0bb5774caee71726b9b29404e0c79c950
 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/placeholder,1,01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b
 05_PARENT_ENTITIES/09A Cult/09A - Data Sheet.txt,1002,f458a7d86d4ccb125f952cc29eaf25001d5cd503fc55ac04306b37251ce7e080
