@@ -47,6 +47,9 @@ graph TD
   UTTP -. documented affiliation/lead .-> ENCL
   UTTP -. documented affiliation/lead .-> SPWN
   DPOS --> E11
+  DPOS -. assessed tactical overlap, no command .-> N764
+  DPOS -. target/incursion .-> FPE
+  DPOS -. individual crossover .-> TM
   C09A -. parent/predecessor context .-> O9A
 ```
 
@@ -56,7 +59,10 @@ graph TD
 | --- | --- | --- | --- | --- |
 | UTTP | Old-sector / Nu-UTTP | Internal factions | A/D | Faction labels come from community/WIC records; boundaries are disputed. |
 | UTTP | RUTTP/TYRANNY, AFR | Splinters | D | Community-reported; not formally confirmed. |
-| UTTP | DPOS | Offshoot/affiliate | A/D | WIC documents DPOS as an offshoot/associate; see `04_OFFSHOOTS/`. |
+| UTTP | DPOS | Hardcore offshoot/splinter | C/D | DPOS inherits UTTP raid culture and targets; see `04_OFFSHOOTS/DPOS.../ANALYSIS/`. |
+| DPOS | 764 | Tactical/ideological overlap; no command/merger | C/A | Grooming/blackmail/self-harm/shock overlap; not a 764 unit. |
+| DPOS | FPE | Target/incursion ecosystem | A/S | FPE harassment/doxxing allegations; FPE is a target, not an ally. |
+| DPOS | TNM/148/GRS/Enclave | Individual crossover | A/D | Personnel rotate between adjacent raid/extremist spaces. |
 | UTTP | 764 | Edge fusion/membership overlap (assessed); no merger or operational-arm evidence | A/C | 764 is independently designated; UTTP-specific command/merger claims are not supported. |
 | 764 | O9A | Listed as an O9A nexion in the NZ statement of case; decentralised ecosystem | E/C | Nexions are operationally independent; this is not a command relationship. |
 | UTTP | FPE | Target/incursion ecosystem | A | WIC's FPE record; not an alliance. |

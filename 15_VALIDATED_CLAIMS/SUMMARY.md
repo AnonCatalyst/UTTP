@@ -40,6 +40,19 @@
 - **15 structural candidates** (14 brand-token + 1 target-only); **0 ownership
   verified**. **A/S**
 
+## DPOS
+
+- DPOS is a **hardcore UTTP offshoot/splinter** with a structured, police-state
+  themed Discord presence. **C/D**
+- The archived server has **53 channel snapshots** and ~3,205 messages
+  (Feb–Jun 2025), including Empire, Task Force, ISA HQ, and logging channels.
+  **E** for observed structure.
+- DPOS and 764 **overlap in grooming/blackmail/self-harm/shock tactics**; no
+  command, merger, or 764 unit status is established. **C/A; X for command/merger**
+- DPOS is **not a designated entity** in the reviewed instruments. **E/X**
+- “764-derived 100%”, “documented federal target”, “1,750+ linked accounts”, and
+  “UNIPOL Level 3” are **not validated**. See `16_VALIDATED_FALSE_CLAIMS/`.
+
 ## FPE
 
 - The FPE operation is **WIC’s self-authored record**, not independent proof of a

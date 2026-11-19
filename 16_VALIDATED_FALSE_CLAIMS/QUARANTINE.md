@@ -184,7 +184,23 @@ causal or command-link finding is claimed.”
 
 ---
 
-## 16. How to use this folder
+## 16. DPOS overclaims
+
+**Quarantined claims:** “DPOS is a 764-derived network — 100% confirmed”;
+“DPOS is a documented federal target”; “1,750+ linked accounts”; “the DPOS lead
+is 90% likely a 764 member”; “UNIPOL Level 3 designation”; “DPOS is UTTP” or “a
+764 unit.”
+**Status:** X/A/S/D — not established.
+**Why:** the archive supports DPOS as a hardcore UTTP offshoot and a tactical
+overlap node. It does not establish 764 derivation, command, merger, federal
+case status, a verified account count, a leader’s membership, or a UNIPOL action.
+**Approved replacement:** “DPOS is a hardcore UTTP offshoot with 764 tactical
+overlap; it is not a proven 764 unit and no merger/command is established.”
+
+**Original locations:** `04_OFFSHOOTS/DPOS - Degeneracy Police Order State/`;
+`02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/`.
+
+## 17. How to use this folder
 
 - Cite a quarantined claim only as a **rejected claim**, with this folder as the
   source of the rejection.

@@ -46,10 +46,16 @@ Treat the day as approximate.
 | OfficerSlappy faction | Reported rival/legacy faction | D |
 | RUTTP/TYRANNY | Reported splinter | D |
 | AFR | Reported splinter; forum shutdown/server nuke reported Aug 2026 | D |
-| DPOS | Documented offshoot/affiliate | A/D |
+| DPOS | Hardcore offshoot/splinter; bridge node to 764/Com | C/D |
 | Affiliates | SRA, TM-TNM, UU, 148-1488, UETR-GSR, SPWN, 11th Street | A/D |
 
 **No single command chain is established.** Treat faction claims as claims.
+
+**DPOS is the most consequential offshoot.** It converted UTTP’s raid culture
+into a structured “anti-degeneracy” police-state brand and is the clearest
+bridge to 764/Com-style grooming and blackmail. It is an offshoot/overlap node,
+not a 764 unit or a merged UTTP. See
+[`04_OFFSHOOTS/DPOS.../ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md`](../04_OFFSHOOTS/DPOS%20-%20Degeneracy%20Police%20Order%20State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md).
 
 ---
 

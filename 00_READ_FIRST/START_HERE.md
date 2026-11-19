@@ -48,10 +48,11 @@ ledger separates:
 7. [11_RESEARCH_EXPANSION/README.md](../11_RESEARCH_EXPANSION/README.md) — expanded public-source research.
 8. [12_TRACKING/README.md](../12_TRACKING/README.md) — tracking snapshot, register, methods, and INBOX.
 9. [13_UTTP_764_OVERLAP/README.md](../13_UTTP_764_OVERLAP/README.md) — UTTP/764 profiles and overlap proof standard.
-10. [14_O9A_764_TRACE/README.md](../14_O9A_764_TRACE/README.md) — sourced 764→O9A trace and O9A profile.
-11. [15_VALIDATED_CLAIMS/README.md](../15_VALIDATED_CLAIMS/README.md) — approved claims and confidence.
-12. [16_VALIDATED_FALSE_CLAIMS/README.md](../16_VALIDATED_FALSE_CLAIMS/README.md) — quarantined false claims and replacements.
-13. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+10. [04_OFFSHOOTS/DPOS.../ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md](../04_OFFSHOOTS/DPOS%20-%20Degeneracy%20Police%20Order%20State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md) — DPOS offshoot and bridge analysis.
+11. [14_O9A_764_TRACE/README.md](../14_O9A_764_TRACE/README.md) — sourced 764→O9A trace and O9A profile.
+12. [15_VALIDATED_CLAIMS/README.md](../15_VALIDATED_CLAIMS/README.md) — approved claims and confidence.
+13. [16_VALIDATED_FALSE_CLAIMS/README.md](../16_VALIDATED_FALSE_CLAIMS/README.md) — quarantined false claims and replacements.
+14. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 
@@ -63,7 +64,7 @@ ledger separates:
 | `01_ARCHIVE_RELEASE/` | The 6 GB public release notice and download pointer. |
 | `02_CORE_INVESTIGATION/` | Historical records, tactics, observations, members list, defenders. |
 | `03_AFFILIATIONS/` | Networks and communities documented as affiliated or adjacent. |
-| `04_OFFSHOOTS/` | DPOS, 11th Street, and other successor/splinter material. |
+| `04_OFFSHOOTS/` | DPOS, 11th Street, successor/splinter material, and the DPOS deep dive. |
 | `05_PARENT_ENTITIES/` | Legacy context, including the 09A Cult archive label. |
 | `06_COMMUNITY_NOTES/` | Endorsements, petitions, Soyjak Wiki rebuttal, community context. |
 | `07_DONATED_DOCUMENTS/` | Donated notes, links, and supplementary intelligence. |

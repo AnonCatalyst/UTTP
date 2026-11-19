@@ -1,3 +1,5 @@
+[2026-11-19 validation note: “764-derived 100%”, “documented federal target”, “1,750+ linked accounts”, “UNIPOL Level 3”, and “90%” membership claims are not validated. See 04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md and 16_VALIDATED_FALSE_CLAIMS/.]
+
 # Official NT3 Threat Brief: The Complete History of DPOS – From UTTP Splinter to Exposed Extremist Network
 
 **Issued by NoTrac3 Covenant Intelligence Division**  

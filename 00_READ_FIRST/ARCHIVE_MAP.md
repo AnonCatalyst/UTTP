@@ -61,7 +61,7 @@ Grouped by named network or community:
 ## 04_OFFSHOOTS
 
 - `11th STREET/` — unverified lead, explicitly marked.
-- `DPOS - Degeneracy Police Order State/` — DPOS 2025 material and UTTP/DPOS targeting document.
+- `DPOS - Degeneracy Police Order State/` — DPOS 2025 material, UTTP/DPOS targeting document, and `ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md`.
 
 ## 05_PARENT_ENTITIES
 
