@@ -22,6 +22,7 @@ def prefix(s, n=12):
     return norm(s)[:n]
 
 data = json.loads(DATA.read_text(encoding='utf-8'))
+SKIP = {'gatekeeper', 'wintergateintelligencecollectivewic', 'nintendeen'}
 existing = {norm(e['name']) for e in data.get('entities', [])}
 existing_prefixes = {prefix(e['name']) for e in data.get('entities', [])}
 
@@ -32,7 +33,7 @@ if TOKEN:
         tel = json.loads(resp.read().decode())
     for e in tel.get('entities', []):
         name = e.get('name', '')
-        if norm(name) in existing or prefix(name) in existing_prefixes:
+        if norm(name) in SKIP or norm(name) in existing or prefix(name) in existing_prefixes:
             continue
         intake.append({
             'tel_id': e.get('id'),

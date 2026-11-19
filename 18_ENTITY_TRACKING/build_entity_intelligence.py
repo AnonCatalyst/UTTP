@@ -205,6 +205,10 @@ entities = [
   "id":"WIC","name":"WinterGate Intelligence Collective (WIC)","type":"documenter","status":"maintainer","confidence":"E","summary":"Not a UTTP member. Documents, publishes, and tracks at group level. Maintains the archive, validation layers, and handoff packages.","origin":"WIC","current_state":"Active documenter.","watch_priority":"low","related":["UTTP","DPOS","764","O9A"],"tactics":["documentation","validation","threat intelligence","defensive engineering"],"areas":["web","GitHub","Discord"],"evolution":[{"date":"2026-09-17","event":"UTTP investigation status recorded ACTIVE","confidence":"A"},{"date":"2026-11-19","event":"Archive v3 and current-state package published","confidence":"E"}],
   "sources":["S028","S030"],"not_supported":["WIC is a UTTP member","WIC is an FPE partner"],"learning":{"stage":"documenter","risk_score":0.0,"next_likely":"continued documentation","basis":"archive and methodology"}},
 ]
+entities = [e for e in entities if e['id'] not in {'GATEKEEPER', 'WIC'}]
+for e in entities:
+    e['related'] = [r for r in (e.get('related') or []) if r not in {'GATEKEEPER', 'WIC'}]
+
 methods = [
  {"id":"M001","name":"Open-source intelligence (OSINT)","use":"Public records, archives, screenshots, exports, and public posts","confidence":"E/C/A"},
  {"id":"M002","name":"Source-ledger verification","use":"Every claim tied to a source and confidence label","confidence":"E/C/A"},
