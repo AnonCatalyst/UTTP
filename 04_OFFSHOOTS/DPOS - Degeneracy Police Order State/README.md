@@ -41,7 +41,6 @@ The rest of this folder is preserved as received:
 
 - `DPOS - EV 2025/` — screenshots, videos, chat exports, case files, UID lists.
 - `UTTP&DPOS Groups targeting minors&individuals.pdf` — donated victim/community report.
-- `placeholder` — original archive placeholder; retained.
 
 Treat raw material as **lead evidence**, not court findings. Do not reproduce
 graphic content, victim data, or private identifiers.
