@@ -36,7 +36,8 @@ Do not cite “the archive” as if it were a primary source. Cite the source in
 2. `11_RESEARCH_EXPANSION/UTTP_THREAT_LANDSCAPE_2026.md` — tactics and platform gaps
 3. `02_CORE_INVESTIGATION/Tactics/`
 4. `08_DTAD_2025/` — bulk exports (read the data dictionary first)
-5. `11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md`
+5. `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` — false-positive review and platform blocklist
+6. `11_RESEARCH_EXPANSION/SOURCE_LEDGER_2026.md`
 
 ## If you are a lawful authority
 

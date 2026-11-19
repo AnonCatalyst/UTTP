@@ -1,0 +1,9 @@
+status,reason,count
+candidate,brand_token_cluster_tier2,7
+candidate,brand_token_tier1,3
+candidate,brand_token_tier3,4
+candidate,target_handle_only,1
+rejected,collision_uttapal_name,16
+rejected,fuzzy_match_false_positive,3
+rejected,low_signal_numeric,2
+rejected,substring_collision_butt,18

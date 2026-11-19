@@ -91,6 +91,16 @@ parsing.
 
 StyxNet CSV/PDF/Markdown exports and the deep-recon identity-mapping report.
 
+`validation/` contains the 2026-11-19 accuracy pass:
+
+- `STYXNET_VALIDATION_2026-11-19.md` — counts, corrections, limits.
+- `styxnet_platform_name_blocklist.csv` — 47 platform variants (37 normalized keys).
+- `styxnet_handle_candidates.csv` — 15 structural candidates, not ownership-confirmed.
+- `styxnet_handle_class_counts.csv` — 54 unique handle values by class.
+- `styxnet_row_class_counts.csv` — 823 rows by structural class.
+- `styxnet_validation_summary.json` — machine-readable counts and raw SHA-256.
+- `validate_styxnet.py` — reproducible review script.
+
 ## 10_SOURCES
 
 - `UTTP_INVESTIGATION_SOURCE_INDEX_ANALYSIS.md`

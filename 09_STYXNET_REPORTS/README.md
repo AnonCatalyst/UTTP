@@ -1,16 +1,18 @@
 # WINTERGATE-IC — STYXNET EXTRACTION ANALYSIS
-### UTTP Identity Reconnaissance — Validated Findings Report
+### UTTP Identity Reconnaissance — Structural Validation Report
 
-> WIC-ANALYSIS-2026-0919-UTTP-01_Validated_Handle_Extraction.md
+> WIC-ANALYSIS-2026-0919-UTTP-01_Structural_Handle_Extraction.md
 
 [![Document](https://img.shields.io/badge/Document-WIC--ANALYSIS--2026--0919--UTTP--01-blue)]()
 [![Classification](https://img.shields.io/badge/Classification-Internal%20%E2%80%94%20Analytical-orange)]()
-[![Status](https://img.shields.io/badge/Status-Validated-green)]()
+[![Status](https://img.shields.io/badge/Status-Reviewed-blue)]()
 [![Target](https://img.shields.io/badge/Target-UTTP-red)]()
 
 ---
 
-> **Summary:** StyxNet swept 5,121 platforms against the handle `UTTP`. Raw extraction returned 760 primary detections and a supplementary handle list. Most supplementary entries are not identity signals. This document contains **only validated findings**, plus a full validation methodology and a record of what was rejected and why.
+> **Summary:** StyxNet swept 5,121 platforms against the handle `UTTP`. The raw CSV contains 823 rows (761 exact, 62 similarity) and 54 unique supplementary handle values. Most supplementary entries are not identity signals. This document contains structurally reviewed **candidates**, plus a validation methodology and a record of what was rejected and why.
+>
+> **2026-11-19 accuracy pass:** raw exports are unchanged. The machine-readable validation layer is in [`validation/`](validation/). Its counts supersede the approximate manual counts below where they differ. No candidate is ownership-confirmed.
 
 ---
 
@@ -24,10 +26,12 @@
 | **Source** | StyxNet Username Search, handle extraction |
 | **Date** | 2026-09-19 |
 | **Target** | UTTP (UtubeTrollPolice / UTubeTrollingPolice) |
-| **Raw entries reviewed** | ~145 |
-| **Validated findings** | 22 |
-| **Rejected entries** | ~123 |
-| **Overstatement factor** | ~6x if rejections are treated as findings |
+| **Raw rows** | 823 (761 exact; 62 similarity) |
+| **Unique handle values** | 54 |
+| **Candidate handles** | 22 (14 CSV-backed + 8 prior-extraction) |
+| **Rejected CSV handle values** | 39 |
+| **Profile paths unverified** | 580 |
+| **Ownership verified** | 0 |
 
 ---
 
@@ -35,7 +39,7 @@
 
 1. [Executive Summary](#1-executive-summary)
 2. [Validation Methodology](#2-validation-methodology)
-3. [Tier 1 — Confirmed Brand-Aligned](#3-tier-1--confirmed-brand-aligned-handles)
+3. [Tier 1 — Brand-Aligned Candidates](#3-tier-1--brand-aligned-candidates)
 4. [Tier 2 — Structured Cluster](#4-tier-2--structured-cluster-bluesky-sock-network-pattern)
 5. [Tier 3 — Pattern-Matched, Single Source](#5-tier-3--pattern-matched-single-source)
 6. [Cross-Platform Presence Summary](#6-cross-platform-presence-summary)
@@ -43,13 +47,13 @@
 8. [Confidence Assessment and Gaps](#8-confidence-assessment-and-gaps)
 9. [Methodology Limitations](#9-methodology-limitations)
 10. [Recommended Next Steps](#10-recommended-next-steps)
-11. [Appendix — Validated Handle Index](#11-appendix--validated-handle-index)
+11. [Appendix — Candidate Handle Index](#11-appendix--candidate-handle-index)
 
 ---
 
 ## 1. Executive Summary
 
-StyxNet swept 5,121 platforms against the target handle `UTTP`. The extraction returned 760 primary detections and a supplementary list of additional handles found within profile metadata.
+StyxNet swept 5,121 platforms against the target handle `UTTP`. The raw CSV has 823 rows: 761 exact-string rows, 62 similarity rows, and 760 unique platform labels. The supplementary handle fields contain 54 unique values.
 
 Of the raw extraction output, **the majority of entries are not identity signals**. They fall into four categories:
 
@@ -60,9 +64,9 @@ Of the raw extraction output, **the majority of entries are not identity signals
 | (c) Random strings | Nonces, cache keys, hashes | **False** |
 | (d) Substring collisions | Unrelated words containing "uttp" | **False** |
 
-After a manual analyst pass applying strict validation criteria, **22 entries** remain as potentially valid UTTP-aligned identifiers. These are organized below into tiers by confidence.
+After a manual analyst pass applying strict structural criteria, **22 candidate handles** remain (14 CSV-backed + 8 prior-extraction). They are **not ownership-confirmed**. The 2026-11-19 machine-readable pass is in [`validation/`](validation/); use its counts in preference to the approximate ones below.
 
-This document contains **only what passed validation**. Rejected entries and the reasons for rejection are recorded in [Section 7](#7-rejected-findings-and-reasons).
+This document contains only what passed the structural review. Rejected entries and the reasons for rejection are recorded in [Section 7](#7-rejected-findings-and-reasons).
 
 ---
 
@@ -81,6 +85,8 @@ The raw extraction output cannot be used directly. It must be filtered through v
 | **V5. No Random Strings** | Strings with no semantic content (nonces, cache keys, hashes) are rejected. |
 | **V6. Brand or Faction Patterning** | Handle is treated as UTTP-aligned if it contains "uttp" as a standalone token, or if it contains recognizable faction nomenclature (THTDC, THDTC, ZNTP, STR, UTTPTV, Mastodon Department). |
 | **V7. Corroborated or Cluster-Matched** | An isolated handle with a coincidental substring is weak. A handle belonging to a cluster of structurally similar handles is stronger. |
+| **V8. Platform-Name Blocklist** | If a handle normalizes to a known platform/site identity, reject it as `platform_identity_string`. The machine-readable blocklist is in `validation/styxnet_platform_name_blocklist.csv`. |
+| **V9. No Search/Login/Error Rows** | A search page, login wall, error page, bot check, or non-200 response is not a profile finding. |
 
 ### 2.2 Confidence Tiers
 
@@ -93,9 +99,9 @@ The raw extraction output cannot be used directly. It must be filtered through v
 
 ---
 
-## 3. Tier 1 — Confirmed Brand-Aligned Handles
+## 3. Tier 1 — Brand-Aligned Candidates
 
-These handles contain UTTP as a standalone brand token or use recognized UTTP faction nomenclature. They are treated as the strongest UTTP-presence findings.
+These handles contain UTTP as a standalone brand token or use recognized UTTP faction nomenclature. They are treated as the strongest UTTP-presence **candidates**, not confirmed accounts.
 
 ### 3.1 `uttp.tumblr.com`
 
@@ -170,7 +176,7 @@ Seven handles on Bluesky share a consistent naming structure. This pattern is ch
 ### 4.2 Confidence
 
 - **MEDIUM-HIGH** for common operator across the cluster
-- **MEDIUM** for confirmed link to UTTP core organization
+- **MEDIUM** for a possible link to UTTP core organization
 
 ---
 
@@ -199,7 +205,7 @@ These handles contain UTTP as a token or faction marker but do not appear in a c
 
 ## 6. Cross-Platform Presence Summary
 
-Based on Tier 1 and Tier 2 findings, UTTP brand-aligned presence is **confirmed** on the following platforms:
+Based on Tier 1 and Tier 2 candidates, UTTP brand-aligned **candidates** are present on the following platforms. This is structural evidence, not ownership confirmation:
 
 | Platform | Presence Type |
 |---|---|
@@ -219,9 +225,11 @@ Based on Tier 1 and Tier 2 findings, UTTP brand-aligned presence is **confirmed*
 
 ## 7. Rejected Findings and Reasons
 
-For transparency, the following categories of entries were excluded from the validated findings. They are recorded here so future analysis does not re-introduce them.
+For transparency, the following categories of entries were excluded from the candidate findings. They are recorded here so future analysis does not re-introduce them.
 
 ### 7.1 Platform Names Scraped as Handles
+
+The list below contains **47 variants** (37 unique normalized keys). The machine-readable form is [`validation/styxnet_platform_name_blocklist.csv`](validation/styxnet_platform_name_blocklist.csv). Earlier wording said “48”; that count was wrong.
 
 `Codecademy`, `codersrank-org`, `codersrank`, `thesimsresourcedotcom`, `TheSimsResource`, `livetrack24`, `LiveTrack24`, `HackThisSite.org`, `hackthissite`, `HackThisSite`, `MAGIX_INT`, `MAGIX`, `magix`, `WynkMusic`, `wynkmusic`, `Salon24pl`, `salon24.pl`, `FlashFlashRevolution`, `TheOfficial_FFR`, `ffr`, `Podcastindex-org`, `PodcastindexOrg`, `pennyarcadetv`, `subscan_io`, `stackernews`, `cssbattle.dev`, `css_battle`, `dicedotcom`, `coddytech`, `coddy.tech`, `coddylearn`, `coddy_tech`, `flyertalkforums`, `FlyerTalk`, `prokoni.ru`, `prokoni_ru`, `car72ru`, `wwwcar72ru`, `LancerX.ru`, `LancerX_ru`, `TTSPORT.ru`, `poembook_ru`, `maccentre_ru`, `yamaya_ru`, `radiomedru`, `romanticcollectionru`, `bysoloby`
 
@@ -267,12 +275,12 @@ For transparency, the following categories of entries were excluded from the val
 
 ## 8. Confidence Assessment and Gaps
 
-### 8.1 What Is Confirmed
+### 8.1 What the record supports (not ownership-confirmed)
 
-- ✅ UTTP brand-aligned handles exist on Bluesky, Tumblr, and Mastodon.
-- ✅ A seven-handle Bluesky cluster uses consistent branding and rank naming.
-- ✅ The naming convention `UTTP + faction` (THTDC, ZNTP, STR, mastdept) is documented in extraction data.
-- ✅ A named operator identifier ("Michael") appears tied to UTTP TV branding.
+- ✅ Candidate brand-aligned handles were found on Bluesky, Tumblr, and Mastodon.
+- ✅ A seven-handle Bluesky cluster is structurally consistent (same platform, brand prefix, rank naming).
+- ✅ The naming convention `UTTP + faction` (THTDC, ZNTP, STR, mastdept) appears in extraction data.
+- ✅ A named operator identifier (“Michael”) appears in UTTP TV branding data; this is not identity verification.
 
 ### 8.2 What Is Not Confirmed
 
@@ -284,25 +292,26 @@ For transparency, the following categories of entries were excluded from the val
 
 ### 8.3 Rejection Breakdown
 
-| Category | Approximate Count | Rule Violated |
-|---|---|---|
-| Platform-name entries | 48 | V1 |
-| Generic field labels | 14 | V4 |
-| Random strings | 7 | V5 |
+**Machine-readable CSV handle pass (2026-11-19):**
+
+| Category | Count | Rule |
+|---|---:|---|
+| Platform-name variants in blocklist | 47 | V8 |
 | Substring collisions ("butt" + p) | 18 | V2 |
-| Substring collisions ("Uttapal") | 17 | V2 |
-| Third-party developer handles | 3 | V3 |
-| Scaffolding domains | 16 | V1 |
-| **Total rejections** | **~123** | — |
+| Substring collisions ("Uttapal" / personal names) | 16 | V2 |
+| Fuzzy matches (`utp`, `Utti`, `Utop`) | 3 | V5 |
+| Low-signal numeric (`uttp3`, `uttp333`) | 2 | V5 |
+| **Total CSV handle values rejected** | **39** | — |
 
-**After rejection, the validated set is:**
+The 47 platform-name variants normalize to **37 unique keys**. None were present in the CSV handle fields; the blocklist is preventive.
 
-- 5 Tier 1 confirmed brand-aligned handles
-- 7 Tier 2 structured cluster handles
-- 10 Tier 3 pattern-matched singles
-- **Total validated: 22**
+**After rejection, the candidate set is:**
 
-**The raw extraction overstates findings by a factor of roughly 6x if rejected entries are treated as findings.**
+- 14 CSV-backed brand candidates
+- 8 prior-extraction candidates not in the CSV
+- **22 unique candidates**
+
+Candidate means “structurally consistent,” not “confirmed account.” Ownership verified in this pass: **0**.
 
 ---
 
@@ -337,12 +346,14 @@ The "linked" counts in the raw extraction mixed user-owned links with platform s
 | 10.3 | **Independently verify Tier 1 and Tier 2 handles.** Confirm each resolves to a live account, is UTTP-aligned, and check current activity. | High |
 | 10.4 | **Do not publish Tier 3 without verification.** Tier 3 handles are single-source and may be unrelated individuals. | High |
 | 10.5 | **Document collision sources.** Maintain a running list of substring collisions discovered during extraction so future analyses do not re-introduce them. | Medium |
+| 10.6 | **Apply the platform-name blocklist before extraction/reporting.** Use `validation/styxnet_platform_name_blocklist.csv` and fail if a platform name is emitted as a handle. | Critical |
+| 10.7 | **Separate profile paths from ownership.** Do not count `profile_path_unverified` rows as confirmed accounts. | High |
 
 ---
 
-## 11. Appendix — Validated Handle Index
+## 11. Appendix — Candidate Handle Index
 
-### Tier 1 — Confirmed Brand-Aligned (5)
+### Tier 1 — Brand-Aligned Candidates (5)
 
 ```
 uttp.tumblr.com
@@ -352,7 +363,7 @@ frickfunnymikeuttpthtdc
 kiloratstrzntputtp.bsky.social
 ```
 
-### Tier 2 — Structured Cluster (7)
+### Tier 2 — Structured Cluster Candidates (7)
 
 ```
 uttparkrosie.bsky.social
@@ -364,7 +375,7 @@ uttpus.bsky.social
 kiloratstrzntputtp.bsky.social
 ```
 
-### Tier 3 — Pattern-Matched, Single Source (10)
+### Tier 3 — Pattern-Matched, Single Source Candidates (11)
 
 ```
 uttpower
@@ -386,10 +397,11 @@ safesurvivalofficial
 
 | Metric | Count |
 |---|---|
-| **Total validated** | **22** |
-| **Total rejected** | **~123** |
-| **Raw extraction total** | **~145** |
-| **Overstatement factor** | **~6x** |
+| **Total candidates** | **22** |
+| **CSV handle values rejected** | **39** |
+| **Platform-name variants blocklisted** | **47** (37 keys) |
+| **Raw rows** | **823** |
+| **Ownership verified** | **0** |
 
 ---
 

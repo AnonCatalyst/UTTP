@@ -8,18 +8,26 @@
 
 ---
 
+> **2026-11-19 correction:** This is a historical WIC analysis. Its “confirmed”
+> language overstates structural review. StyxNet candidates are **not
+> ownership-confirmed**. The platform-name count is **47 variants / 37 normalized
+> keys**, not 48. “764 Parent Entity” is corrected elsewhere: 764 is a designated
+> network listed as an O9A nexion; it is not a proven parent or command.
+> See `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` and
+> `14_O9A_764_TRACE/`.
+
 ## 1. EXECUTIVE SUMMARY
 
-This document consolidates all validated intelligence gathered through StyxNet username enumeration, cross-platform handle extraction, and open-source intelligence research against the target UTTP (UTubeTrollPolice / UTubeTrollPolice).
+This document consolidates a structural review of StyxNet username enumeration, cross-platform handle extraction, and open-source research against the target UTTP (UTubeTrollPolice / UTubeTrollPolice). It does not confirm ownership or membership.
 
-**Total validated handles:** 22
-**Total confirmed platforms:** 8
-**Total associated individuals identified:** 15+
-**Total source references:** 20+
+**Candidate handles:** 22 (14 CSV-backed + 8 prior-extraction)
+**Ownership-confirmed handles:** 0
+**Platforms with candidates:** 8
+**Source references:** 20+
 
-The raw extraction produced approximately 145 handle candidates. After applying strict validation rules (documented in [Section 3](#3-validation-methodology)), **22 handles** were confirmed as UTTP-aligned. The remaining entries were platform names, field labels, random strings, and substring collisions — documented in [Section 7](#7-rejected-findings).
+The raw CSV contains 823 rows and 54 unique supplementary handle values. After structural review, **22 candidate handles** remain (14 CSV-backed + 8 prior-extraction). They are **not ownership-confirmed**. The remaining entries were platform names, field labels, random strings, and substring collisions — documented in the validation layer.
 
-A **seven-handle Bluesky cluster** with rank-based naming was identified and confirmed as a likely coordinated sock network.
+A **seven-handle Bluesky cluster** with rank-based naming is structurally consistent with a coordinated sock network; this is an assessment, not an independently confirmed finding.
 
 ---
 
@@ -53,6 +61,8 @@ A **seven-handle Bluesky cluster** with rank-based naming was identified and con
 | **V5** | Handle must not be a random string (nonce, hash) |
 | **V6** | Handle must exhibit UTTP brand or faction patterning |
 | **V7** | Handle must be corroborated or cluster-matched |
+| **V8** | Handle must not be a platform/site identity string (47-variant blocklist) |
+| **V9** | Search, login, error, bot-check, and non-200 pages are not profiles |
 
 ### 3.2 Confidence Tiers
 
@@ -64,7 +74,7 @@ A **seven-handle Bluesky cluster** with rank-based naming was identified and con
 
 ---
 
-## 4. TIER 1 — CONFIRMED BRAND-ALIGNED HANDLES
+## 4. TIER 1 — BRAND-ALIGNED CANDIDATE HANDLES
 
 ### 4.1 `uttp.tumblr.com`
 
@@ -196,14 +206,14 @@ banban, emperor of anime sucks
 | **THTDC** | Faction | "The Hellfire Demonic Trolling Company" |
 | **DPOS** | Offshoot | Degeneracy Police Order State |
 | **SRA** | Com Clan | Spam Report Army |
-| **764** | Parent Entity | Terrorist designation |
+| **764** | Designated network | Listed as an O9A nexion; not a proven parent |
 | **AUTTP** | Opposition | Anti-UTTP Coalition |
 
 ---
 
 ## 8. PLATFORM PRESENCE MAP
 
-| Platform | Presence Type | Confirmed Handles |
+| Platform | Presence Type | Candidate Handles |
 |---|---|---|
 | **Bluesky** | Structured cluster | 7 handles (Tier 2) |
 | **Tumblr** | Direct subdomain | `uttp.tumblr.com` |
@@ -260,7 +270,8 @@ UTTP copied tactics from **764**, a designated terrorist entity. The "kill a cat
 
 | # | Action | Priority |
 |---|---|---|
-| 1 | **Patch StyxNet extractor** — reject substring collisions (buttplug, Uttapal) | Critical |
+| 1 | **Apply the platform-name blocklist and row classes** before extraction/reporting | Critical |
+| 1a | **Reject substring collisions** (buttplug, Uttapal) | Critical |
 | 2 | **Separate user-owned links from scaffolding** in link counting | Critical |
 | 3 | **Independently verify Bluesky cluster** — confirm operators, activity status | High |
 | 4 | **Cross-reference named members** against public records | High |
@@ -269,9 +280,9 @@ UTTP copied tactics from **764**, a designated terrorist entity. The "kill a cat
 
 ---
 
-## 12. APPENDIX — VALIDATED HANDLE INDEX
+## 12. APPENDIX — CANDIDATE HANDLE INDEX
 
-### Tier 1 — Confirmed Brand-Aligned (5)
+### Tier 1 — Brand-Aligned Candidates (5)
 
 ```
 uttp.tumblr.com

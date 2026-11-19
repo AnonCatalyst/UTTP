@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-11-19 — StyxNet accuracy pass
+
+- Added `09_STYXNET_REPORTS/validation/` with a reproducible validator, a
+  47-variant platform-name blocklist, handle/row class counts, and a
+  candidate-only output.
+- Corrected the platform-name count from “48” to **47 variants / 37 normalized
+  keys**; earlier wording was wrong.
+- Corrected “760 primary detections / 823 profiles” to **823 rows** (761 exact,
+  62 similarity; 760 unique platform labels).
+- Separated **profile-path candidates** from **ownership-confirmed accounts**;
+  ownership verified in this pass is **0**.
+- Raw StyxNet exports were not modified.
+- No private data was added.
+
 ## 2026-11-19 — O9A trace and 764→O9A correction
 
 - Added `14_O9A_764_TRACE/` with a sourced O9A profile, the 764→O9A trace,

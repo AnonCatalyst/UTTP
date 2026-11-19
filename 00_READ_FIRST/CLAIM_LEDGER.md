@@ -178,7 +178,7 @@ Legend:
 | --- | --- | --- | --- |
 | 6 GB public release | E (release notice) | Archive release README, WIC statement | Public release is 6 GB. |
 | “10 GB total / 4 GB remaining” | X | Older wording | Superseded. Do not repeat. |
-| 534 original tracked files preserved; manifest currently lists 578 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
+| 534 original tracked files preserved; manifest currently lists 586 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
 | Every original file preserved in reorg | E | Git rename history + manifest | No content deletion in the 2026-11-19 pass; paths changed. |
 | Archive is a “target list” | X | Archive scope and policy | It explicitly is not. |
 
@@ -194,3 +194,22 @@ Legend:
 
 If you find a primary source that changes a row, open an issue with the source
 and the exact claim. WIC reviews corrections before changing the ledger.
+
+---
+
+## 9. StyxNet validation
+
+| Claim | Confidence | Basis | Note |
+| --- | --- | --- | --- |
+| StyxNet raw export contains 823 rows | E | Raw CSV row count | 761 exact; 62 similarity. |
+| “823 profiles” | X | Raw report wording | Rows are not profiles; many are search/login/error pages. |
+| “760 primary detections” | X | Earlier summary | There are 823 rows and 760 unique platform labels. |
+| 47 platform-name variants, 37 normalized keys | E | `validation/styxnet_platform_name_blocklist.csv` | Earlier “48” was wrong. |
+| No platform name is a validated handle | E | Blocklist + script check | Platform names are site identity, not handles. |
+| 15 CSV-backed structural candidates | A/S | `validation/styxnet_handle_candidates.csv` | 14 brand-token + 1 target-only; ownership not verified. |
+| 22 candidate handles in the manual report | A/S | 14 CSV-backed + 8 prior-extraction | Not confirmed accounts. |
+| Ownership verified for any StyxNet handle | X | No live ownership check in this pass | 0 verified. |
+| 580 `profile_path_unverified` rows | A | Heuristic row classification | URL shape only; not identity. |
+
+Read `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` before
+citing a StyxNet handle.

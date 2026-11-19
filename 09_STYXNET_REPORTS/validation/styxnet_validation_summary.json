@@ -1,0 +1,33 @@
+{
+  "raw_file": "09_STYXNET_REPORTS/styxnet_UTTP_csv_1789803261.csv",
+  "raw_sha256": "fa3b9dfad46da9db644d26be13cf5e23555c791ea7cfae6c241b6ef1ae92a858",
+  "raw_rows": 823,
+  "search_types": {
+    "exact": 761,
+    "similarity": 62
+  },
+  "platform_variants": 47,
+  "platform_normalized_keys": 37,
+  "unique_handles": 54,
+  "handle_classes": {
+    "candidate:brand_token_cluster_tier2": 7,
+    "candidate:brand_token_tier1": 3,
+    "candidate:brand_token_tier3": 4,
+    "candidate:target_handle_only": 1,
+    "rejected:collision_uttapal_name": 16,
+    "rejected:fuzzy_match_false_positive": 3,
+    "rejected:low_signal_numeric": 2,
+    "rejected:substring_collision_butt": 18
+  },
+  "row_classes": {
+    "duplicate_url": 7,
+    "error_or_gated_page": 108,
+    "gated_or_generic_page": 6,
+    "non_profile_artifact": 1,
+    "profile_path_unverified": 580,
+    "search_or_query_page": 48,
+    "unclear": 73
+  },
+  "candidate_handles": 15,
+  "ownership_verified": 0
+}

@@ -105,7 +105,7 @@ The goal is accountability through documentation. Nothing more.
 | [`06_COMMUNITY_NOTES/`](06_COMMUNITY_NOTES/) | Endorsements, petitions, community context. |
 | [`07_DONATED_DOCUMENTS/`](07_DONATED_DOCUMENTS/) | Donated notes, links, and supplementary intelligence. |
 | [`08_DTAD_2025/`](08_DTAD_2025/) | DTAD 2025 server/user exports. |
-| [`09_STYXNET_REPORTS/`](09_STYXNET_REPORTS/) | StyxNet exports and recon reports. |
+| [`09_STYXNET_REPORTS/`](09_STYXNET_REPORTS/) | StyxNet exports, recon reports, and the 2026-11-19 validation layer. |
 | [`10_SOURCES/`](10_SOURCES/) | Source indexes and law-enforcement/academic maps. |
 | [`11_RESEARCH_EXPANSION/`](11_RESEARCH_EXPANSION/) | 2026 landscape expansion, source ledger, FPE correction, verification queue. |
 | [`12_TRACKING/`](12_TRACKING/) | Group-level UTTP tracking board, register, methods, collection plan, INBOX for new notes. |

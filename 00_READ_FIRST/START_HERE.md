@@ -66,7 +66,7 @@ ledger separates:
 | `06_COMMUNITY_NOTES/` | Endorsements, petitions, Soyjak Wiki rebuttal, community context. |
 | `07_DONATED_DOCUMENTS/` | Donated notes, links, and supplementary intelligence. |
 | `08_DTAD_2025/` | DTAD 2025 dataset: malicious server lists and user exports. |
-| `09_STYXNET_REPORTS/` | StyxNet exports and UTTP identity/recon reports. |
+| `09_STYXNET_REPORTS/` | StyxNet exports, UTTP recon, and the validation layer. |
 | `10_SOURCES/` | Source indexes and law-enforcement/academic source maps. |
 | `11_RESEARCH_EXPANSION/` | New 2026 landscape, source ledger, FPE operation, open questions. |
 | `12_TRACKING/` | Group-level tracking: snapshot, register, board, methods, INBOX, collection plan, leads. |
@@ -90,6 +90,8 @@ recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
 - Added a data dictionary and path map.
 - Added `14_O9A_764_TRACE/` with a sourced O9A profile and 764→O9A trace;
   corrected the NZ notice number to `2025-au7135`.
+- Added a StyxNet validation layer with a 47-variant platform-name blocklist
+  and separated structural candidates from ownership-confirmed accounts.
 - Kept every original file and every original folder's contents.
 
 ---
