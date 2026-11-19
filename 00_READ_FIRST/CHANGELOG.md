@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-19 — Live monitoring and TEL auto-fill
+
+- Added `20_LIVE_MONITORING/` with a StyxNet/source watch feed, pipeline, and
+  environment-aware runner.
+- TEL auto-fill runs through `fill_tel.py`; TEL records are exposed in the
+  entity intelligence JSON and page.
+- Page auto-refreshes every 60 seconds; pipeline runs every 15 minutes.
+- Added strict validation counts to the monitor tab.
+- Manifest updated to 630 files; 0 hash/size errors.
+
 ## 2026-11-19 — Entity intelligence page and generator
 
 - Added `18_ENTITY_TRACKING/` with `entity-intelligence.json`,

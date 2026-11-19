@@ -1,0 +1,20 @@
+{
+  "updated": "2026-11-19T03:22:35Z",
+  "count": 1,
+  "entries": [
+    {
+      "tel_id": 9,
+      "name": "Nintendeen",
+      "type": "Crime_Supporter_Manipulator",
+      "threat_level": "medium",
+      "category": "Youtube_X",
+      "created_at": "2026-08-08 02:42:00",
+      "tags": [
+        "Medium_threat"
+      ],
+      "status": "intake",
+      "confidence": "D/S",
+      "note": "Newly listed in TEL. Tracked as an intake lead; not yet profiled in the entity register."
+    }
+  ]
+}

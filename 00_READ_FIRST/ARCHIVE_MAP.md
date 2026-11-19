@@ -199,6 +199,16 @@ Group-level entity intelligence data and generator:
 - `entity-intelligence.json` — entities, areas, sources, claims, watchlist, evolution model.
 - `build_entity_intelligence.py` — rebuilds the JSON from archive registers.
 
+## 20_LIVE_MONITORING
+
+Automated monitoring and pipeline:
+
+- `README.md` — scope and safety boundary.
+- `monitor.py` — lightweight StyxNet/source watch feed.
+- `run_pipeline.py` — strict validation, monitoring, TEL fill, JSON build.
+- `run_pipeline.sh` — environment-aware pipeline wrapper.
+- `monitor_feed.json` — latest source-watch feed.
+
 ## Root files
 
 - `README.md` — public front page and warnings.

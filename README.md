@@ -115,6 +115,7 @@ The goal is accountability through documentation. Nothing more.
 | [`16_VALIDATED_FALSE_CLAIMS/`](16_VALIDATED_FALSE_CLAIMS/) | Quarantined false/superseded claims and approved replacements. |
 | [`17_CURRENT_STATE_PACKAGE/`](17_CURRENT_STATE_PACKAGE/) | Short current-state assessment and platform/authority handoff package. |
 | [`18_ENTITY_TRACKING/`](18_ENTITY_TRACKING/) | Group-level entity intelligence data, generator, and public page source. |
+| [`20_LIVE_MONITORING/`](20_LIVE_MONITORING/) | Automated monitor, pipeline, and StyxNet overtime feed. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and

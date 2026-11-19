@@ -187,7 +187,7 @@ Legend:
 | --- | --- | --- | --- |
 | 6 GB public release | E (release notice) | Archive release README, WIC statement | Public release is 6 GB. |
 | “10 GB total / 4 GB remaining” | X | Older wording | Superseded. Do not repeat. |
-| 534 original tracked files preserved; manifest currently lists 615 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
+| 534 original tracked files preserved; manifest currently lists 630 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
 | Every original file preserved in reorg | E | Git rename history + manifest | No content deletion in the 2026-11-19 pass; paths changed. |
 | Archive is a “target list” | X | Archive scope and policy | It explicitly is not. |
 

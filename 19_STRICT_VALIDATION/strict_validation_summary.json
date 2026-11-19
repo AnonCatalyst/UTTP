@@ -1,0 +1,35 @@
+{
+  "raw_rows": 823,
+  "strict_valid": 233,
+  "rejected": 590,
+  "rejection_reasons": {
+    "confidence_below_70": 348,
+    "duplicate_url": 6,
+    "empty_or_generic_title": 44,
+    "error_or_gated_page": 61,
+    "not_a_profile_path": 73,
+    "platform_name_not_handle": 10,
+    "search_or_query_page": 48,
+    "strict_valid": 233
+  },
+  "internal_links_checked": 113,
+  "broken_internal_links": [],
+  "json_files_checked": 122,
+  "bad_json_files": [],
+  "non_strict_json_exports": [
+    {
+      "file": "03_AFFILIATIONS/TM-TNM - The Militia/2025 Investigation/DOCS/Fanto-Fantology_artifact_1413616391952793771.json",
+      "error": "Expecting property name enclosed in double quotes: line 38 column 3 (char 1055)"
+    },
+    {
+      "file": "02_CORE_INVESTIGATION/Members_List/WIC_OSINT_UTTP_CG_Burner_Profile_2026-11-13.json",
+      "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
+    }
+  ],
+  "csv_files_checked": 17,
+  "bad_csv_files": [],
+  "manifest_rows_checked": 630,
+  "bad_manifest_rows": [],
+  "manifest_hash_ok": true,
+  "rule": "HTTP success, profile path, no search/login/error/gated/duplicate/unclear, confidence >= 70, non-generic title, platform not in blocklist."
+}

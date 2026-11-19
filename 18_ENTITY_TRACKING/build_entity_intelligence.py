@@ -7,6 +7,9 @@ SITE = Path('/var/www/html')
 OUT_REPO = ROOT / '18_ENTITY_TRACKING' / 'entity-intelligence.json'
 OUT_SITE = SITE / 'data' / 'entity-intelligence.json'
 
+def nkey(value):
+    return "".join(ch for ch in (value or "").lower() if ch.isalnum())
+
 def read_csv(path):
     with open(path, newline='', encoding='utf-8') as f:
         return list(csv.DictReader(f))
@@ -202,6 +205,38 @@ entities = [
   "id":"WIC","name":"WinterGate Intelligence Collective (WIC)","type":"documenter","status":"maintainer","confidence":"E","summary":"Not a UTTP member. Documents, publishes, and tracks at group level. Maintains the archive, validation layers, and handoff packages.","origin":"WIC","current_state":"Active documenter.","watch_priority":"low","related":["UTTP","DPOS","764","O9A"],"tactics":["documentation","validation","threat intelligence","defensive engineering"],"areas":["web","GitHub","Discord"],"evolution":[{"date":"2026-09-17","event":"UTTP investigation status recorded ACTIVE","confidence":"A"},{"date":"2026-11-19","event":"Archive v3 and current-state package published","confidence":"E"}],
   "sources":["S028","S030"],"not_supported":["WIC is a UTTP member","WIC is an FPE partner"],"learning":{"stage":"documenter","risk_score":0.0,"next_likely":"continued documentation","basis":"archive and methodology"}},
 ]
+methods = [
+ {"id":"M001","name":"Open-source intelligence (OSINT)","use":"Public records, archives, screenshots, exports, and public posts","confidence":"E/C/A"},
+ {"id":"M002","name":"Source-ledger verification","use":"Every claim tied to a source and confidence label","confidence":"E/C/A"},
+ {"id":"M003","name":"Claim-ledger correction","use":"False/superseded claims quarantined and replaced","confidence":"E/X"},
+ {"id":"M004","name":"StyxNet validation","use":"Platform-name blocklist; row/handle classification; no ownership assumption","confidence":"E/A"},
+ {"id":"M005","name":"TEL-style entity mapping","use":"Multi-parent cluster mapping and cross-referencing","confidence":"A/C"},
+ {"id":"M006","name":"Area intelligence","use":"Platform/surface mapping without account lists","confidence":"C/A/D"},
+ {"id":"M007","name":"Tracking registers","use":"Group/faction register, board, snapshot, collection plan, open leads","confidence":"A/D"},
+ {"id":"M008","name":"Evidence hashing","use":"SHA-256 manifest and chain-of-custody records","confidence":"E"},
+ {"id":"M009","name":"Confidence labelling","use":"E/C/A/S/D/X labels on claims and entities","confidence":"E/C/A"},
+ {"id":"M010","name":"Negative-finding discipline","use":"No evidence located is not proof of absence","confidence":"A"},
+ {"id":"M011","name":"No-target-list rule","use":"Group-level only; no private identifiers","confidence":"E"},
+ {"id":"M012","name":"Adaptive scoring","use":"Rule-based risk and morphology scoring from current data","confidence":"A"},
+ {"id":"M013","name":"Overtime monitoring","use":"Scheduled refresh, source checks, and snapshot deltas","confidence":"A"},
+ {"id":"M014","name":"Handoff packaging","use":"Short current-state brief for platforms and authorities","confidence":"A"},
+ {"id":"M015","name":"Raw-evidence preservation","use":"Original captures retained; corrections added, not silent deletion","confidence":"E"},
+]
+
+sources += [
+ {"id":"S041","name":"Encyclopedia Dramatica — Foodistzen","date":"2026-07-29","type":"community wiki","url":"https://edramatica.com/Foodistzen","use":"UTTP/Foodist/764/Skibidi Farms ecosystem context","confidence":"D"},
+ {"id":"S042","name":"Soyjak Wiki — Operation Destroy Degenerates December","date":"2026-09-29","type":"community wiki","url":"https://soyjakwiki.org/Operation_Destroy_Degenerates_December","use":"UTTP raid/campaign documentation","confidence":"D"},
+ {"id":"S043","name":"NoTrac3 / CyberCrimeDB — Operation Silent Forge","date":"2025-10","type":"third-party OSINT","url":"https://github.com/NoTrac3/CyberCrimeDB","use":"UCS/Spawnism/UTTP-DPOS raid coordination (third-party; unverified)","confidence":"D/S"},
+ {"id":"S044","name":"Spawnism explainer — Ultimate Pop Culture Wiki","date":"2025-07-14","type":"community wiki","url":"https://ultimatepopculture.fandom.com/wiki/Spawnism","use":"Spawnism practices and alleged UTTP/764 infiltration","confidence":"D/S"},
+ {"id":"S045","name":"Rina’s reports — Spawnism","date":"2025-08-01","type":"community reporting","url":"https://rinakochireports.lykhari.com/the-dark-side-of-spawnism-a-dangerous-roblox-trend-leading-kids-to-self-harm","use":"Spawnism, UTTP, and 764 crossover claims","confidence":"D/S"},
+ {"id":"S046","name":"Krebs on Security — The Dark Nexus Between Harm Groups and The Com","date":"2024-09-13","type":"journalism","url":"https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com","use":"Com/764 ecosystem and recruitment pathways","confidence":"C"},
+ {"id":"S047","name":"Global Project Against Hate and Extremism — 764 Network","date":"2026-03-13","type":"research","url":"https://globalextremism.org/post/764-network/","use":"764 network scope and child exploitation","confidence":"C"},
+ {"id":"S048","name":"Our Rescue — 6-7 is Silly, 764 is Deadly","date":"2025-12-23","type":"research","url":"https://ourrescue.org/resources/news-media/our-perspectives/6-7-is-silly-764-is-deadly-the-rise-of-decentralized-online-exploitation-terrorism","use":"Decentralised online exploitation terrorism","confidence":"C"},
+ {"id":"S049","name":"YouTube — ‘The UTTP Is Back in 2026’","date":"2026","type":"community video","url":"https://www.youtube.com/watch?v=IpQ8_vJIswY","use":"UTTP revival, 764/Spawnism connections (community)","confidence":"D"},
+ {"id":"S050","name":"YouTube — ‘YouTube’s Worst Troll Army - The UTTP 2026’","date":"2026-03-27","type":"community video","url":"https://www.youtube.com/watch?v=0oLInedw394","use":"UTTP 2026 activity and targets","confidence":"D"},
+]
+sources += [{'id': 'SL001', 'name': 'Canada Gazette, SOR/2025-263', 'date': '2025-12-17', 'type': 'Regulation', 'url': 'https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html', 'use': 'Legal instrument adding 764 to the Canadian list', 'confidence': 'E'}, {'id': 'SL002', 'name': 'NZ Gazette 2025-au7135', 'date': '2025-12-10', 'type': 'Government notice', 'url': 'https://gazette.govt.nz/notice/id/2025-au7135', 'use': 'New Zealand designation of O9A/ONA and Terrorgram Collective on 2025-12-07', 'confidence': 'E'}, {'id': 'SL003', 'name': 'NZ Police — O9A statement of case', 'date': '2025-12', 'type': 'Primary statement of case', 'url': 'https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf', 'use': 'O9A structure, nexions, and 764/NLM/MKY listing', 'confidence': 'E'}, {'id': 'SL004', 'name': 'NZ DPMC decision — Terrorgram/O9A', 'date': '2025', 'type': 'Government decision', 'url': 'https://www.dpmc.govt.nz/publication/decision-designate-terrorgram-collective-and-order-nine-angles-terrorist-entities', 'use': 'Reasoning for O9A designation', 'confidence': 'E'}, {'id': 'SL005', 'name': 'FBI — Maine juvenile 764 case', 'date': '2025-2026', 'type': 'Law enforcement', 'url': 'https://www.fbi.gov/news/press-releases/maine-teenager-is-first-juvenile-in-the-nation-to-be-federally-charged-adjudicated-and-detained-for-acts-related-to-nihilistic-violent-extremist-groups-in-the-764-network', 'use': 'Federal 764-linked case involving a minor', 'confidence': 'E'}, {'id': 'SL006', 'name': 'DOJ — Cherkaoui complaint', 'date': '2025-11', 'type': 'Court complaint', 'url': 'https://www.justice.gov/usao-nj/media/1417486/dl?inline', 'use': 'Individual statements referencing UTTP and 764; not an organizational link', 'confidence': 'E'}]
+
 # ---------- areas aggregate ----------
 area_by_platform = {}
 for r in area_rows:
@@ -215,6 +250,112 @@ watch_rows = read_csv(ROOT / '17_CURRENT_STATE_PACKAGE' / 'OFFSHOOT_WATCHLIST.cs
 watchlist = []
 for r in watch_rows:
     watchlist.append({"name": r['name'], "type": r['type'], "status": r['status'], "confidence": r['confidence'], "indicators": r['watch_indicators'], "limits": r['limits']})
+
+strict_summary = json.loads((ROOT / '19_STRICT_VALIDATION' / 'strict_validation_summary.json').read_text(encoding='utf-8'))
+strict_validation = {
+ "raw_rows": strict_summary.get('raw_rows', 0),
+ "strict_valid": strict_summary.get('strict_valid', 0),
+ "rejected": strict_summary.get('rejected', 0),
+ "broken_internal_links": strict_summary.get('broken_internal_links', 0),
+ "bad_json_files": strict_summary.get('bad_json_files', []),
+ "non_strict_json_exports": strict_summary.get('non_strict_json_exports', []),
+ "bad_csv_files": strict_summary.get('bad_csv_files', []),
+ "bad_manifest_rows": strict_summary.get('bad_manifest_rows', []),
+ "manifest_hash_ok": strict_summary.get('manifest_hash_ok', False),
+ "rejection_reasons": strict_summary.get('rejection_reasons', {}),
+}
+monitor_feed_path = ROOT / '20_LIVE_MONITORING' / 'monitor_feed.json'
+monitor_feed = json.loads(monitor_feed_path.read_text(encoding='utf-8')) if monitor_feed_path.exists() else {}
+
+tel_intake_path = ROOT / '20_LIVE_MONITORING' / 'tel_intake.json'
+tel_intake = json.loads(tel_intake_path.read_text(encoding='utf-8')) if tel_intake_path.exists() else {'count': 0, 'entries': []}
+cold_status_path = ROOT / '20_LIVE_MONITORING' / 'cold_storage_status.json'
+cold_status = json.loads(cold_status_path.read_text(encoding='utf-8')) if cold_status_path.exists() else {}
+cold_status_path = ROOT / '20_LIVE_MONITORING' / 'cold_storage_status.json'
+cold_status = json.loads(cold_status_path.read_text(encoding='utf-8')) if cold_status_path.exists() else {}
+
+# ---------- source index ingestion ----------
+source_index = json.load(open(ROOT / '10_SOURCES' / 'UTTP_INVESTIGATION_SOURCE_INDEX.json'))['sources']
+conf_map = {
+ 'Government Designation':'E',
+ 'Government Statement':'E',
+ 'Government Legal Document':'E',
+ 'FBI Press Release':'E',
+ 'DOJ Press Release':'E',
+ 'Law Enforcement Press Release':'E',
+ 'Law Enforcement Publication':'E',
+ 'Congressional Investigation':'E',
+ 'Academic Panel Discussion':'C',
+ 'GNET Research':'C',
+ 'CTC West Point Research':'C',
+ 'Think Tank Analysis':'C',
+ 'Investigative Analysis':'C/A',
+ 'OSINT Publication':'C/A',
+ 'News Coverage':'C',
+ 'News Coverage (ISD Cited)':'C',
+ 'Community Wiki':'D',
+ 'Community Documentation':'D',
+ 'Public Petition':'D',
+ 'Primary Archive':'A',
+ 'Official Fediverse Account':'A',
+}
+seen = {nkey(x['name']) for x in sources}
+for i, src in enumerate(source_index, 1):
+    key = nkey(src['name'])
+    if key in seen:
+        continue
+    seen.add(key)
+    sources.append({
+        "id": f"SI{i:03d}",
+        "name": src['name'],
+        "date": "2026-09-21",
+        "type": src.get('type','source'),
+        "url": src.get('link',''),
+        "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+        "confidence": conf_map.get(src.get('type',''), 'D'),
+    })
+
+monitor = {
+ "updated": "2026-11-19",
+ "styxnet": {
+  "raw_rows": 823,
+  "exact_rows": 761,
+  "similarity_rows": 62,
+  "unique_platform_labels": 760,
+  "unique_handle_values": 54,
+  "platform_variants": 47,
+  "platform_normalized_keys": 37,
+  "candidate_handles": 15,
+  "ownership_verified": 0,
+  "profile_path_unverified": 580,
+  "search_or_query_pages": 48,
+  "error_or_gated_pages": 108,
+  "unclear_rows": 73,
+ },
+ "archive": {
+  "manifest_files": 630,
+  "public_release_gb": 6,
+  "entity_count": len(entities),
+  "source_count": len(sources),
+  "area_rows": len(area_rows),
+  "area_platforms": len(areas),
+  "claim_count": len(claims),
+  "watchlist_count": len(watchlist),
+  "evolution_events": sum(len(e.get("evolution",[])) for e in entities),
+  "unique_tactics": len(set(t for e in entities for t in e.get("tactics",[]))),
+ },
+ "monitor_feed": monitor_feed,
+ "tel_records": monitor_feed.get("tel_records"),
+ "tel_intake": tel_intake.get("count", 0),
+ "cold_storage": cold_status,
+ "overtime": {
+  "mode": "rule-based scheduled refresh",
+  "refresh_seconds": 30,
+  "last_refresh": __import__("datetime").datetime.now(__import__("datetime").timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+  "next_checks": ["offshoot survival","platform removals","new brands","designation/arrest changes","archive integrity"],
+ },
+}
+
 
 data = {
  "meta": {
@@ -236,6 +377,13 @@ data = {
  "sources": sources,
  "claims": claims,
  "watchlist": watchlist,
+ "strict_validation": strict_validation,
+ "monitor_feed": monitor_feed,
+ "tel_intake": tel_intake,
+ "cold_storage": cold_status,
+ "methods": methods,
+ "tel_records": monitor_feed.get("tel_records"),
+ "monitor": monitor,
  "evolution_model": {
   "stages": ["origin","escalation","fragmentation","bridge","decline","successor"],
   "rules": [

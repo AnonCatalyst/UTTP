@@ -6,7 +6,7 @@
     "entity_count": 30,
     "area_rows": 200,
     "area_platforms": 20,
-    "source_count": 40,
+    "source_count": 91,
     "claim_count": 44,
     "watchlist_count": 12,
     "privacy": "No target list. Areas are platforms/surfaces, not people. Handles are leads, not identities.",
@@ -4197,6 +4197,465 @@
       "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
       "use": "Short current-state and platform/authority handoff",
       "confidence": "C/A/D"
+    },
+    {
+      "id": "S041",
+      "name": "Encyclopedia Dramatica — Foodistzen",
+      "date": "2026-07-29",
+      "type": "community wiki",
+      "url": "https://edramatica.com/Foodistzen",
+      "use": "UTTP/Foodist/764/Skibidi Farms ecosystem context",
+      "confidence": "D"
+    },
+    {
+      "id": "S042",
+      "name": "Soyjak Wiki — Operation Destroy Degenerates December",
+      "date": "2026-09-29",
+      "type": "community wiki",
+      "url": "https://soyjakwiki.org/Operation_Destroy_Degenerates_December",
+      "use": "UTTP raid/campaign documentation",
+      "confidence": "D"
+    },
+    {
+      "id": "S043",
+      "name": "NoTrac3 / CyberCrimeDB — Operation Silent Forge",
+      "date": "2025-10",
+      "type": "third-party OSINT",
+      "url": "https://github.com/NoTrac3/CyberCrimeDB",
+      "use": "UCS/Spawnism/UTTP-DPOS raid coordination (third-party; unverified)",
+      "confidence": "D/S"
+    },
+    {
+      "id": "S044",
+      "name": "Spawnism explainer — Ultimate Pop Culture Wiki",
+      "date": "2025-07-14",
+      "type": "community wiki",
+      "url": "https://ultimatepopculture.fandom.com/wiki/Spawnism",
+      "use": "Spawnism practices and alleged UTTP/764 infiltration",
+      "confidence": "D/S"
+    },
+    {
+      "id": "S045",
+      "name": "Rina’s reports — Spawnism",
+      "date": "2025-08-01",
+      "type": "community reporting",
+      "url": "https://rinakochireports.lykhari.com/the-dark-side-of-spawnism-a-dangerous-roblox-trend-leading-kids-to-self-harm",
+      "use": "Spawnism, UTTP, and 764 crossover claims",
+      "confidence": "D/S"
+    },
+    {
+      "id": "S046",
+      "name": "Krebs on Security — The Dark Nexus Between Harm Groups and The Com",
+      "date": "2024-09-13",
+      "type": "journalism",
+      "url": "https://krebsonsecurity.com/2024/09/the-dark-nexus-between-harm-groups-and-the-com",
+      "use": "Com/764 ecosystem and recruitment pathways",
+      "confidence": "C"
+    },
+    {
+      "id": "S047",
+      "name": "Global Project Against Hate and Extremism — 764 Network",
+      "date": "2026-03-13",
+      "type": "research",
+      "url": "https://globalextremism.org/post/764-network/",
+      "use": "764 network scope and child exploitation",
+      "confidence": "C"
+    },
+    {
+      "id": "S048",
+      "name": "Our Rescue — 6-7 is Silly, 764 is Deadly",
+      "date": "2025-12-23",
+      "type": "research",
+      "url": "https://ourrescue.org/resources/news-media/our-perspectives/6-7-is-silly-764-is-deadly-the-rise-of-decentralized-online-exploitation-terrorism",
+      "use": "Decentralised online exploitation terrorism",
+      "confidence": "C"
+    },
+    {
+      "id": "S049",
+      "name": "YouTube — ‘The UTTP Is Back in 2026’",
+      "date": "2026",
+      "type": "community video",
+      "url": "https://www.youtube.com/watch?v=IpQ8_vJIswY",
+      "use": "UTTP revival, 764/Spawnism connections (community)",
+      "confidence": "D"
+    },
+    {
+      "id": "S050",
+      "name": "YouTube — ‘YouTube’s Worst Troll Army - The UTTP 2026’",
+      "date": "2026-03-27",
+      "type": "community video",
+      "url": "https://www.youtube.com/watch?v=0oLInedw394",
+      "use": "UTTP 2026 activity and targets",
+      "confidence": "D"
+    },
+    {
+      "id": "SL001",
+      "name": "Canada Gazette, SOR/2025-263",
+      "date": "2025-12-17",
+      "type": "Regulation",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors263-eng.html",
+      "use": "Legal instrument adding 764 to the Canadian list",
+      "confidence": "E"
+    },
+    {
+      "id": "SL002",
+      "name": "NZ Gazette 2025-au7135",
+      "date": "2025-12-10",
+      "type": "Government notice",
+      "url": "https://gazette.govt.nz/notice/id/2025-au7135",
+      "use": "New Zealand designation of O9A/ONA and Terrorgram Collective on 2025-12-07",
+      "confidence": "E"
+    },
+    {
+      "id": "SL003",
+      "name": "NZ Police — O9A statement of case",
+      "date": "2025-12",
+      "type": "Primary statement of case",
+      "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
+      "use": "O9A structure, nexions, and 764/NLM/MKY listing",
+      "confidence": "E"
+    },
+    {
+      "id": "SL004",
+      "name": "NZ DPMC decision — Terrorgram/O9A",
+      "date": "2025",
+      "type": "Government decision",
+      "url": "https://www.dpmc.govt.nz/publication/decision-designate-terrorgram-collective-and-order-nine-angles-terrorist-entities",
+      "use": "Reasoning for O9A designation",
+      "confidence": "E"
+    },
+    {
+      "id": "SL005",
+      "name": "FBI — Maine juvenile 764 case",
+      "date": "2025-2026",
+      "type": "Law enforcement",
+      "url": "https://www.fbi.gov/news/press-releases/maine-teenager-is-first-juvenile-in-the-nation-to-be-federally-charged-adjudicated-and-detained-for-acts-related-to-nihilistic-violent-extremist-groups-in-the-764-network",
+      "use": "Federal 764-linked case involving a minor",
+      "confidence": "E"
+    },
+    {
+      "id": "SL006",
+      "name": "DOJ — Cherkaoui complaint",
+      "date": "2025-11",
+      "type": "Court complaint",
+      "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
+      "use": "Individual statements referencing UTTP and 764; not an organizational link",
+      "confidence": "E"
+    },
+    {
+      "id": "SI001",
+      "name": "Canada Gazette, Part 2, Volume 159, Number 26: Regulations Amending the Regulations Establishing a List of Entities",
+      "date": "2026-09-21",
+      "type": "Government Designation",
+      "url": "https://gazette.gc.ca/rp-pr/p2/2025/2025-12-17/html/sor-dors276-eng.html",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI002",
+      "name": "Canada lists online extremist group '764' as terrorist entity",
+      "date": "2026-09-21",
+      "type": "News Coverage",
+      "url": "https://english.news.cn/20251211/8b8c8c8c8c8c8c8c8c8c8c8c8c8c8c8c/c.html",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI003",
+      "name": "764, Maniac Murder Cult and Terrorgram Collective",
+      "date": "2026-09-21",
+      "type": "Law Enforcement Publication",
+      "url": "https://www.blueline.ca/764-maniac-murder-cult-and-terrorgram-collective/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI004",
+      "name": "Canada becomes 1st country to list extremist network 764 as terrorists",
+      "date": "2026-09-21",
+      "type": "News Coverage",
+      "url": "https://www.cbc.ca/news/politics/canada-terrorist-entities-764-1.7037964",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI005",
+      "name": "Youth involved in terrorist activities of the 764 Network placed on Peace Bond by RCMP",
+      "date": "2026-09-21",
+      "type": "Law Enforcement Press Release",
+      "url": "https://rcmp.ca/en/news/2026/02/youth-involved-terrorist-activities-764-network-placed-peace-bond-rcmp",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI006",
+      "name": "Designation of Two Terrorist Entities",
+      "date": "2026-09-21",
+      "type": "Government Designation",
+      "url": "https://gazette.govt.nz/notice/id/2025-au7135",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI007",
+      "name": "Decision to designate The Terrorgram Collective and the Order of the Nine Angles as terrorist entities",
+      "date": "2026-09-21",
+      "type": "Government Statement",
+      "url": "https://www.dpmc.govt.nz/publication/decision-designate-terrorgram-collective-and-order-nine-angles-terrorist-entities",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI008",
+      "name": "STATEMENT OF CASE TO DESIGNATE THE ORDER OF THE NINE ANGLES AS A TERRORIST ENTITY",
+      "date": "2026-09-21",
+      "type": "Government Legal Document",
+      "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI009",
+      "name": "Maine Teenager Is First Juvenile in the Nation to Be Federally Charged, Adjudicated, and Detained for Acts Related to Nihilistic Violent Extremist Groups in the 764 Network",
+      "date": "2026-09-21",
+      "type": "FBI Press Release",
+      "url": "https://www.fbi.gov/news/press-releases/maine-teenager-is-first-juvenile-in-the-nation-to-be-federally-charged-adjudicated-and-detained-for-acts-related-to-nihilistic-violent-extremist-groups-in-the-764-network",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI010",
+      "name": "FBI Boston Warns of Nihilistic Violent Extremists Targeting Children and Vulnerable Victims Online",
+      "date": "2026-09-21",
+      "type": "FBI Press Release",
+      "url": "https://www.fbi.gov/news/press-releases/fbi-boston-warns-of-nihilistic-violent-extremists-targeting-children-and-vulnerable-victims-online",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI011",
+      "name": "FBI Dallas Open Letter to Parents, Guardians, and Teachers",
+      "date": "2026-09-21",
+      "type": "FBI Press Release",
+      "url": "https://www.fbi.gov/news/press-releases/fbi-dallas-open-letter-to-parents-guardians-and-teachers",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI012",
+      "name": "Albany County Man and Alleged Member of Nihilistic Violent Extremist Organization 764 Charged with Receiving Child Pornography",
+      "date": "2026-09-21",
+      "type": "DOJ Press Release",
+      "url": "https://www.justice.gov/usao-ndny/pr/albany-county-man-and-alleged-member-nihilistic-violent-extremist-organization-764",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI013",
+      "name": "Member of Nihilistic Violent Extremist Group '764' Pleads Guilty to Child Exploitation Offenses",
+      "date": "2026-09-21",
+      "type": "DOJ Press Release",
+      "url": "https://www.justice.gov/usao-md/pr/member-nihilistic-violent-extremist-group-764-pleads-guilty-child-exploitation-offenses",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI014",
+      "name": "New York Man and Alleged Member of Nihilistic Violent Extremist Organization 764 Charged with Receiving Child Pornography",
+      "date": "2026-09-21",
+      "type": "DOJ Press Release",
+      "url": "https://www.justice.gov/usao-ndny/pr/new-york-man-and-alleged-member-nihilistic-violent-extremist-organization-764-charged",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI015",
+      "name": "Comer and Higgins Investigate Violent Online Network 764",
+      "date": "2026-09-21",
+      "type": "Congressional Investigation",
+      "url": "https://oversight.house.gov/release/comer-and-higgins-investigate-violent-online-network-764/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI016",
+      "name": "Violent Extremist Network '764' Member Pleads Guilty to Sexually Exploiting Minors and Cyberstalking",
+      "date": "2026-09-21",
+      "type": "DOJ Press Release",
+      "url": "https://www.justice.gov/usao-md/pr/violent-extremist-network-764-member-pleads-guilty-sexually-exploiting-minors-and",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI017",
+      "name": "The Frightening Reality of Online Predators",
+      "date": "2026-09-21",
+      "type": "DOJ Publication",
+      "url": "https://www.justice.gov/archives/opa/blog/frightening-reality-online-predators",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "D"
+    },
+    {
+      "id": "SI018",
+      "name": "Violent Extremist Network '764' Member Facing Federal Indictment for Sexual Exploitation, Coercion and Enticement of Minors, Cyberstalking",
+      "date": "2026-09-21",
+      "type": "DOJ Press Release",
+      "url": "https://www.justice.gov/usao-md/pr/violent-extremist-network-764-member-facing-federal-indictment-sexual-exploitation",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "E"
+    },
+    {
+      "id": "SI019",
+      "name": "Holding 764 Accountable",
+      "date": "2026-09-21",
+      "type": "Academic Panel Discussion",
+      "url": "https://extremism.gwu.edu/holding-764-accountable",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI020",
+      "name": "An inside look at the 'Satanic, neo-Nazi' pedophile cult that ensnared NYC man arrested on gun charges",
+      "date": "2026-09-21",
+      "type": "News Coverage (ISD Cited)",
+      "url": "https://nypost.com/2023/09/28/an-inside-look-at-the-satanic-neo-nazi-pedophile-cult-that-ensnared-nyc-man-arrested-on-gun-charges/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI021",
+      "name": "What is Nihilistic Violent Extremism?",
+      "date": "2026-09-21",
+      "type": "Think Tank Analysis",
+      "url": "https://epis-thinktank.com/what-is-nihilistic-violent-extremism/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI022",
+      "name": "Escape The Void: Responding to Youth-Led Nihilistic Violence",
+      "date": "2026-09-21",
+      "type": "GNET Research",
+      "url": "https://gnet-research.org/2026/02/02/escape-the-void-responding-to-youth-led-nihilistic-violence/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI023",
+      "name": "The Designation of 764 Network: Why Does it Matter?",
+      "date": "2026-09-21",
+      "type": "GNET Research",
+      "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI024",
+      "name": "Remotely Coerced Violence: 764, The Com Network, and the Hybridization of Threats",
+      "date": "2026-09-21",
+      "type": "CTC West Point Research",
+      "url": "https://ctc.westpoint.edu/remotely-coerced-violence-764-the-com-network-and-the-hybridization-of-threats/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI025",
+      "name": "The Origins of 764",
+      "date": "2026-09-21",
+      "type": "Investigative Analysis",
+      "url": "https://bxwrites.substack.com/p/the-origins-of-764",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C/A"
+    },
+    {
+      "id": "SI026",
+      "name": "From Nihilism to Violence: Inside the Emerging Nexus Between The Com and Satanic Extremism",
+      "date": "2026-09-21",
+      "type": "OSINT Publication",
+      "url": "https://redpillreversal.substack.com/p/from-nihilism-to-violence-inside",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C/A"
+    },
+    {
+      "id": "SI027",
+      "name": "How 764 'extorts' their victims [EXPOSED]",
+      "date": "2026-09-21",
+      "type": "Community Documentation",
+      "url": "https://www.reddit.com/r/InternetDrama/comments/1dwv2q9/how_764_extorts_their_victims_exposed/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "D"
+    },
+    {
+      "id": "SI028",
+      "name": "Failtrolls - Soyjak Wiki (UTTP, Tommy Parky, FBI Investigation)",
+      "date": "2026-09-21",
+      "type": "Community Wiki",
+      "url": "https://soyjakwiki.org/Failtrolls",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "D"
+    },
+    {
+      "id": "SI029",
+      "name": "HYPER BAT MAPPING",
+      "date": "2026-09-21",
+      "type": "Community Wiki",
+      "url": "https://en.mappingwiki.org/wiki/HYPER_BAT_MAPPING",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "D"
+    },
+    {
+      "id": "SI030",
+      "name": "Sign the Petition: Skibidifarms",
+      "date": "2026-09-21",
+      "type": "Public Petition",
+      "url": "https://www.change.org/p/stop-skibidifarms",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "D"
+    },
+    {
+      "id": "SI031",
+      "name": "GitHub - WinterGate-IC/UTTP: UTTP Investigation Archive",
+      "date": "2026-09-21",
+      "type": "Primary Archive",
+      "url": "https://github.com/WinterGate-IC/UTTP",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "A"
+    },
+    {
+      "id": "SI032",
+      "name": "WinterGate Intelligence Collective (@WinterGateIC@infosec.exchange)",
+      "date": "2026-09-21",
+      "type": "Official Fediverse Account",
+      "url": "https://infosec.exchange/@WinterGateIC",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "A"
+    },
+    {
+      "id": "SI033",
+      "name": "Court documents detail teenager's alleged plans to attack Christians",
+      "date": "2026-09-21",
+      "type": "News Coverage",
+      "url": "https://www.washingtonexaminer.com/news/justice/court-documents-detail-teenagers-alleged-plans-to-attack-christians/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI034",
+      "name": "Teen who planned mass shooting at Wimauma church linked to 'Neo-Nazi, Satanic group,' sheriff says",
+      "date": "2026-09-21",
+      "type": "News Coverage",
+      "url": "https://www.wfla.com/news/hillsborough-county/teen-who-planned-mass-shooting-at-wimauma-church-linked-to-neo-nazi-satanic-group-sheriff-says/",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
+    },
+    {
+      "id": "SI035",
+      "name": "Teen arrested after allegedly discussing plans to shoot up church",
+      "date": "2026-09-21",
+      "type": "News Coverage",
+      "url": "https://abcnews.com/US/teen-arrested-allegedly-discussing-plans-shoot-church/story?id=107812345",
+      "use": "Legacy source-index entry; verify before citation. Retained for provenance.",
+      "confidence": "C"
     }
   ],
   "claims": [
@@ -4651,6 +5110,426 @@
       "limits": "Not UTTP command"
     }
   ],
+  "strict_validation": {
+    "raw_rows": 823,
+    "strict_valid": 233,
+    "rejected": 590,
+    "broken_internal_links": [],
+    "bad_json_files": [],
+    "non_strict_json_exports": [
+      {
+        "file": "03_AFFILIATIONS/TM-TNM - The Militia/2025 Investigation/DOCS/Fanto-Fantology_artifact_1413616391952793771.json",
+        "error": "Expecting property name enclosed in double quotes: line 38 column 3 (char 1055)"
+      },
+      {
+        "file": "02_CORE_INVESTIGATION/Members_List/WIC_OSINT_UTTP_CG_Burner_Profile_2026-11-13.json",
+        "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
+      }
+    ],
+    "bad_csv_files": [],
+    "bad_manifest_rows": [
+      {
+        "path": "00_READ_FIRST/CHANGELOG.md",
+        "reason": "hash_mismatch"
+      },
+      {
+        "path": "00_READ_FIRST/CLAIM_LEDGER.md",
+        "reason": "hash_mismatch"
+      },
+      {
+        "path": "12_TRACKING/TRACKING_BOARD.md",
+        "reason": "hash_mismatch"
+      },
+      {
+        "path": "18_ENTITY_TRACKING/build_entity_intelligence.py",
+        "reason": "hash_mismatch"
+      }
+    ],
+    "manifest_hash_ok": true,
+    "rejection_reasons": {
+      "confidence_below_70": 348,
+      "duplicate_url": 6,
+      "empty_or_generic_title": 44,
+      "error_or_gated_page": 61,
+      "not_a_profile_path": 73,
+      "platform_name_not_handle": 10,
+      "search_or_query_page": 48,
+      "strict_valid": 233
+    }
+  },
+  "monitor_feed": {
+    "updated": "2026-11-19T03:28:32Z",
+    "mode": "lightweight source watch",
+    "urls_checked": 10,
+    "results": [
+      {
+        "status": 0,
+        "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
+        "content_type": "",
+        "elapsed_ms": 5141,
+        "ok": false,
+        "error": "The read operation timed out",
+        "source_id": "S001",
+        "url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html"
+      },
+      {
+        "status": 200,
+        "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
+        "content_type": "text/html",
+        "elapsed_ms": 977,
+        "ok": true,
+        "source_id": "S003",
+        "url": "https://gazette.govt.nz/notice/id/2025-au7135"
+      },
+      {
+        "status": 200,
+        "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
+        "content_type": "application/pdf",
+        "elapsed_ms": 841,
+        "ok": true,
+        "source_id": "S005",
+        "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
+      },
+      {
+        "status": 200,
+        "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
+        "content_type": "text/html; charset=utf-8",
+        "elapsed_ms": 200,
+        "ok": true,
+        "source_id": "S013",
+        "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
+      },
+      {
+        "status": 200,
+        "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_ms": 437,
+        "ok": true,
+        "source_id": "S014",
+        "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
+      },
+      {
+        "status": 200,
+        "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
+        "content_type": "text/html; charset=utf-8",
+        "elapsed_ms": 105,
+        "ok": true,
+        "source_id": "S021",
+        "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
+      },
+      {
+        "status": 403,
+        "final_url": "https://soyjakwiki.org/UTTP",
+        "content_type": "text/html; charset=UTF-8",
+        "elapsed_ms": 95,
+        "ok": false,
+        "source_id": "S023",
+        "url": "https://soyjakwiki.org/UTTP"
+      },
+      {
+        "status": 200,
+        "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
+        "content_type": "application/pdf",
+        "elapsed_ms": 129,
+        "ok": true,
+        "source_id": "S031",
+        "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
+      },
+      {
+        "status": 200,
+        "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
+        "content_type": "text/html; charset=utf-8",
+        "elapsed_ms": 101,
+        "ok": true,
+        "source_id": "S034",
+        "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
+      },
+      {
+        "status": 200,
+        "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
+        "content_type": "text/html; charset=utf-8",
+        "elapsed_ms": 70,
+        "ok": true,
+        "source_id": "S040",
+        "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
+      }
+    ],
+    "tel_records": 31
+  },
+  "tel_intake": {
+    "updated": "2026-11-19T03:22:35Z",
+    "count": 1,
+    "entries": [
+      {
+        "tel_id": 9,
+        "name": "Nintendeen",
+        "type": "Crime_Supporter_Manipulator",
+        "threat_level": "medium",
+        "category": "Youtube_X",
+        "created_at": "2026-08-08 02:42:00",
+        "tags": [
+          "Medium_threat"
+        ],
+        "status": "intake",
+        "confidence": "D/S",
+        "note": "Newly listed in TEL. Tracked as an intake lead; not yet profiled in the entity register."
+      }
+    ]
+  },
+  "cold_storage": {
+    "updated": "2026-11-19T03:17:34.510281Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T031734Z.json.gz",
+    "snapshot_bytes": 3136,
+    "snapshots": 2,
+    "total_bytes": 6364,
+    "github": "disabled",
+    "tel_records": 31
+  },
+  "methods": [
+    {
+      "id": "M001",
+      "name": "Open-source intelligence (OSINT)",
+      "use": "Public records, archives, screenshots, exports, and public posts",
+      "confidence": "E/C/A"
+    },
+    {
+      "id": "M002",
+      "name": "Source-ledger verification",
+      "use": "Every claim tied to a source and confidence label",
+      "confidence": "E/C/A"
+    },
+    {
+      "id": "M003",
+      "name": "Claim-ledger correction",
+      "use": "False/superseded claims quarantined and replaced",
+      "confidence": "E/X"
+    },
+    {
+      "id": "M004",
+      "name": "StyxNet validation",
+      "use": "Platform-name blocklist; row/handle classification; no ownership assumption",
+      "confidence": "E/A"
+    },
+    {
+      "id": "M005",
+      "name": "TEL-style entity mapping",
+      "use": "Multi-parent cluster mapping and cross-referencing",
+      "confidence": "A/C"
+    },
+    {
+      "id": "M006",
+      "name": "Area intelligence",
+      "use": "Platform/surface mapping without account lists",
+      "confidence": "C/A/D"
+    },
+    {
+      "id": "M007",
+      "name": "Tracking registers",
+      "use": "Group/faction register, board, snapshot, collection plan, open leads",
+      "confidence": "A/D"
+    },
+    {
+      "id": "M008",
+      "name": "Evidence hashing",
+      "use": "SHA-256 manifest and chain-of-custody records",
+      "confidence": "E"
+    },
+    {
+      "id": "M009",
+      "name": "Confidence labelling",
+      "use": "E/C/A/S/D/X labels on claims and entities",
+      "confidence": "E/C/A"
+    },
+    {
+      "id": "M010",
+      "name": "Negative-finding discipline",
+      "use": "No evidence located is not proof of absence",
+      "confidence": "A"
+    },
+    {
+      "id": "M011",
+      "name": "No-target-list rule",
+      "use": "Group-level only; no private identifiers",
+      "confidence": "E"
+    },
+    {
+      "id": "M012",
+      "name": "Adaptive scoring",
+      "use": "Rule-based risk and morphology scoring from current data",
+      "confidence": "A"
+    },
+    {
+      "id": "M013",
+      "name": "Overtime monitoring",
+      "use": "Scheduled refresh, source checks, and snapshot deltas",
+      "confidence": "A"
+    },
+    {
+      "id": "M014",
+      "name": "Handoff packaging",
+      "use": "Short current-state brief for platforms and authorities",
+      "confidence": "A"
+    },
+    {
+      "id": "M015",
+      "name": "Raw-evidence preservation",
+      "use": "Original captures retained; corrections added, not silent deletion",
+      "confidence": "E"
+    }
+  ],
+  "tel_records": 31,
+  "monitor": {
+    "updated": "2026-11-19",
+    "styxnet": {
+      "raw_rows": 823,
+      "exact_rows": 761,
+      "similarity_rows": 62,
+      "unique_platform_labels": 760,
+      "unique_handle_values": 54,
+      "platform_variants": 47,
+      "platform_normalized_keys": 37,
+      "candidate_handles": 15,
+      "ownership_verified": 0,
+      "profile_path_unverified": 580,
+      "search_or_query_pages": 48,
+      "error_or_gated_pages": 108,
+      "unclear_rows": 73
+    },
+    "archive": {
+      "manifest_files": 630,
+      "public_release_gb": 6,
+      "entity_count": 30,
+      "source_count": 91,
+      "area_rows": 200,
+      "area_platforms": 20,
+      "claim_count": 44,
+      "watchlist_count": 12,
+      "evolution_events": 52,
+      "unique_tactics": 54
+    },
+    "monitor_feed": {
+      "updated": "2026-11-19T03:28:32Z",
+      "mode": "lightweight source watch",
+      "urls_checked": 10,
+      "results": [
+        {
+          "status": 0,
+          "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
+          "content_type": "",
+          "elapsed_ms": 5141,
+          "ok": false,
+          "error": "The read operation timed out",
+          "source_id": "S001",
+          "url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html"
+        },
+        {
+          "status": 200,
+          "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
+          "content_type": "text/html",
+          "elapsed_ms": 977,
+          "ok": true,
+          "source_id": "S003",
+          "url": "https://gazette.govt.nz/notice/id/2025-au7135"
+        },
+        {
+          "status": 200,
+          "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
+          "content_type": "application/pdf",
+          "elapsed_ms": 841,
+          "ok": true,
+          "source_id": "S005",
+          "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
+        },
+        {
+          "status": 200,
+          "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
+          "content_type": "text/html; charset=utf-8",
+          "elapsed_ms": 200,
+          "ok": true,
+          "source_id": "S013",
+          "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
+        },
+        {
+          "status": 200,
+          "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
+          "content_type": "text/html; charset=UTF-8",
+          "elapsed_ms": 437,
+          "ok": true,
+          "source_id": "S014",
+          "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
+        },
+        {
+          "status": 200,
+          "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
+          "content_type": "text/html; charset=utf-8",
+          "elapsed_ms": 105,
+          "ok": true,
+          "source_id": "S021",
+          "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
+        },
+        {
+          "status": 403,
+          "final_url": "https://soyjakwiki.org/UTTP",
+          "content_type": "text/html; charset=UTF-8",
+          "elapsed_ms": 95,
+          "ok": false,
+          "source_id": "S023",
+          "url": "https://soyjakwiki.org/UTTP"
+        },
+        {
+          "status": 200,
+          "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
+          "content_type": "application/pdf",
+          "elapsed_ms": 129,
+          "ok": true,
+          "source_id": "S031",
+          "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
+        },
+        {
+          "status": 200,
+          "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
+          "content_type": "text/html; charset=utf-8",
+          "elapsed_ms": 101,
+          "ok": true,
+          "source_id": "S034",
+          "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
+        },
+        {
+          "status": 200,
+          "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
+          "content_type": "text/html; charset=utf-8",
+          "elapsed_ms": 70,
+          "ok": true,
+          "source_id": "S040",
+          "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
+        }
+      ],
+      "tel_records": 31
+    },
+    "tel_records": 31,
+    "tel_intake": 1,
+    "cold_storage": {
+      "updated": "2026-11-19T03:17:34.510281Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261119T031734Z.json.gz",
+      "snapshot_bytes": 3136,
+      "snapshots": 2,
+      "total_bytes": 6364,
+      "github": "disabled",
+      "tel_records": 31
+    },
+    "overtime": {
+      "mode": "rule-based scheduled refresh",
+      "refresh_seconds": 30,
+      "last_refresh": "2026-11-19T03:28:32Z",
+      "next_checks": [
+        "offshoot survival",
+        "platform removals",
+        "new brands",
+        "designation/arrest changes",
+        "archive integrity"
+      ]
+    }
+  },
   "evolution_model": {
     "stages": [
       "origin",
