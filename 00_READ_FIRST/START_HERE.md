@@ -42,14 +42,16 @@ ledger separates:
 1. [ARCHIVE_MAP.md](ARCHIVE_MAP.md) — what is in each folder.
 2. [READING_ORDER.md](READING_ORDER.md) — recommended paths by reader type.
 3. [TIMELINE.md](TIMELINE.md) — dated events with confidence labels.
-4. [ENTITY_MAP.md](ENTITY_MAP.md) — group-level relationships, no private data.
+4. [ENTITY_MAP.md](ENTITY_MAP.md) — group-level relationships, with no newly added private identifiers.
 5. [CLAIM_LEDGER.md](CLAIM_LEDGER.md) — accuracy review and corrections.
 6. [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — file formats and fields.
 7. [11_RESEARCH_EXPANSION/README.md](../11_RESEARCH_EXPANSION/README.md) — expanded public-source research.
 8. [12_TRACKING/README.md](../12_TRACKING/README.md) — tracking snapshot, register, methods, and INBOX.
 9. [13_UTTP_764_OVERLAP/README.md](../13_UTTP_764_OVERLAP/README.md) — UTTP/764 profiles and overlap proof standard.
 10. [14_O9A_764_TRACE/README.md](../14_O9A_764_TRACE/README.md) — sourced 764→O9A trace and O9A profile.
-11. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+11. [15_VALIDATED_CLAIMS/README.md](../15_VALIDATED_CLAIMS/README.md) — approved claims and confidence.
+12. [16_VALIDATED_FALSE_CLAIMS/README.md](../16_VALIDATED_FALSE_CLAIMS/README.md) — quarantined false claims and replacements.
+13. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 
@@ -72,6 +74,8 @@ ledger separates:
 | `12_TRACKING/` | Group-level tracking: snapshot, register, board, methods, INBOX, collection plan, leads. |
 | `13_UTTP_764_OVERLAP/` | Detailed UTTP and 764 profiles, tactic-overlap matrix, evidence limits. |
 | `14_O9A_764_TRACE/` | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
+| `15_VALIDATED_CLAIMS/` | Claims that survived source review, with confidence labels. |
+| `16_VALIDATED_FALSE_CLAIMS/` | Quarantined false/superseded claims and approved replacements. |
 
 No original file was deleted in the 2026-11-19 organization pass. Moves are
 recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
@@ -94,6 +98,8 @@ recorded in [PATH_MAP.md](PATH_MAP.md). The pre-organization state is tagged
   and separated structural candidates from ownership-confirmed accounts.
 - Added a UTTP/764 final assessment: edge fusion is supported; operational-arm,
   merger, and 764-specific infiltration claims are not established.
+- Added `15_VALIDATED_CLAIMS/` and `16_VALIDATED_FALSE_CLAIMS/`; false claims
+  were stripped from current/historical analysis docs and quarantined.
 - Kept every original file and every original folder's contents.
 
 ---

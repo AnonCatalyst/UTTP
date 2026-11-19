@@ -1,31 +1,31 @@
 # WINTERGATE INTELLIGENCE COLLECTIVE
 
-> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+> **Accuracy note (2026-11-19):** False/superseded claims have been quarantined in `16_VALIDATED_FALSE_CLAIMS/`; the current public archive is **6 GB**. See `00_READ_FIRST/CLAIM_LEDGER.md` and `15_VALIDATED_CLAIMS/`.
 
 
 # UTTP: THE COMPLETE THREAT DOSSIER
 
 ## Volume I — Origins, Structure, Leadership, and Evolution
 
-**Compiled:** 2026-10-01  
-**Source:** WinterGate Intelligence Collective  
-**Classification:** Public — Threat Intelligence  
+**Compiled:** 2026-10-01
+**Source:** WinterGate Intelligence Collective
+**Classification:** Public — Threat Intelligence
 **Purpose:** To document UTTP's full history, organizational evolution, leadership structure, and operational methodology based on archived evidence, historical records, and verified intelligence
 
 ---
 
 ## EXECUTIVE SUMMARY
 
-UTTP (UTube Troll Police) is not a simple troll group. It is a **coordinated hate group** that has evolved over fifteen years from a Google+ harassment collective into a node within a transnational violent extremist network . This dossier documents the full scope of UTTP's operations: its founding by a convicted child groomer, its evolution through multiple leadership eras, its documented tactics, its infiltration by 764 operatives, and its current state as a decentralized network hiding in the darkest corners of the internet.
+UTTP (UTube Troll Police) is not a simple troll group. It is a **coordinated hate group** that has evolved over fifteen years from a Google+ harassment collective into a node within a transnational violent extremist network . This dossier documents the full scope of UTTP's operations: its founding by a convicted child groomer, its evolution through multiple leadership eras, its documented tactics, its alleged infiltration by NVE-linked actors, and its current state as a decentralized network hiding in the darkest corners of the internet.
 
 **Key Findings:**
 
-- UTTP was founded in 2011 by Thomas Parkinson, a documented child groomer 
+- UTTP was founded in 2011 by Thomas Parkinson, a documented child groomer
 - The group has had at least four distinct leadership eras, each more extreme than the last
-- 764 operatives infiltrated UTTP's high command in mid-to-late 2025 before any official partnership
-- UTTP operates as a **"brand" or "overcoat"** that can be easily replaced without changing core activities 
-- The group is linked to CSAM distribution, swatting, doxxing, and violent threats 
-- Government designations now classify 764 (UTTP's parent ecosystem) as a terrorist entity 
+- WIC records allege 764-linked recruitment into UTTP in 2025; a formal 764 infiltration or partnership is not established
+- UTTP operates as a **"brand" or "overcoat"** that can be easily replaced without changing core activities
+- The group is linked to CSAM distribution, swatting, doxxing, and violent threats
+- Government designations now classify 764 (an overlapping designated network) as a terrorist entity
 
 ---
 
@@ -40,14 +40,14 @@ The documented purpose was different.
 Primary sources indicate Parkinson created UTTP to:
 - **Groom 11-year-old boys**
 - Spam gore across platforms
-- "Flex how many children he groomed" 
+- "Flex how many children he groomed"
 
 Parkinson was arrested in **2015** on charges including:
 - Drunk and disorderly conduct
 - Threatening to kill two Gardaí
 - Resisting arrest
 - Indecent behavior
-- Failure to appear in court 
+- Failure to appear in court
 
 He is widely reported to be in jail as of 2025-2026 .
 
@@ -58,13 +58,13 @@ The group's stated mission was "anti-trolling" — protecting YouTube comment se
 **By 2013**, UTTP had begun:
 - Raiding fandoms
 - Attacking content creators
-- Spamming comment sections with disruptive content 
+- Spamming comment sections with disruptive content
 
 ## 1.3 The Google+ Era (2011-2013)
 
 The founding era was characterized by:
 - Anti-troll activities across YouTube, Xbox Live clans, and GoAnimate
-- Recruitment of young members (the group was described as "mainly composed of children under 14") 
+- Recruitment of young members (the group was described as "mainly composed of children under 14")
 - Shift toward harassment and trolling as the anti-troll mission faded
 
 ---
@@ -79,7 +79,7 @@ UTTP has passed through at least four distinct leadership eras, each one more ex
 
 **Focus:** Initial anti-troll activities, then rapid descent into harassment
 
-**End:** Parkinson became fatigued with the group and stepped back, leading to a leadership vacuum 
+**End:** Parkinson became fatigued with the group and stepped back, leading to a leadership vacuum
 
 ## 2.2 The Stephen Larson Era (2013-2018)
 
@@ -88,7 +88,7 @@ UTTP has passed through at least four distinct leadership eras, each one more ex
 **Focus:** Shift from YouTube to Google+ trolling, raiding fandoms, and community websites
 
 **Characteristics:**
-- Larson was described as having "piss-poor handling" and "shit OPSEC" 
+- Larson was described as having "piss-poor handling" and "shit OPSEC"
 - He was eventually "oxed" (doxxed) and de-platformed
 - The group continued to operate but with diminished capacity
 
@@ -99,7 +99,7 @@ UTTP has passed through at least four distinct leadership eras, each one more ex
 **Focus:** Revival of UTTP, continued raiding, return to YouTube-related drama
 
 **Characteristics:**
-- This is still considered the "official" version of UTTP 
+- This is still considered the "official" version of UTTP
 - Officer Slappy revived the group in 2018
 - The group continued targeting fandoms and creators
 
@@ -107,12 +107,12 @@ UTTP has passed through at least four distinct leadership eras, each one more ex
 
 **Leadership:** Anime Sucks (HYPER BAT MAPPING / HBM), Reginmyre, Defender
 
-**Focus:** Mass-spam of CSAM and gore, infiltration by 764, merger with extremist networks
+**Focus:** Mass-spam of CSAM and gore, alleged 764-linked recruitment, and overlap with extremist networks
 
 **Characteristics:**
-- In **mid-2023**, UTTP resurged under a new server called **"UTTP Empire"** 
-- The server was owned by **"UTTP Emperor Anime Sucks"** (also known as HYPER BAT MAPPING) 
-- This sub-faction was responsible for the **mass-spam of CSAM and gore** 
+- In **mid-2023**, UTTP resurged under a new server called **"UTTP Empire"**
+- The server was owned by **"UTTP Emperor Anime Sucks"** (also known as HYPER BAT MAPPING)
+- This sub-faction was responsible for the **mass-spam of CSAM and gore**
 - The Nu-UTTP is documented as being "responsible for the mass-spam" of illegal content
 
 **Current Leadership (as of 2026):**
@@ -136,11 +136,11 @@ UTTP's primary method is **coordinated mass false reporting** on platforms like 
 1. Groups of UTTP members file the same copyright or Community Guidelines report simultaneously
 2. YouTube's automated systems interpret volume as legitimacy
 3. Channels are flagged even when reports are completely fabricated
-4. Results in unearned strikes, removals, or terminations 
+4. Results in unearned strikes, removals, or terminations
 
 **Target Profile:**
 - Small creators with fewer than 10K subscribers
-- Animation, art, and fandom communities 
+- Animation, art, and fandom communities
 
 **Why It Works:**
 UTTP exploits the gap between automated enforcement and human review. Automated strikes can remove content within hours, while appeals take days or weeks — meaning creators lose income and visibility even when they ultimately win .
@@ -151,10 +151,10 @@ UTTP's most visible tactic is **coordinated comment raids** on YouTube videos .
 
 **Methods:**
 - Mass account creation using bots and alt accounts
-- Repetitive disruptive spam ("didnt ask my content is better," "child porn is unironically better than this video," "support map pride") 
+- Repetitive disruptive spam ("didnt ask my content is better," "child porn is unironically better than this video," "support map pride")
 - Caps Lock spam
-- Political and racist content injection 
-- "How come + my video is better + Akpul" copy-paste campaigns 
+- Political and racist content injection
+- "How come + my video is better + Akpul" copy-paste campaigns
 
 **Documented Targets:**
 
@@ -180,10 +180,10 @@ UTTP is documented as issuing **murder threats**, **death threats**, and other v
 ## 3.5 Bot Network Operations
 
 UTTP operates a **botnet** that:
-- Spams YouTube comment sections 
+- Spams YouTube comment sections
 - Uses "glitched" text to bypass automated filters
 - Engages in "depraved content"
-- Represents both support and opposition to create a false illusion of influence 
+- Represents both support and opposition to create a false illusion of influence
 
 The group's bot network has been described as **"dronefall"** — massive botnets using AI-generated comments to overwhelm creators.
 
@@ -196,17 +196,17 @@ UTTP engages in a **"guerilla-warfare psyop campaign all across the internet"** 
 UTTP servers operate with a **tiered structure** :
 
 - **Members separated from non-members** — strict access controls
-- **Unverified members pinged constantly** — "unverified members would get pinged 8347854 times a day unless they proved themselves by spamming CP/self-harming" 
+- **Unverified members pinged constantly** — "unverified members would get pinged 8347854 times a day unless they proved themselves by spamming CP/self-harming"
 - **Initiation requirements** — historically required sending child porn or giving a YouTube account for spam operations
-- **Kill a cat in VC** — initiation ritual **copied from 764** 
-- **Rename punishments** — admins rename members to "something pedo-related" if they dislike them 
+- **Kill a cat in VC** — initiation ritual **copied from 764**
+- **Rename punishments** — admins rename members to "something pedo-related" if they dislike them
 
 ## 3.8 Community Infiltration
 
 UTTP members create accounts that **blend into creative communities** to:
 - Gather intel
 - Manufacture drama
-- Spread false narratives about target creators before reporting campaigns begin 
+- Spread false narratives about target creators before reporting campaigns begin
 
 By the time raids start, distrust and confusion have already been seeded in the community.
 
@@ -214,15 +214,15 @@ By the time raids start, distrust and confusion have already been seeded in the 
 
 UTTP specifically exploits the gap between:
 - YouTube's automated enforcement (removes content within hours)
-- Human review and appeals (takes days or weeks) 
+- Human review and appeals (takes days or weeks)
 
 Creators lose income and visibility even when they ultimately win the appeal.
 
 ## 3.10 Defamation Campaigns
 
 UTTP has engaged in **defamation campaigns** against creators, including:
-- Accusing Gooseworx (TADC creator) of pedophilia and incest based on edited screenshots 
-- Accusing Ren (Roblox developer conference victim) of being a "fake victim" after she reported sexual assault 
+- Accusing Gooseworx (TADC creator) of pedophilia and incest based on edited screenshots
+- Accusing Ren (Roblox developer conference victim) of being a "fake victim" after she reported sexual assault
 - Spreading false identity information about creators
 - As well as foolishly targeting our founder AnonCatalyst
 
@@ -235,14 +235,14 @@ UTTP has engaged in **defamation campaigns** against creators, including:
 The **Foodists** are a failtroll group that UTTP allied with in **2022/2023** .
 
 **Key Facts:**
-- UTTP's leadership "fully knew" who they were allying with 
+- UTTP's leadership "fully knew" who they were allying with
 - Foodist members were brought into UTTP's structure
 - The alliance brought 764 members into UTTP as well
-- The line between Foodists, 764, and UTTP became "invisible" 
+- The line between Foodists, 764, and UTTP became "invisible"
 
-## 4.2 The 764 Infiltration
+## 4.2 Alleged 764-Linked Recruitment
 
-Our investigations in **2025** observed that **764 infiltrated UTTP before any official partnership occurred** .
+WIC’s 2025 records describe alleged 764-linked recruitment into UTTP. A formal 764 infiltration or official partnership is **not established**; see `16_VALIDATED_FALSE_CLAIMS/`.
 
 **Timeline:**
 
@@ -251,10 +251,10 @@ Our investigations in **2025** observed that **764 infiltrated UTTP before any o
 | Initial Contact | 2022-2023 | UTTP "mistakenly allied" with Foodists |
 | Recruitment | 2023 | HBM "allowed anyone to join the UTTP in regardless of whatever factions they are in or so like Foodists or 764" |
 | Integration | 2024 | Reginmyre "wanted UTTP to associate with 764"; Defender "worked with both Reginmyre and HBM to invite more members" |
-| Merger | Mid-to-Late 2025 | 764 tactics merged into UTTP high command |
+| Alleged overlap | Mid-to-Late 2025 | 764-linked tactics/members reported in UTTP spaces; no merger established |
 
-**Evidence of Merger:**
-- Initiation ritual: "You're required to kill a cat in VC (copied from 764)" 
+**Reported overlap indicators (A/S):**
+- Initiation ritual: "You're required to kill a cat in VC (copied from 764)"
 - Server structure mirrors Skibidi Farms
 - CSAM and gore spam became normalized
 - Doxxing and swatting threats escalated
@@ -264,10 +264,10 @@ Our investigations in **2025** observed that **764 infiltrated UTTP before any o
 **Skibidi Farms** was a forum documented as hosting CSAM and animal gore .
 
 **Key Facts:**
-- Shut down on **November 4, 2024**, after its host discovered the content 
-- Shut down again on **January 24, 2025**, due to involvement with the Antioch High School shooting 
-- UTTP members **Glen** and **FPS** were investigated by the FBI in late 2024/early 2025 
-- Glen managed Skibidi Farms under the name **"KLASKY CSUPO THDTC TSPL"** 
+- Shut down on **November 4, 2024**, after its host discovered the content
+- Shut down again on **January 24, 2025**, due to involvement with the Antioch High School shooting
+- UTTP members **Glen** and **FPS** were investigated by the FBI in late 2024/early 2025
+- Glen managed Skibidi Farms under the name **"KLASKY CSUPO THDTC TSPL"**
 
 ## 4.4 The DPOS Connection
 
@@ -291,14 +291,14 @@ In **December 2025**, Canada formally listed the **764 Network** as a terrorist 
 
 In **December 2025**, New Zealand designated the **Order of Nine Angles (O9A)** as a terrorist entity, with **764 defined as "nexions"** of O9A . "Nexion" is O9A's term for an independent cell.
 
-## 5.3 FBI: 764 Classified as Tier 1 Terrorist Threat
+## 5.3 FBI/DOJ: 764 Cases
 
-The FBI has classified **764 as a Tier 1 terrorist threat** . The FBI describes it as "a violent online network which operates globally to target and exploit minors" .
+No primary FBI document using the “Tier 1” label was located in this review. 764 is designated in Canada (2025) and is the subject of FBI/DOJ cases.
 
 **Key Data:**
-- **250+ investigations** opened across all 55 FBI field offices as of May 2025 
-- FBI Director Kash Patel called the group **"deeply disturbing"** 
-- **Over 5,000 victims** reported globally 
+- **250+ investigations** opened across all 55 FBI field offices as of May 2025
+- FBI Director Kash Patel called the group **"deeply disturbing"**
+- **Over 5,000 victims** reported globally
 
 ## 5.4 DOJ Prosecutions
 
@@ -316,7 +316,7 @@ The FBI has classified **764 as a Tier 1 terrorist threat** . The FBI describes 
 According to Der Spiegel, arrests related to 764 have been made in **at least eight countries** for charges including:
 - Child pornography
 - Kidnapping
-- Murder 
+- Murder
 
 ---
 
@@ -345,7 +345,7 @@ Cadenhead dropped out of school, faced constant bullying, and struggled with his
    - Attacks on family members
    - Suicide attempts
 5. **Recording** — Acts are recorded or photographed
-6. **Blackmail** — Recordings are used to coerce even more abhorrent acts 
+6. **Blackmail** — Recordings are used to coerce even more abhorrent acts
 
 ### 6.2.2 "Cut-Signing" and Blood Rituals
 
@@ -358,7 +358,7 @@ Victims are often pushed into **cutting themselves with razors** — "cut-signin
 - **Bricking** (attacking with bricks)
 - **Murder for hire**
 - **Stabbings**
-- **Sexual assaults** 
+- **Sexual assaults**
 
 A Swedish case involved a 14-year-old "Slain764" who attacked a woman in her 50s and an 82-year-old man, filming the attacks and circulating them .
 
@@ -373,7 +373,7 @@ A Swedish case involved a 14-year-old "Slain764" who attacked a woman in her 50s
 - **Discord** — Multi-purpose: victim identification, grooming, and broadcasting abuse
 - **Roblox** — Initial contact with young victims
 - **X, Instagram, TikTok, Reddit** — Victim identification
-- **Minecraft, Fortnite, Twitch, Steam, Snapchat** — Additional recruitment spaces 
+- **Minecraft, Fortnite, Twitch, Steam, Snapchat** — Additional recruitment spaces
 
 ### 6.2.6 Recruitment of Victims
 
@@ -389,7 +389,7 @@ In September 2025, 764 announced a **"Terrorweek"** . The group has **accelerati
 - **Neo-Nazi** imagery and ideology
 - **Satanic** symbolism (pentagrams, esvásticas found in members' bedrooms)
 - **Glorification of Columbine** and other mass attacks
-- **O9A (Order of Nine Angles)** alignment 
+- **O9A (Order of Nine Angles)** alignment
 
 ## 6.3 The Com Network
 
@@ -399,7 +399,7 @@ In September 2025, 764 announced a **"Terrorweek"** . The group has **accelerati
 - **No Lives Matter (NLM)**
 - **Maniac Murder Cult (MMC/MKY)**
 - **764 Inferno**
-- **CVLT4** 
+- **CVLT4**
 
 The Com network targets, victimizes, and recruits **children aged 8 to 17** . Members are recognized for their extreme ideological views and their victimization of children through desensitization and radicalization to violence.
 
@@ -409,7 +409,7 @@ The Com network targets, victimizes, and recruits **children aged 8 to 17** . Me
 
 ## 7.1 The Infiltration Timeline
 
-The infiltration of 764 into UTTP was not a random event. It was a **deliberate, leadership-level decision** that brought 764's tactics, ideology, and members into UTTP's high command .
+The alleged infiltration of 764-linked actors into UTTP is assessed as a leadership-level recruitment decision in WIC’s record, not a proven 764 command operation.
 
 **What Was Merged:**
 
@@ -433,7 +433,7 @@ This fluidity means that even if UTTP is "dismantled," the same people, tactics,
 
 ISD research suggests a potential Russian nexus to the broader Com network:
 
-> *"The most prominent actors steering this development primarily speak Russian in an environment that has largely operated in English. Their role in providing financial support, technical knowledge, mentoring and coordination raises an important question: does this represent the organic emergence of unusually capable actors within the Com, or is some form of external support driving the Alliance?"* 
+> *"The most prominent actors steering this development primarily speak Russian in an environment that has largely operated in English. Their role in providing financial support, technical knowledge, mentoring and coordination raises an important question: does this represent the organic emergence of unusually capable actors within the Com, or is some form of external support driving the Alliance?"*
 
 **Indicators of Potential State Sponsorship:**
 - Financial incentives offered for violent activity (thousands of dollars for vehicle arsons)
@@ -441,7 +441,7 @@ ISD research suggests a potential Russian nexus to the broader Com network:
 - Publication of apparent cryptocurrency transfers as proof of compensation
 - Original bomb-making instructional videos in Russian and English
 - Maintenance of multiple backup accounts and succession plans
-- Use of bots to vet prospective recruits 
+- Use of bots to vet prospective recruits
 
 While definitive attribution requires direct evidence, the level of operational sophistication departs from typical youth-led Com networks .
 
@@ -468,7 +468,7 @@ The **Anti-UTTP (AUTTP)** movement has formalized . Groups like **"The UTTP Dest
 **AUTTP Objectives:**
 - **STOP THE MASS REPORTING**
 - **PROTECT CONTENT CREATORS**
-- **BAN UTTP FROM ALL PLATFORMS** 
+- **BAN UTTP FROM ALL PLATFORMS**
 
 ---
 
@@ -491,7 +491,7 @@ The archive is held to rigorous standards:
 
 ## 9.3 Archive Release
 
-As of **2026-09-20**, **6 GB of the 10 GB archive** has been publicly released, with the remaining 4 GB held back for a technical fix.
+As of **2026-09-20**, **6 GB public release** has been publicly released, with no further release promised.
 
 ## 9.4 The GitHub Issue Response
 
@@ -512,16 +512,16 @@ They denied the 764 affiliation while describing it in detail.
 UTTP is not a separate or isolated phenomenon. It is a **node within a documented ecosystem of nihilistic violent extremism**.
 
 **What Is Documented:**
-- UTTP was founded by a convicted child groomer 
-- UTTP adopted 764's initiation tactics 
-- UTTP's leadership invited 764 and Foodist members in 
-- UTTP members operated Skibidi Farms, a forum linked to CSAM and a school shooting 
-- UTTP's tactics include CSAM spam, animal torture, and self-harm coercion 
-- 764 is designated as a terrorist entity by Canada 
-- O9A is designated as a terrorist entity by New Zealand, with 764 defined as its "nexions" 
-- The FBI classifies 764 as a Tier 1 terrorist threat 
-- The DOJ has prosecuted multiple 764 members 
-- The FBI is investigating over 500 subjects nationwide 
+- UTTP was founded by a convicted child groomer
+- UTTP adopted 764's initiation tactics
+- UTTP's leadership invited 764 and Foodist members in
+- UTTP members operated Skibidi Farms, a forum linked to CSAM and a school shooting
+- UTTP's tactics include CSAM spam, animal torture, and self-harm coercion
+- 764 is designated as a terrorist entity by Canada
+- O9A is designated as a terrorist entity by New Zealand, with 764 defined as its "nexions"
+- 764 is designated in Canada and prosecuted in FBI/DOJ cases
+- The DOJ has prosecuted multiple 764 members
+- The FBI is investigating over 500 subjects nationwide
 
 **The merger happened. The affiliations are confirmed. The record is permanent.**
 
@@ -547,5 +547,5 @@ UTTP is not a separate or isolated phenomenon. It is a **node within a documente
 
 **END OF DOCUMENT**
 
-**WIC**  
+**WIC**
 **J1L — Justice, Intelligence, Love**

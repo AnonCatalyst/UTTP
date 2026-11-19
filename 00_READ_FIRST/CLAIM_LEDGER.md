@@ -5,6 +5,9 @@
 **Rule:** a claim can be cited only at the confidence level shown here. A file
 being in the archive does not make its allegation a verified fact.
 
+> **Quarantine:** rejected claims are stored in `16_VALIDATED_FALSE_CLAIMS/`.
+> Approved claims are in `15_VALIDATED_CLAIMS/`.
+
 Legend:
 
 - **E** — Established: government instrument, court record, primary document, or direct observation.
@@ -20,7 +23,8 @@ Legend:
 
 ### Archive size
 
-- **Old wording:** “6 GB of the 10 GB total; 4 GB held back.”
+- **Old wording (quarantined):** “6 GB of the 10 GB total; 4 GB held back.” See
+  `16_VALIDATED_FALSE_CLAIMS/QUARANTINE.md` §1.
 - **Correction:** the public release is **6 GB**. Do not cite a 10 GB total or a
   pending 4 GB release unless WIC publishes a new release notice that says so.
 - **Status:** X (old wording), current release notice corrected.
@@ -183,7 +187,7 @@ Legend:
 | --- | --- | --- | --- |
 | 6 GB public release | E (release notice) | Archive release README, WIC statement | Public release is 6 GB. |
 | “10 GB total / 4 GB remaining” | X | Older wording | Superseded. Do not repeat. |
-| 534 original tracked files preserved; manifest currently lists 587 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
+| 534 original tracked files preserved; manifest currently lists 593 files | E | Git history + `MANIFEST.csv` at 2026-11-19 | Count excludes `.git`; the increase is new documentation, not deletion. |
 | Every original file preserved in reorg | E | Git rename history + manifest | No content deletion in the 2026-11-19 pass; paths changed. |
 | Archive is a “target list” | X | Archive scope and policy | It explicitly is not. |
 

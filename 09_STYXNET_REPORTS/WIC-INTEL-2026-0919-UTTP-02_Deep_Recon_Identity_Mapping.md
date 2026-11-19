@@ -11,8 +11,9 @@
 > **2026-11-19 correction:** This is a historical WIC analysis. Its “confirmed”
 > language overstates structural review. StyxNet candidates are **not
 > ownership-confirmed**. The platform-name count is **47 variants / 37 normalized
-> keys**, not 48. “764 Parent Entity” is corrected elsewhere: 764 is a designated
-> network listed as an O9A nexion; it is not a proven parent or command.
+> keys**, not 48. The earlier parent-entity label is corrected elsewhere: 764 is
+> a designated network listed as an O9A nexion; it is not a proven parent or
+> command.
 > See `09_STYXNET_REPORTS/validation/STYXNET_VALIDATION_2026-11-19.md` and
 > `14_O9A_764_TRACE/`.
 
@@ -275,7 +276,7 @@ UTTP copied tactics from **764**, a designated terrorist entity. The "kill a cat
 | 2 | **Separate user-owned links from scaffolding** in link counting | Critical |
 | 3 | **Independently verify Bluesky cluster** — confirm operators, activity status | High |
 | 4 | **Cross-reference named members** against public records | High |
-| 5 | **Document 764/THTDC/DPOS connections** for parent entity investigation | High |
+| 5 | **Document 764/THTDC/DPOS connections** for ecosystem investigation | High |
 | 6 | **Do not publish Tier 3 handles** without independent verification | Medium |
 
 ---

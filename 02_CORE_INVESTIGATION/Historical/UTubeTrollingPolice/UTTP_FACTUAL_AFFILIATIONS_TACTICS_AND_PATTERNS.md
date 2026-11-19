@@ -1,6 +1,6 @@
 # UTTP: FACTUAL DOCUMENTATION OF AFFILIATIONS, TACTICS, AND PATTERNS
 
-> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+> **Accuracy note (2026-11-19):** False/superseded claims have been quarantined in `16_VALIDATED_FALSE_CLAIMS/`; the current public archive is **6 GB**. See `00_READ_FIRST/CLAIM_LEDGER.md` and `15_VALIDATED_CLAIMS/`.
 
 
 **Compiled:** 2026-09-23
@@ -19,7 +19,7 @@ This document presents the factual record establishing that UTTP (UTube Troll Po
 - Documented integration of 764 and Foodist members into UTTP's structure
 - Government designations of 764 and O9A as terrorist entities
 - Law enforcement prosecutions of 764 members
-- FBI classification of 764 as a Tier 1 terrorist threat
+- FBI/DOJ 764 cases (no primary “Tier 1” label located)
 - WIC's active investigation and archive
 
 ---
@@ -102,9 +102,9 @@ In **December 2025**, Canada formally listed the **764 Network** as a terrorist 
 
 In **December 2025**, New Zealand designated the **Order of Nine Angles (O9A)** as a terrorist entity, with **764 defined as "nexions"** of O9A . This explicitly places 764 within the O9A organizational framework.
 
-### 4.3 FBI: 764 Classified as Tier 1 Terrorist Threat
+### 4.3 FBI/DOJ: 764 Cases
 
-The FBI has classified **764 as a Tier 1 terrorist threat** . The FBI describes 764 as "a violent online network which operates globally to target and exploit minors" .
+No primary FBI document using the “Tier 1” label was located in this review. 764 is designated in Canada (2025) and is the subject of FBI/DOJ cases.
 
 The FBI is currently investigating **over 500 subjects nationwide** tied to 764 and its offshoot networks .
 
@@ -172,7 +172,7 @@ The archive is held to rigorous standards:
 
 ### 6.3 Archive Release
 
-As of **2026-09-20**, **6 GB of the 10 GB archive** has been publicly released, with the remaining 4 GB held back for a technical fix .
+As of **2026-09-20**, **6 GB public release** has been publicly released, with no further release promised .
 
 ### 6.4 WIC's Purpose
 
@@ -200,7 +200,7 @@ The archive exists to:
 
 The factual record establishes that UTTP is not a separate or isolated phenomenon. It is a node within a documented ecosystem of nihilistic violent extremism that includes:
 
-- **764** — designated as a terrorist entity by Canada, classified as a Tier 1 threat by the FBI, and prosecuted by the DOJ
+- **764** — designated as a terrorist entity by Canada and prosecuted by the DOJ; no primary FBI “Tier 1” label located
 - **O9A** — designated as a terrorist entity by New Zealand, with 764 defined as its "nexions"
 - **The Com network** — a broader umbrella of nihilistic violent extremist groups
 

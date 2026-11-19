@@ -1,8 +1,8 @@
 # WIC · StyxNet — Username Intelligence Report
 
-**Username:** UTTP  
-**Generated:** 2026-09-19 07:34:53 UTC  
-**Profiles:** 823  
+**Username:** UTTP
+**Generated:** 2026-09-19 07:34:53 UTC
+**Rows:** 823 (not profiles)
 **Platforms:** 5126/5121
 
 ## Summary

@@ -73,7 +73,7 @@ This repository documents an active investigation into UTTP (Utube Troll Police)
 
 This is not a call to action. This is not a target list. This is a public, ethically-sourced intelligence archive built from Open Source Intelligence (OSINT) and donated documentation.
 
-All content is legal, publicly accessible, and free for exploration and discovery.
+Content is public-interest OSINT or donated material; legality and reuse are jurisdiction-dependent.
 
 ---
 
@@ -111,6 +111,8 @@ The goal is accountability through documentation. Nothing more.
 | [`12_TRACKING/`](12_TRACKING/) | Group-level UTTP tracking board, register, methods, collection plan, INBOX for new notes. |
 | [`13_UTTP_764_OVERLAP/`](13_UTTP_764_OVERLAP/) | UTTP/764 profiles, tactic-overlap analysis, and the arm/infiltration/merger assessment. |
 | [`14_O9A_764_TRACE/`](14_O9A_764_TRACE/) | Sourced 764→O9A trace, O9A profile, designations, evidence limits, timeline. |
+| [`15_VALIDATED_CLAIMS/`](15_VALIDATED_CLAIMS/) | Claims that survived source review, with confidence labels. |
+| [`16_VALIDATED_FALSE_CLAIMS/`](16_VALIDATED_FALSE_CLAIMS/) | Quarantined false/superseded claims and approved replacements. |
 
 No original file was deleted in the 2026-11-19 pass. See
 [`00_READ_FIRST/PATH_MAP.md`](00_READ_FIRST/PATH_MAP.md) for old → new paths and
@@ -161,7 +163,7 @@ Restricted content, where it exists, is subject to WIC's data handling policy. P
 
 Historical captures may contain public-facing handles or IDs. Their presence is not consent to contact, expose, or target anyone.
 
-No illegal content is hosted here. No hacked material is published. No private data is exposed.
+WIC does not intentionally host illegal content or publish hacked material. No newly added private data is exposed; historical captures may contain public-facing identifiers.
 
 ---
 

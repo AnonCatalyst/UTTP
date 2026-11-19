@@ -163,6 +163,22 @@ Dedicated trace from 764 to the Order of Nine Angles, added 2026-11-19:
 - `TIMELINE.md` — dated events.
 - `SOURCES.md` — primary and independent sources.
 
+## 15_VALIDATED_CLAIMS
+
+Approved claims that survived source review:
+
+- `README.md` — confidence key and rules.
+- `SUMMARY.md` — short topic summary.
+- `VALIDATED_CLAIMS.csv` — machine-readable register.
+
+## 16_VALIDATED_FALSE_CLAIMS
+
+Quarantine for false/superseded claims removed from analysis documents:
+
+- `README.md` — handling rules.
+- `FALSE_CLAIMS.csv` — machine-readable register.
+- `QUARANTINE.md` — grouped rejected claims and approved replacements.
+
 ## Root files
 
 - `README.md` — public front page and warnings.

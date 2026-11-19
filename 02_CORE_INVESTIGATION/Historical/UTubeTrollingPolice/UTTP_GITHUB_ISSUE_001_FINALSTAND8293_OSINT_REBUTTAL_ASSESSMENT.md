@@ -51,21 +51,21 @@ The distinction collapses when the source material is examined.
 
 Soyjak Wiki's Failtrolls entry states:
 
-> *"The UTTP is filled with Foodists, Trihards, and many other failtrolls after they fell off"* 
+> *"The UTTP is filled with Foodists, Trihards, and many other failtrolls after they fell off"*
 
 The same source notes:
 
-> *"This further blurs the invisible line between foodists and 764/o9a"* 
+> *"This further blurs the invisible line between foodists and 764/o9a"*
 
 And on the recruitment mechanics:
 
-> *"Officer Slappy would announce he sides with Foodistzen — the founder of the failtroll group called foodists"* 
+> *"Officer Slappy would announce he sides with Foodistzen — the founder of the failtroll group called foodists"*
 
 Foodists are not a separate group operating in parallel. They are documented as integrated into UTTP's structure and leadership.
 
 Additionally, UTTP adopted 764's initiation tactics directly:
 
-> *"You're required to kill a cat in VC (copied from 764)"* 
+> *"You're required to kill a cat in VC (copied from 764)"*
 
 A recruitment pipeline does not require a formal org chart. It requires the same people, the same tactics, and the same targets flowing between groups. UTTP adopting 764's initiation ritual is evidence of that flow.
 
@@ -79,13 +79,13 @@ The timeline does not support "mistaken."
 
 Soyjak Wiki records:
 
-> *"Officer Slappy would announce he sides with Foodistzen — the founder of the failtroll group called foodists that nobaldi fully knew of at the time"* 
+> *"Officer Slappy would announce he sides with Foodistzen — the founder of the failtroll group called foodists that nobaldi fully knew of at the time"*
 
 "Fully knew" is the operative phrase. The leadership knew who they were allying with.
 
 The same source explicitly characterizes the denial as tactical:
 
-> *"UTTP niggers sometimes pretend they aren't pedophiles which is obviously a lie. They do that to infiltrate and spam their 'p"* 
+> *"UTTP niggers sometimes pretend they aren't pedophiles which is obviously a lie. They do that to infiltrate and spam their 'p"*
 
 A mistaken alliance is discovered and severed. The record shows the alliance was known, the leadership sided with the group, and the denial is described as a deliberate tactic.
 
@@ -99,11 +99,11 @@ The ties were not cut. The behavior continued under the same name with the same 
 
 Documented behavior from the same source:
 
-> *"UTTP coalition's rules say 'no kiddie gore', yet their emperor often posts DNB in their chat"* 
+> *"UTTP coalition's rules say 'no kiddie gore', yet their emperor often posts DNB in their chat"*
 
-> *"Despite their love for animal abuse, they claim to hate zoophiles"* 
+> *"Despite their love for animal abuse, they claim to hate zoophiles"*
 
-> *"UTTP COALition posts kitten torture videos and 'p on the sharty, their own server, and on xitter"* 
+> *"UTTP COALition posts kitten torture videos and 'p on the sharty, their own server, and on xitter"*
 
 The same behaviors persisted after the alleged severance. If ties were cut, the documented pattern would have changed.
 
@@ -117,21 +117,21 @@ The association is documented by government agencies, research institutions, and
 
 **Government designations:**
 
-> *"In December 2025, Canada formally listed the 764 Network as a terrorist group. New Zealand adopted a similar approach when it designated the Order of Nine Angles (O9A), which is adjacent to 764 and coexists within the same ecosystem"* 
+> *"In December 2025, Canada formally listed the 764 Network as a terrorist group. New Zealand adopted a similar approach when it designated the Order of Nine Angles (O9A), which is adjacent to 764 and coexists within the same ecosystem"*
 
 **The specific designation language:**
 
-> *"The Government of New Zealand formally designated [O9A] as a terrorist entity in December 2025, with 764 (and others) defined as 'nexions' of the group — which in O9A parlance refers to local, clandestine cells or independent groups"* 
+> *"The Government of New Zealand formally designated [O9A] as a terrorist entity in December 2025, with 764 (and others) defined as 'nexions' of the group — which in O9A parlance refers to local, clandestine cells or independent groups"*
 
 **FBI classification:**
 
-> *"The FBI has labelled the 764 as a Tier 1 terrorist threat"* 
+> *[Quarantined false claim: “764 is an FBI Tier 1 threat” — no primary source located.]*
 
-> *"The FBI describes the 764 as a violent online network which operates globally to target and exploit minors"* 
+> *"The FBI describes the 764 as a violent online network which operates globally to target and exploit minors"*
 
 **The Com network context:**
 
-> *"'The Com' and related groups are categorized as 'Nihilistic Violent Extremists' (NVE)... most active among encrypted messaging apps, such as Discord and Telegram, as well as fringe online forums (e.g., Skibidi Farms, Fella.Farms, Kiwi Farms, 8kun)"* 
+> *"'The Com' and related groups are categorized as 'Nihilistic Violent Extremists' (NVE)... most active among encrypted messaging apps, such as Discord and Telegram, as well as fringe online forums (e.g., Skibidi Farms, Fella.Farms, Kiwi Farms, 8kun)"*
 
 The association between UTTP and 764 is documented in the same ecosystem trackers the respondent cited. UTTP and 764 are not separate phenomena. They are nodes in the same network.
 
@@ -145,13 +145,13 @@ This requires ignoring UTTP's founding history.
 
 Soyjak Wiki records:
 
-> *"This group was first found by Thomas Parkinson or something also known as Tommy Parky (A.K.A Tranny Pedo (geg)) on Google+. He originally made the UTTP to groom 11 year old boys and livestream his trans bottom surgery, spam random sites with gore and flex how many children he groomed"* 
+> *"This group was first found by Thomas Parkinson or something also known as Tommy Parky (A.K.A Tranny Pedo (geg)) on Google+. He originally made the UTTP to groom 11 year old boys and livestream his trans bottom surgery, spam random sites with gore and flex how many children he groomed"*
 
 **The founder is documented as a groomer.** The group was built on grooming from the beginning.
 
 A 2025 Medium retrospective confirms:
 
-> *"UTTP was founded on February 12, 2011, by Thomas Parkinson (Tommy Parky)... However, the group has been involved in grooming activities"* 
+> *"UTTP was founded on February 12, 2011, by Thomas Parkinson (Tommy Parky)... However, the group has been involved in grooming activities"*
 
 The "slander" narrative collapses when the founding history is examined. The group's founder groomed children. The group has documented grooming activity. The "outside infiltration" framing is contradicted by the origin story.
 
@@ -165,13 +165,13 @@ The evidence does not support victimhood. It supports documented agency.
 
 **Skibidi Farms — the forum the respondent named:**
 
-> *"Skibidi Farms was first taken down on November 4, 2024, after its host discovered that the site was not only hosting links to CSAM, but that the site's owner was also actively encouraging users to spam CSAM and animal gore"* 
+> *"Skibidi Farms was first taken down on November 4, 2024, after its host discovered that the site was not only hosting links to CSAM, but that the site's owner was also actively encouraging users to spam CSAM and animal gore"*
 
-> *"On January 24, 2025, Skibidi Farms was shut down and its owner got fedded due to the site's involvement with the Antioch High School shooting in Nashville, Tennessee"* 
+> *"On January 24, 2025, Skibidi Farms was shut down and its owner got fedded due to the site's involvement with the Antioch High School shooting in Nashville, Tennessee"*
 
 Helena Police Detective Jason Davis stated:
 
-> *"The biggest one that we've run into is Skibidi Farms. The moderators say it's a place for freedom of speech, anything goes, we don't necessarily believe in it, but most of the juveniles that are in the 764 group are on this platform"* 
+> *"The biggest one that we've run into is Skibidi Farms. The moderators say it's a place for freedom of speech, anything goes, we don't necessarily believe in it, but most of the juveniles that are in the 764 group are on this platform"*
 
 **The respondent's own comment named individuals linked to this forum:** Klasky Cuspo, FPS, General Glen. These are not outside infiltrators. These are the people the respondent identified as UTTP-connected.
 
@@ -187,7 +187,7 @@ This is the same reform promise that has been made repeatedly.
 
 Soyjak Wiki notes:
 
-> *"UTTP niggers sometimes pretend they aren't pedophiles which is obviously a lie. They do that to infiltrate and spam their 'p"* 
+> *"UTTP niggers sometimes pretend they aren't pedophiles which is obviously a lie. They do that to infiltrate and spam their 'p"*
 
 The "cleansing" narrative is not supported by documentation. It is a rebranding tactic. The group retains the same name, the same structure, and the same behaviors.
 
@@ -271,7 +271,7 @@ The respondent attempted to defend UTTP. In doing so, they leaked information th
 
 **Disclosed:** "The FBI investigations were minor."
 
-**Confirms:** FBI investigations occurred. The characterization as "minor" is contradicted by DOJ prosecutions and the FBI's Tier 1 designation.
+**Confirms:** FBI investigations occurred. The characterization as "minor" is contradicted by DOJ prosecutions and FBI/DOJ cases.
 
 ---
 
@@ -302,7 +302,7 @@ The following sources are cited in this assessment and are publicly available.
 |---|---|
 | Government of Canada, Public Safety | 764 listed as terrorist entity, Dec 2025  |
 | New Zealand Police | O9A designated, 764 defined as "nexions"  |
-| FBI | 764 designated Tier 1 terrorist threat  |
+| FBI/DOJ | 764 prosecutions; no primary “Tier 1” label located |
 | Helena Police Department | Statements on 764 and SkibidiFarms  |
 
 ### RESEARCH INSTITUTIONS

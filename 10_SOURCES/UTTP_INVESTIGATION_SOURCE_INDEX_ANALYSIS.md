@@ -1,6 +1,6 @@
 # UTTP INVESTIGATION — EVIDENTIARY SOURCE INDEX
 
-> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. It also contains superseded O9A “parent/operational arm” wording and earlier notice numbers. See `14_O9A_764_TRACE/` and `00_READ_FIRST/CLAIM_LEDGER.md`. **The NZ O9A designation does not establish a UTTP–O9A link; 764 is listed as an O9A nexion, and the UTTP link remains an assessment/lead.**
+> **Accuracy note (2026-11-19):** False/superseded claims have been quarantined in `16_VALIDATED_FALSE_CLAIMS/`; the current public archive is **6 GB**. See `00_READ_FIRST/CLAIM_LEDGER.md` and `15_VALIDATED_CLAIMS/`. **The NZ O9A designation does not establish a UTTP–O9A link; 764 is listed as an O9A nexion, and the UTTP link remains an assessment/lead.**
 
 
 **Date:** 2026-09-21
@@ -244,7 +244,7 @@ The network operates under one name. Its leadership made the decision to associa
 
 ## 8. INVESTIGATION CONTINUES
 
-The source index will be expanded as additional material is verified and additional donations are received. The 4 GB remaining from the initial release will be published once the technical issue is resolved. Additional documentation regarding 764, O9A, and affiliated groups is in preparation.
+The source index will be expanded as additional material is verified and additional donations are received. No further release is promised; the public release is 6 GB. Additional documentation regarding 764, O9A, and affiliated groups is in preparation.
 
 This is the beginning of the investigation, not the conclusion.
 

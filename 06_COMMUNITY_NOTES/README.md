@@ -78,7 +78,7 @@ Most attempts to "expose" groups like UTTP fail for the same reason: they are wr
 This archive was built differently, on purpose.
 
 - **No unauthorized access.** Everything in it was either public or donated.
-- **No doxxing.** Public handles only. No addresses, no employers, no family.
+- **No new doxxing.** No newly added addresses, employers, or family details; historical captures may contain public-facing identifiers.
 - **No unverified accusations.** Everything is labeled. If it can't be proven, it says so.
 - **No calls to action.** The archive points people to NCMEC, FBI IC3, and Haven Watch — not to retaliation.
 

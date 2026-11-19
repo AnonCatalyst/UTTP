@@ -1,5 +1,16 @@
 # Changelog
 
+## 2026-11-19 — Validated claims / false-claims quarantine
+
+- Added `15_VALIDATED_CLAIMS/` with the approved-claim register and summary.
+- Added `16_VALIDATED_FALSE_CLAIMS/` with the false-claim register and a grouped
+  quarantine record.
+- Stripped false/superseded claims from current and historical analysis docs,
+  including 10 GB/4 GB sizing, FBI “Tier 1,” O9A parent/764 operational-arm
+  wording, UTTP operational-arm/merger claims, and StyxNet count errors.
+- Replaced absolute privacy/legality wording with qualified wording.
+- No raw evidence files were removed; no new private identifiers were added.
+
 ## 2026-11-19 — UTTP/764 arm, infiltration, and merger assessment
 
 - Added `13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md` testing the claims

@@ -1,5 +1,5 @@
 # WINTERGATE-IC — INTELLIGENCE DOSSIER
-## UTTP → 764 → O9A: Hierarchical Analysis, Tactical Adoption, and Public Traces
+## UTTP → 764 → O9A: Network Analysis, Tactical Adoption, and Public Traces
 
 **Document ID:** WIC-DOSSIER-2026-0919-UTTP-05
 **Classification:** Public — Analytical
@@ -17,19 +17,19 @@
 
 ## 1. EXECUTIVE SUMMARY
 
-This dossier documents the hierarchical relationship between **UTTP** (UTubeTrollPolice), **764** (a designated nihilistic violent extremist network), and **O9A** (Order of Nine Angles, also known as 09A). The evidence establishes a **three-tiered ecosystem** in which:
+This dossier documents the network relationship between **UTTP** (UTubeTrollPolice), **764** (a designated nihilistic violent extremist network), and **O9A** (Order of Nine Angles, also known as 09A). The evidence supports an **overlapping ecosystem** in which:
 
 1. **O9A** provides the ideological and aesthetic framework
-2. **764** operationalizes that framework into a violent, transnational sextortion network
-3. **UTTP** adopts 764's tactics and serves as a **recruitment pipeline** and **harassment arm**
+2. **764** is a designated network documented as an O9A nexion
+3. **UTTP** is an NVE-adjacent harassment brand with assessed overlap to 764
 
 The connection is documented across independent sources including the **Soyjak Wiki**, **Institute for Strategic Dialogue (ISD)** , **Anti-Defamation League (ADL)** , **U.S. Department of Justice**, **FBI**, **Canadian government**, and multiple academic and journalistic investigations.
 
-**Key finding:** UTTP is not a separate phenomenon. It is a **"lite version of 764"** that functions as an entry point into a radicalization pipeline ending in O9A-aligned violent extremism.
+**Key finding:** UTTP is a separate but overlapping NVE-adjacent brand; “lite version of 764” is a community characterisation, not a proven identity.
 
 ---
 
-## 2. THE HIERARCHY: O9A → 764 → UTTP
+## 2. THE NETWORK RELATIONSHIP: O9A / 764 / UTTP
 
 ### 2.1 O9A (Order of Nine Angles / 09A)
 
@@ -44,7 +44,7 @@ The connection is documented across independent sources including the **Soyjak W
 
 **O9A** provides the **ideological framework** — a satanic, neo-Nazi, accelerationist worldview that legitimizes violence as a spiritual path.
 
-### 2.2 764 (The Operational Arm)
+### 2.2 764 (The Designated Network)
 
 | Attribute | Detail |
 |---|---|
@@ -56,9 +56,9 @@ The connection is documented across independent sources including the **Soyjak W
 | **Tactics** | Sextortion, CSAM production, animal abuse, self-harm coercion, swatting |
 | **O9A influence** | Court records reveal O9A influence on 764 |
 
-**764** is the **operational arm** — it takes O9A's ideological framework and translates it into coordinated criminal activity: sextortion, CSAM distribution, and violent coercion.
+**764** is listed as an O9A **nexion** in New Zealand's statement of case. Nexions are operationally independent; this is not a command relationship.
 
-### 2.3 UTTP (The Recruitment Pipeline)
+### 2.3 UTTP (Assessed Overlap)
 
 | Attribute | Detail |
 |---|---|
@@ -150,7 +150,7 @@ This **co-listing** of O9A, 764, and UTTP in the same Discord server tags is dir
 
 ---
 
-## 5. WIC'S DOCUMENTATION OF THE HIERARCHY
+## 5. WIC'S ARCHIVE LABEL
 
 WIC's GitHub repository (`WinterGate-IC/UTTP`) includes a folder titled **"Parent Entities/09A Cult"** containing:
 
@@ -158,12 +158,12 @@ WIC's GitHub repository (`WinterGate-IC/UTTP`) includes a folder titled **"Paren
 - `image0 (1).webp`
 - `image0.webp`
 
-This indicates WIC has **identified O9A (09A) as the parent entity** of the UTTP-764 ecosystem. The folder structure places 09A as the **root** of the hierarchy:
+This folder's “Parent Entities” placement is an archive-organisation label. O9A is not a proven parent entity, and 09A is not a headquarters:
 
 ```
 UTTP/
 ├── Parent Entities/
-│   └── 09A Cult/          ← The ideological root
+│   └── 09A Cult/          ← Legacy archive label
 ├── OFFSHOOTS/
 │   └── DPOS - Degeneracy Police Order State/
 ├── AFFILIATIONS/
@@ -171,7 +171,7 @@ UTTP/
 └── Donated Documents/
 ```
 
-This is consistent with the external evidence: **O9A provides the ideology, 764 provides the operational model, UTTP provides the recruitment pool.**
+This is consistent with an overlapping ecosystem, not a parent/command hierarchy.
 
 ---
 
@@ -199,13 +199,13 @@ This is consistent with the external evidence: **O9A provides the ideology, 764 
 
 ## 7. ASSESSMENT
 
-### 7.1 UTTP Is Not a Separate Phenomenon
+### 7.1 UTTP Is a Separate but Overlapping Network
 
 UTTP is not an isolated trolling group. It is a **component of a larger ecosystem** that spans from low-level harassment to designated terrorist networks. The evidence establishes:
 
-- **UTTP → 764**: Tactical adoption, recruitment pipeline, intertwined since 2023-24
-- **764 → O9A**: Ideological influence, aesthetic adoption, "nexion" structure
-- **O9A → 764 → UTTP**: A three-tiered hierarchy with O9A as the ideological root
+- **UTTP ↔ 764**: Tactical overlap, membership overlap, and assessed recruitment ecology
+- **764 ↔ O9A**: 764 listed as a nexion; operational independence
+- **O9A / 764 / UTTP**: An overlapping ecosystem, not a three-tier command
 
 ### 7.2 The Radicalization Pathway Is Documented
 
@@ -215,16 +215,16 @@ The case of the 14-year-old Florida boy demonstrates a **clear, observable radic
 
 This is not speculative. It is documented in law enforcement records and investigative journalism.
 
-### 7.3 WIC's Assessment Is Confirmed
+### 7.3 What Independent Sources Support
 
-WIC's placement of **09A as the "Parent Entity"** of UTTP is **confirmed by independent sources**:
+Earlier WIC language calling 09A a “Parent Entity” is **not confirmed**. Independent sources support O9A influence on 764, not a parent/command relationship:
 
 - ISD: O9A influence on 764
 - ADL: 764 draws from O9A
 - GNET: O9A "adjacent to 764"
 - Red Pill Reversal: "genuine convergence" between Com and O9A
 
-The hierarchy WIC documented is the hierarchy the evidence supports.
+The relationship supported is an overlapping ecosystem, not the older hierarchy claim.
 
 ### 7.4 The Threat Is Active and Escalating
 
@@ -242,13 +242,13 @@ The ecosystem is not dormant. It is active, documented, and escalating.
 
 ## 8. CONCLUSION
 
-UTTP's ties to 764 and O9A are **not speculative**. They are documented across independent sources: government agencies, research institutions, and journalistic investigations. The hierarchy is:
+UTTP's ties to 764 and O9A are **not speculative**. They are documented across independent sources: government agencies, research institutions, and journalistic investigations. The network relationship is:
 
-**O9A (ideology) → 764 (operations) → UTTP (recruitment)**
+**O9A ecosystem / 764 designated network / UTTP assessed overlap**
 
-WIC's identification of **09A as the "Parent Entity"** is confirmed by the evidence. The tactical transfers — from "kill a cat in VC" to sextortion to CSAM distribution — are documented. The radicalization pathway from UTTP to O9A-aligned violence is documented.
+Earlier WIC “Parent Entity” language is not supported. Tactical transfers and radicalisation pathways are assessed, not proven as command.
 
-This is not a trolling group. It is a **component of a violent extremist ecosystem** that has been designated as a terrorist network by multiple governments.
+This is an NVE-adjacent network inside an ecosystem where 764 and O9A are designated; UTTP itself is not designated.
 
 ---
 

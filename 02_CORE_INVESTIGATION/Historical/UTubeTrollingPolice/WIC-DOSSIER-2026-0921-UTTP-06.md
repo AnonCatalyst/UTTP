@@ -1,6 +1,6 @@
 # UTTP INVESTIGATION — STATUS UPDATE
 
-> **Accuracy note (2026-11-19):** This historical document is preserved as written. It contains the superseded “10 GB total / 4 GB remaining” release wording. The current public archive is **6 GB**. Confidence labels and corrections are in `00_READ_FIRST/CLAIM_LEDGER.md`.
+> **Accuracy note (2026-11-19):** False/superseded claims have been quarantined in `16_VALIDATED_FALSE_CLAIMS/`; the current public archive is **6 GB**. See `00_READ_FIRST/CLAIM_LEDGER.md` and `15_VALIDATED_CLAIMS/`.
 
 
 **Document ID:** WIC-DOSSIER-2026-0921-UTTP-06
@@ -193,7 +193,7 @@ The investigation continues. Additional public responses, donations, and documen
 
 ## 9. WHAT HAPPENS NEXT
 
-The archive continues to grow. The 4 GB remaining from the initial release will be published once the technical issue is resolved. Additional documentation regarding affiliated groups (764, O9A, and related networks) is in preparation.
+The archive continues to grow. No further release is promised; the public release is 6 GB. Additional documentation regarding affiliated groups (764, O9A, and related networks) is in preparation.
 
 The first public response has been received. More are expected.
 

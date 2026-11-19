@@ -37,7 +37,7 @@ The group was created on Google+ under the stated purpose of "protecting YouTube
 
 Primary sources document the founding purpose as:
 
-> *"He originally made the UTTP to groom 11 year old boys and livestream his trans bottom surgery, spam random sites with gore and flex how many children he groomed"* 
+> *"He originally made the UTTP to groom 11 year old boys and livestream his trans bottom surgery, spam random sites with gore and flex how many children he groomed"*
 
 ### 1.3 The Founder's Arrest
 
@@ -85,9 +85,9 @@ This is not a denial. It is a structural description.
 The documented record does not support the "mostly harmless" framing for the old sector:
 
 - UTTP's founder groomed children
-- UTTP's servers operate "similarly to Skibidi Farms" where unverified members spam CSAM and self-harm 
-- UTTP members posted kitten torture videos, CSAM, and "p" on multiple platforms 
-- UTTP's rules claim "no kiddie gore" while their emperor posted DNB in their chat 
+- UTTP's servers operate "similarly to Skibidi Farms" where unverified members spam CSAM and self-harm
+- UTTP members posted kitten torture videos, CSAM, and "p" on multiple platforms
+- UTTP's rules claim "no kiddie gore" while their emperor posted DNB in their chat
 
 The "harmless harassment" tier does not exist in the documented record.
 
@@ -142,21 +142,21 @@ The respondent also claimed these individuals were involved in "forcing minors t
 
 Skibidi Farms is documented as:
 
-- A forum that hosted links to CSAM 
-- A forum that actively encouraged users to spam CSAM and animal gore 
-- A forum linked to the **Antioch High School shooting** 
-- Shut down on November 4, 2024 
-- Shut down again on January 24, 2025, after its owner was "fedded" 
+- A forum that hosted links to CSAM
+- A forum that actively encouraged users to spam CSAM and animal gore
+- A forum linked to the **Antioch High School shooting**
+- Shut down on November 4, 2024
+- Shut down again on January 24, 2025, after its owner was "fedded"
 
 Helena Police Detective Jason Davis stated:
 
-> *"The biggest one that we've run into is Skibidi Farms... most of the juveniles that are in the 764 group are on this platform."* 
+> *"The biggest one that we've run into is Skibidi Farms... most of the juveniles that are in the 764 group are on this platform."*
 
 ### 4.3 The Documented Record
 
 Soyjak Wiki documents:
 
-> *"Glen went on to manage Skibidi Farms under the name KLASKY CSUPO THDTC TSPL."* 
+> *"Glen went on to manage Skibidi Farms under the name KLASKY CSUPO THDTC TSPL."*
 
 The respondent named Klasky Cuspo, FPS, and General Glen as UTTP-connected. The documented record identifies them as Skibidi Farms operators and FBI investigation targets.
 
@@ -172,11 +172,11 @@ The respondent named Klasky Cuspo, FPS, and General Glen as UTTP-connected. The 
 
 The respondent acknowledges FBI investigations occurred. The characterization as "minor" is contradicted by:
 
-- DOJ prosecution of multiple 764 members 
-- The FBI's classification of 764 as a **Tier 1 terrorist threat** 
-- The FBI investigating **over 500 subjects** nationwide 
-- A 17-year-old in Maine being the first juvenile federally charged, adjudicated, and detained for 764-related acts 
-- A 27-year-old Tennessee man sentenced to **77 years** for child sexual abuse tied to 764 
+- DOJ prosecution of multiple 764 members
+- FBI/DOJ 764 cases (no primary “Tier 1” label located)
+- The FBI investigating **over 500 subjects** nationwide
+- A 17-year-old in Maine being the first juvenile federally charged, adjudicated, and detained for 764-related acts
+- A 27-year-old Tennessee man sentenced to **77 years** for child sexual abuse tied to 764
 
 ### 5.3 The Strategic Read
 
@@ -190,7 +190,7 @@ The "minor" characterization is not supported by the record. The FBI has describ
 
 Soyjak Wiki documents:
 
-> *"You're required to kill a cat in VC (copied from 764) albeit this doesnt happen."* 
+> *"You're required to kill a cat in VC (copied from 764) albeit this doesnt happen."*
 
 UTTP did not just associate with 764. It **adopted 764's initiation ritual** and made it part of its own structure.
 
@@ -198,16 +198,16 @@ UTTP did not just associate with 764. It **adopted 764's initiation ritual** and
 
 UTTP operates a botnet that:
 
-- Spams YouTube comment sections 
-- Uses "glitched" text to bypass filters 
-- Engages in "depraved content" 
-- Represents both support and opposition to create a false illusion of influence 
+- Spams YouTube comment sections
+- Uses "glitched" text to bypass filters
+- Engages in "depraved content"
+- Represents both support and opposition to create a false illusion of influence
 
 ### 6.3 The Psyop Campaign
 
 Sources document:
 
-> *"Most seethe you find about UTTP online is actually written by UTTP members or bots themselves in order to create an illusion that UTTP is more famous and influential than it actually is."* 
+> *"Most seethe you find about UTTP online is actually written by UTTP members or bots themselves in order to create an illusion that UTTP is more famous and influential than it actually is."*
 
 UTTP's public presence is **manufactured**. The group's actual size is smaller than it appears.
 
@@ -215,17 +215,17 @@ UTTP's public presence is **manufactured**. The group's actual size is smaller t
 
 UTTP servers operate:
 
-> *"Similarly to Skibidi Farms where unverified members would get pinged 8347854 times a day unless they proved themselves by spamming CP/self-harming."* 
+> *"Similarly to Skibidi Farms where unverified members would get pinged 8347854 times a day unless they proved themselves by spamming CP/self-harming."*
 
 ### 6.5 The Content
 
 UTTP members have posted:
 
-- Kitten torture videos 
-- CSAM 
-- "P" (slang for CSAM) 
-- DNB (child gore) in their own chat 
-- "P on the sharty, their own server, and on xitter" 
+- Kitten torture videos
+- CSAM
+- "P" (slang for CSAM)
+- DNB (child gore) in their own chat
+- "P on the sharty, their own server, and on xitter"
 
 ---
 
@@ -243,9 +243,9 @@ This designation places 764 within the realm of terrorism, not merely criminal e
 
 "Nexion" is O9A's term for an independent cell. The designation explicitly places 764 within O9A's organizational framework.
 
-### 7.3 FBI: 764 Classified as Tier 1 Terrorist Threat
+### 7.3 FBI/DOJ: 764 Cases
 
-The FBI has classified **764 as a Tier 1 terrorist threat** . The FBI describes it as "a violent online network which operates globally to target and exploit minors" .
+No primary FBI document using the “Tier 1” label was located in this review. 764 is designated in Canada (2025) and is the subject of FBI/DOJ cases.
 
 ### 7.4 DOJ Prosecutions
 
@@ -267,7 +267,7 @@ The FBI has classified **764 as a Tier 1 terrorist threat** . The FBI describes 
 | "UTTP mistakenly allied with Foodists" | Soyjak Wiki: leadership "fully knew" who they allied with |
 | "UTTP cut ties" | Same behaviors persisted after alleged severance |
 | "No news outlets mention UTTP" | Not evidence of innocence — evidence of documentation gap |
-| "The FBI investigations were minor" | DOJ prosecutions, Tier 1 designation, 500+ subjects |
+| "The FBI investigations were minor" | DOJ prosecutions and 500+ subjects; no primary “Tier 1” label located |
 | "UTTP are victims" | Founder groomed children; group adopted 764 initiation tactics |
 | "Soul Reaver is cleansing the group" | Same reform promise made repeatedly |
 | "Stephen Larson is schizophrenic" | Ad hominem, not evidentiary rebuttal |
@@ -323,16 +323,16 @@ UTTP is not a separate or isolated phenomenon. It is a node within a documented 
 
 **What is documented:**
 
-- UTTP was founded by a convicted child groomer 
-- UTTP adopted 764's initiation tactics 
-- UTTP's leadership invited 764 and Foodist members in 
-- UTTP members operated Skibidi Farms, a forum linked to CSAM and a school shooting 
-- UTTP's tactics include CSAM spam, animal torture, and self-harm coercion 
-- 764 is designated as a terrorist entity by Canada 
-- O9A is designated as a terrorist entity by New Zealand, with 764 defined as its "nexions" 
-- The FBI classifies 764 as a Tier 1 terrorist threat 
-- The DOJ has prosecuted multiple 764 members 
-- The FBI is investigating over 500 subjects nationwide 
+- UTTP was founded by a convicted child groomer
+- UTTP adopted 764's initiation tactics
+- UTTP's leadership invited 764 and Foodist members in
+- UTTP members operated Skibidi Farms, a forum linked to CSAM and a school shooting
+- UTTP's tactics include CSAM spam, animal torture, and self-harm coercion
+- 764 is designated as a terrorist entity by Canada
+- O9A is designated as a terrorist entity by New Zealand, with 764 defined as its "nexions"
+- 764 is designated in Canada and prosecuted in FBI/DOJ cases
+- The DOJ has prosecuted multiple 764 members
+- The FBI is investigating over 500 subjects nationwide
 
 **What the respondent confirmed:**
 
