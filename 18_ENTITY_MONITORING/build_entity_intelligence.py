@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 import csv, json, hashlib, re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+BASE = Path(__file__).resolve().parent
+ROOT = BASE.parent
 SITE = Path('/var/www/html')
-OUT_REPO = ROOT / '18_ENTITY_TRACKING' / 'entity-intelligence.json'
+OUT_REPO = BASE / 'entity-intelligence.json'
 OUT_SITE = SITE / 'data' / 'entity-intelligence.json'
 
 def nkey(value):
@@ -351,7 +352,7 @@ watchlist = []
 for r in watch_rows:
     watchlist.append({"name": r['name'], "type": r['type'], "status": r['status'], "confidence": r['confidence'], "indicators": r['watch_indicators'], "limits": r['limits']})
 
-strict_summary = json.loads((ROOT / '19_STRICT_VALIDATION' / 'strict_validation_summary.json').read_text(encoding='utf-8'))
+strict_summary = json.loads((BASE / 'strict_validation_summary.json').read_text(encoding='utf-8'))
 strict_validation = {
  "raw_rows": strict_summary.get('raw_rows', 0),
  "strict_valid": strict_summary.get('strict_valid', 0),
@@ -364,14 +365,14 @@ strict_validation = {
  "manifest_hash_ok": strict_summary.get('manifest_hash_ok', False),
  "rejection_reasons": strict_summary.get('rejection_reasons', {}),
 }
-monitor_feed_path = ROOT / '20_LIVE_MONITORING' / 'monitor_feed.json'
+monitor_feed_path = BASE / 'monitor_feed.json'
 monitor_feed = json.loads(monitor_feed_path.read_text(encoding='utf-8')) if monitor_feed_path.exists() else {}
 
-tel_intake_path = ROOT / '20_LIVE_MONITORING' / 'tel_intake.json'
+tel_intake_path = BASE / 'tel_intake.json'
 tel_intake = json.loads(tel_intake_path.read_text(encoding='utf-8')) if tel_intake_path.exists() else {'count': 0, 'entries': []}
-cold_status_path = ROOT / '20_LIVE_MONITORING' / 'cold_storage_status.json'
+cold_status_path = BASE / 'cold_storage_status.json'
 cold_status = json.loads(cold_status_path.read_text(encoding='utf-8')) if cold_status_path.exists() else {}
-cold_status_path = ROOT / '20_LIVE_MONITORING' / 'cold_storage_status.json'
+cold_status_path = BASE / 'cold_storage_status.json'
 cold_status = json.loads(cold_status_path.read_text(encoding='utf-8')) if cold_status_path.exists() else {}
 
 # ---------- source index ingestion ----------
@@ -415,13 +416,43 @@ for i, src in enumerate(source_index, 1):
         "confidence": conf_map.get(src.get('type',''), 'D'),
     })
 
-manifest_rows = len(read_csv(ROOT / '00_READ_FIRST' / 'MANIFEST.csv'))
+manifest_rows = sum(1 for p in ROOT.rglob('*') if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts and p.name not in ('MANIFEST.csv', 'MANIFEST.sha256'))
 styx_summary_path = ROOT / '09_STYXNET_REPORTS' / 'validation' / 'styxnet_validation_summary.json'
 styx_summary = json.loads(styx_summary_path.read_text(encoding='utf-8')) if styx_summary_path.exists() else {}
 styx_path = ROOT / '09_STYXNET_REPORTS' / 'styxnet_UTTP_csv_1789803261.csv'
 styx_rows = read_csv(styx_path) if styx_path.exists() else []
 search_types = styx_summary.get('search_types', {})
 row_classes = styx_summary.get('row_classes', {})
+
+discovery_dir = BASE
+discovered_sources = json.loads((discovery_dir / 'discovered_sources.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovered_sources.json').exists() else []
+rebrands = json.loads((discovery_dir / 'rebrands.json').read_text(encoding='utf-8')) if (discovery_dir / 'rebrands.json').exists() else []
+migration_events = json.loads((discovery_dir / 'migration_events.json').read_text(encoding='utf-8')) if (discovery_dir / 'migration_events.json').exists() else []
+styxnet_profiles = json.loads((discovery_dir / 'styxnet_profiles.json').read_text(encoding='utf-8')) if (discovery_dir / 'styxnet_profiles.json').exists() else []
+discovery_state = json.loads((discovery_dir / 'discovery_state.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovery_state.json').exists() else {}
+
+def norm_url(value):
+    value = (value or '').strip().lower().rstrip('/')
+    value = re.sub(r'^https?://', '', value)
+    value = re.sub(r'^www\.', '', value)
+    return value
+
+existing_urls = {norm_url(s.get('url', '')) for s in sources if s.get('url')}
+for src in discovered_sources:
+    url = src.get('url', '')
+    key = norm_url(url)
+    if not key or key in existing_urls:
+        continue
+    existing_urls.add(key)
+    sources.append({
+        "id": src.get('id'),
+        "name": (src.get('domain') or 'discovered source') + ' — auto-discovered',
+        "date": (src.get('first_seen') or '')[:10],
+        "type": "discovered",
+        "url": url,
+        "use": "Auto-discovered from archive scan; verify before citation.",
+        "confidence": "D/S",
+    })
 
 monitor = {
  "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
@@ -442,6 +473,13 @@ monitor = {
  },
  "archive": {
   "manifest_files": manifest_rows,
+  "discovered_source_count": len(discovered_sources),
+  "rebrand_count": len(rebrands),
+  "migration_event_count": len(migration_events),
+  "styxnet_profile_count": len(styxnet_profiles),
+  "new_sources_7d": sum(1 for s in discovered_sources if (s.get('first_seen') or '') >= (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%dT%H:%M:%SZ')),
+  "new_styxnet_profiles_7d": sum(1 for s in styxnet_profiles if (s.get('first_seen') or '') >= (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%dT%H:%M:%SZ')),
+  "last_discovery": discovery_state.get('last_run'),
   "public_release_gb": 6,
   "entity_count": len(entities),
   "source_count": len(sources),
@@ -485,6 +523,9 @@ data = {
  "sources": sources,
  "claims": claims,
  "watchlist": watchlist,
+ "rebrands": rebrands,
+ "migration_events": migration_events,
+ "styxnet_profiles": styxnet_profiles,
  "strict_validation": strict_validation,
  "monitor_feed": monitor_feed,
  "tel_intake": tel_intake,

@@ -53,9 +53,8 @@ ledger separates:
 12. [15_VALIDATED_CLAIMS/README.md](../15_VALIDATED_CLAIMS/README.md) — approved claims and confidence.
 13. [16_VALIDATED_FALSE_CLAIMS/README.md](../16_VALIDATED_FALSE_CLAIMS/README.md) — quarantined false claims and replacements.
 14. [17_CURRENT_STATE_PACKAGE/README.md](../17_CURRENT_STATE_PACKAGE/README.md) — short current-state and handoff package.
-15. [18_ENTITY_TRACKING/README.md](../18_ENTITY_TRACKING/README.md) — entity intelligence data and generator.
-16. [20_LIVE_MONITORING/README.md](../20_LIVE_MONITORING/README.md) — automated monitor and pipeline.
-17. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
+15. [18_ENTITY_MONITORING/README.md](../18_ENTITY_MONITORING/README.md) — all monitored entities, tracking links, validation, and pipeline.
+16. [MANIFEST.csv](MANIFEST.csv) — every archived file, size, and SHA-256.
 
 ---
 

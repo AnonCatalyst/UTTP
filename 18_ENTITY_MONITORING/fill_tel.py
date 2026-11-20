@@ -7,8 +7,9 @@ no personal identifiers are published.
 import json, os, re, urllib.request, urllib.error
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / '18_ENTITY_TRACKING' / 'entity-intelligence.json'
+BASE = Path(__file__).resolve().parent
+ROOT = BASE.parent
+DATA = BASE / 'entity-intelligence.json'
 API = os.environ.get('TEL_API', 'http://127.0.0.1:5004/api')
 TOKEN = os.environ.get('OWNER_API_KEY')
 if not TOKEN:
@@ -144,7 +145,7 @@ for e in data['entities']:
         print(f"created {e['id']} -> TEL id {resp.get('id')}: {e['name']}")
 
 existing = req('/entities').get('entities', [])
-monitor_path = ROOT / '20_LIVE_MONITORING' / 'monitor_feed.json'
+monitor_path = BASE / 'monitor_feed.json'
 site_monitor = Path('/var/www/html/data/monitor-feed.json')
 feed = {}
 if monitor_path.exists():

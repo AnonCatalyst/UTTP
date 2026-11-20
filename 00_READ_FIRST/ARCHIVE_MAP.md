@@ -191,23 +191,20 @@ Short, separate handoff product for platforms, researchers, and authorities:
 - `OFFSHOOT_WATCHLIST.csv` — 2026 offshoot/campaign watchlist.
 - `METRICS.md` — how to measure pressure and success.
 
-## 18_ENTITY_TRACKING
+## 18_ENTITY_MONITORING
 
-Group-level entity intelligence data and generator:
+Single-folder entity intelligence, validation, and overtime monitoring layer:
 
-- `README.md` — scope and safety boundary.
+- `README.md` — monitored-entity links, flow, and safety boundary.
 - `entity-intelligence.json` — entities, areas, sources, claims, watchlist, evolution model.
 - `build_entity_intelligence.py` — rebuilds the JSON from archive registers.
-
-## 20_LIVE_MONITORING
-
-Automated monitoring and pipeline:
-
-- `README.md` — scope and safety boundary.
+- `discover.py` — incremental source/rebrand/migration discovery.
+- `strict_validate.py` — manifest/JSON/CSV and StyxNet strict validation.
 - `monitor.py` — lightweight StyxNet/source watch feed.
-- `run_pipeline.py` — strict validation, monitoring, TEL fill, JSON build.
-- `run_pipeline.sh` — environment-aware pipeline wrapper.
-- `monitor_feed.json` — latest source-watch feed.
+- `fill_tel.py` / `sync_tel_intake.py` — TEL register sync and intake leads.
+- `cold_storage.py` — hashed compressed snapshots.
+- `run_pipeline.py` / `run_pipeline.sh` — automated pipeline.
+- Validation/monitoring outputs: `strict_validation_summary.json`, `archive_integrity.json`, `monitor_feed.json`, `tel_intake.json`, `cold_storage_status.json`.
 
 ## Root files
 

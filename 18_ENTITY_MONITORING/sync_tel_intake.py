@@ -8,9 +8,10 @@ import json, os, urllib.request
 from datetime import datetime, timezone
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / '18_ENTITY_TRACKING' / 'entity-intelligence.json'
-OUT = ROOT / '20_LIVE_MONITORING' / 'tel_intake.json'
+BASE = Path(__file__).resolve().parent
+ROOT = BASE.parent
+DATA = BASE / 'entity-intelligence.json'
+OUT = BASE / 'tel_intake.json'
 SITE = Path('/var/www/html/data/tel-intake.json')
 API = os.environ.get('TEL_API', 'http://127.0.0.1:5004/api')
 TOKEN = os.environ.get('OWNER_API_KEY')

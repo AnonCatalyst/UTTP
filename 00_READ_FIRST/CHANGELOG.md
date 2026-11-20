@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-11-19 — Consolidated entity monitoring into one folder
+
+- Merged `18_ENTITY_TRACKING/`, `19_STRICT_VALIDATION/`, and
+  `20_LIVE_MONITORING/` into a single `18_ENTITY_MONITORING/` folder.
+- Added incremental discovery for new sources, rebrands, and area migration
+  timing; stats are cumulative and grow as registers change.
+- Added live update timestamps and cache-busting to the entity page.
+- Manifest now contains 631 files with 0 hash/size errors.
+
 ## 2026-11-19 — Live monitoring and TEL auto-fill
 
 - Added `20_LIVE_MONITORING/` with a StyxNet/source watch feed, pipeline, and

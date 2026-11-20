@@ -10,13 +10,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE_JSON = Path('/var/www/html/data/entity-intelligence.json')
-MONITOR_FEED = ROOT / '20_LIVE_MONITORING' / 'monitor_feed.json'
-STRICT = ROOT / '19_STRICT_VALIDATION' / 'strict_validation_summary.json'
+MONITOR_FEED = Path(__file__).resolve().parent / 'monitor_feed.json'
+STRICT = Path(__file__).resolve().parent / 'strict_validation_summary.json'
 TEL_DB = Path('/var/lib/wintergate/threat_api.db')
 COLD = Path('/var/lib/wintergate/cold_storage/entity_intelligence')
 LOCK = Path('/var/lib/wintergate/cold_storage/.lock')
 LAST_SYNC = Path('/var/lib/wintergate/cold_storage/.last_github_sync')
-STATUS = ROOT / '20_LIVE_MONITORING' / 'cold_storage_status.json'
+LAST_VACUUM = Path('/var/lib/wintergate/cold_storage/.last_full_vacuum')
+STATUS = Path(__file__).resolve().parent / 'cold_storage_status.json'
 SITE_STATUS = Path('/var/www/html/data/cold-storage-status.json')
 MAX_SNAPSHOTS = 24
 MAX_BYTES = 50 * 1024 * 1024
@@ -81,6 +82,43 @@ def prune():
         snaps = sorted(COLD.glob('*.json.gz'))
         total = sum(p.stat().st_size for p in snaps)
 
+
+def db_maintenance():
+    info = {'checked': False}
+    if not TEL_DB.exists():
+        return info
+    import sqlite3
+    conn = sqlite3.connect(str(TEL_DB))
+    try:
+        info['checked'] = True
+        info['page_count'] = conn.execute('PRAGMA page_count').fetchone()[0]
+        info['freelist_before'] = conn.execute('PRAGMA freelist_count').fetchone()[0]
+        auto_vacuum = conn.execute('PRAGMA auto_vacuum').fetchone()[0]
+        if auto_vacuum in (1, 2):
+            try:
+                conn.execute('PRAGMA incremental_vacuum')
+            except Exception:
+                pass
+        try:
+            last = datetime.fromisoformat(LAST_VACUUM.read_text().strip().replace('Z', '+00:00')) if LAST_VACUUM.exists() else None
+        except Exception:
+            last = None
+        if last is None or (now() - last) >= timedelta(hours=24):
+            conn.execute('VACUUM')
+            conn.execute('ANALYZE')
+            LAST_VACUUM.write_text(now().isoformat().replace('+00:00', 'Z'))
+            info['full_vacuum'] = True
+        else:
+            info['full_vacuum'] = False
+        info['freelist_after'] = conn.execute('PRAGMA freelist_count').fetchone()[0]
+        try:
+            conn.execute('PRAGMA optimize')
+        except Exception:
+            pass
+    finally:
+        conn.close()
+    return info
+
 def github_sync(path):
     if os.environ.get('GITHUB_COLD_SYNC') != '1':
         return 'disabled'
@@ -113,13 +151,8 @@ def main():
         out = COLD / f'entity-intelligence-{stamp}.json.gz'
         out.write_bytes(gzip.compress(json.dumps(snapshot, separators=(',', ':')).encode('utf-8'), compresslevel=9))
         prune()
-        try:
-            import sqlite3
-            conn = sqlite3.connect(str(TEL_DB))
-            conn.execute('VACUUM')
-            conn.close()
-        except Exception:
-            pass
+        db_info = db_maintenance()
+        raw_bytes = len(json.dumps(snapshot, separators=(',', ':')).encode('utf-8'))
         status = github_sync(out)
         status_obj = {
             'updated': now().isoformat().replace('+00:00', 'Z'),
@@ -129,6 +162,9 @@ def main():
             'total_bytes': sum(p.stat().st_size for p in COLD.glob('*.json.gz')),
             'github': status,
             'tel_records': data.get('monitor', {}).get('tel_records'),
+            'raw_snapshot_bytes': raw_bytes,
+            'bytes_saved': max(0, raw_bytes - out.stat().st_size),
+            'db': db_info,
         }
         STATUS.parent.mkdir(parents=True, exist_ok=True)
         STATUS.write_text(json.dumps(status_obj, indent=2) + '\n', encoding='utf-8')

@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / '20_LIVE_MONITORING' / 'monitor_feed.json'
+OUT = Path(__file__).resolve().parent / 'monitor_feed.json'
 SITE = Path('/var/www/html/data/monitor-feed.json')
 
 URLS = [
