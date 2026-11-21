@@ -1,7 +1,7 @@
 {
   "files": {
     "00_READ_FIRST/ARCHIVE_MAP.md": "0c7eb235414f351e3c468ae623964422c9065464151e86ed822908c57368df51",
-    "00_READ_FIRST/CHANGELOG.md": "a8114715b2cecd5566cca5c718412d9d2e6f68ac8fd228fee58adc1ac19b3b75",
+    "00_READ_FIRST/CHANGELOG.md": "8a118707b771082dba16910faa346fdc9bfdecae519a228346a94a6f835cbcd8",
     "00_READ_FIRST/CLAIM_LEDGER.md": "c6ddd3bbdc125c558ed2d833f937a1f7838af985c60737d42e719ab41bd552a0",
     "00_READ_FIRST/DATA_DICTIONARY.md": "9499f186556feea0ebe420210c7654f4e0dafe732a48f045704a8223cd0a4227",
     "00_READ_FIRST/ENTITY_MAP.md": "51a4f9a32bd2af19a2666b6cdc47ed67418a7b559bd2c638247c349f8e512599",
@@ -39,7 +39,7 @@
     "17_CURRENT_STATE_PACKAGE/METRICS.md": "3039b9de81220d75b99868c11997c790be777045b5db1450303816a2ab14924f",
     "17_CURRENT_STATE_PACKAGE/README.md": "532f4d229698041e19611cadaa9f46e67e4024d687833e230bd80bf2110d0e98",
     "17_CURRENT_STATE_PACKAGE/UTTP_CURRENT_STATE_2026-11-19.md": "24b06e2828cabf27c65c367b9d4d79711da055e080b997573a7d24e32ecbe844",
-    "18_ENTITY_MONITORING/README.md": "51121034b721af021eb1ae60f2e952349a4edfb8603cf8814e247009542e5222",
+    "18_ENTITY_MONITORING/README.md": "ceaa3eab555f3c10ece85a994f61d45908f73092db71e83778c5576c3c0acf50",
     "02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv": "0a76553e6984e29f04131e3e19338df8e0612a56df4230d79ad99fbfc687b87a",
     "02_CORE_INVESTIGATION/Members_List/General_List_v2_Structured_2026-11-19.md": "c105fc8c44fa364d731dcb82b870928d048b46e1151f41f9a11b72d46f27992b"
   },
@@ -215,6 +215,46 @@
       "source_files": [
         "18_ENTITY_MONITORING/README.md"
       ]
+    },
+    "wintergate.org/data/cold-storage-status.json": {
+      "id": "D018",
+      "url": "https://wintergate.org/data/cold-storage-status.json",
+      "domain": "wintergate.org",
+      "first_seen": "2026-11-21T04:24:57Z",
+      "last_seen": "2026-11-21T04:24:57Z",
+      "source_files": [
+        "18_ENTITY_MONITORING/README.md"
+      ]
+    },
+    "wintergate.org/data/entity-intelligence.json": {
+      "id": "D019",
+      "url": "https://wintergate.org/data/entity-intelligence.json",
+      "domain": "wintergate.org",
+      "first_seen": "2026-11-21T04:24:57Z",
+      "last_seen": "2026-11-21T04:24:57Z",
+      "source_files": [
+        "18_ENTITY_MONITORING/README.md"
+      ]
+    },
+    "wintergate.org/data/monitor-feed.json": {
+      "id": "D020",
+      "url": "https://wintergate.org/data/monitor-feed.json",
+      "domain": "wintergate.org",
+      "first_seen": "2026-11-21T04:24:57Z",
+      "last_seen": "2026-11-21T04:24:57Z",
+      "source_files": [
+        "18_ENTITY_MONITORING/README.md"
+      ]
+    },
+    "wintergate.org/data/tel-intake.json": {
+      "id": "D021",
+      "url": "https://wintergate.org/data/tel-intake.json",
+      "domain": "wintergate.org",
+      "first_seen": "2026-11-21T04:24:57Z",
+      "last_seen": "2026-11-21T04:24:57Z",
+      "source_files": [
+        "18_ENTITY_MONITORING/README.md"
+      ]
     }
   },
   "area_snapshot": {
@@ -359,7 +399,7 @@
       "confidence": "A/D"
     }
   },
-  "last_run": "2026-11-20T01:00:01Z",
+  "last_run": "2026-11-21T04:24:57Z",
   "styxnet_profiles": {
     "dumpor.com/v/uttp": {
       "id": "P001",

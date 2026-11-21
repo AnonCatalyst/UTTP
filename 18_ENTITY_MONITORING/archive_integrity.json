@@ -1,5 +1,5 @@
 {
-  "internal_links_checked": 113,
+  "internal_links_checked": 114,
   "broken_internal_links": [],
   "json_files_checked": 127,
   "bad_json_files": [],
@@ -18,12 +18,20 @@
   "manifest_rows_checked": 636,
   "bad_manifest_rows": [
     {
-      "path": "18_ENTITY_MONITORING/discovery_state.json",
-      "reason": "hash_mismatch"
+      "path": "00_READ_FIRST/CHANGELOG.md",
+      "reason": "size_mismatch"
     },
     {
-      "path": "18_ENTITY_MONITORING/entity-intelligence.json",
-      "reason": "hash_mismatch"
+      "path": "18_ENTITY_MONITORING/README.md",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/discovered_sources.json",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/discovery_state.json",
+      "reason": "size_mismatch"
     },
     {
       "path": "18_ENTITY_MONITORING/rebrands.json",

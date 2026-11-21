@@ -170,5 +170,45 @@
     "source_files": [
       "18_ENTITY_MONITORING/README.md"
     ]
+  },
+  {
+    "id": "D018",
+    "url": "https://wintergate.org/data/cold-storage-status.json",
+    "domain": "wintergate.org",
+    "first_seen": "2026-11-21T04:24:57Z",
+    "last_seen": "2026-11-21T04:24:57Z",
+    "source_files": [
+      "18_ENTITY_MONITORING/README.md"
+    ]
+  },
+  {
+    "id": "D019",
+    "url": "https://wintergate.org/data/entity-intelligence.json",
+    "domain": "wintergate.org",
+    "first_seen": "2026-11-21T04:24:57Z",
+    "last_seen": "2026-11-21T04:24:57Z",
+    "source_files": [
+      "18_ENTITY_MONITORING/README.md"
+    ]
+  },
+  {
+    "id": "D020",
+    "url": "https://wintergate.org/data/monitor-feed.json",
+    "domain": "wintergate.org",
+    "first_seen": "2026-11-21T04:24:57Z",
+    "last_seen": "2026-11-21T04:24:57Z",
+    "source_files": [
+      "18_ENTITY_MONITORING/README.md"
+    ]
+  },
+  {
+    "id": "D021",
+    "url": "https://wintergate.org/data/tel-intake.json",
+    "domain": "wintergate.org",
+    "first_seen": "2026-11-21T04:24:57Z",
+    "last_seen": "2026-11-21T04:24:57Z",
+    "source_files": [
+      "18_ENTITY_MONITORING/README.md"
+    ]
   }
 ]
