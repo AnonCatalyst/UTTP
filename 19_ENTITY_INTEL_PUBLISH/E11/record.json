@@ -1,0 +1,122 @@
+{
+  "id": "E11",
+  "name": "11th Street",
+  "type": "offshoot/lead",
+  "status": "unverified lead",
+  "confidence": "D",
+  "summary": "Explicitly marked unverified lead.",
+  "origin": "unknown",
+  "current_state": "Lead only.",
+  "watch_priority": "low",
+  "related": [
+    "DPOS"
+  ],
+  "tactics": [
+    "lead material"
+  ],
+  "areas": [
+    "unknown"
+  ],
+  "evolution": [
+    {
+      "date": "unknown",
+      "event": "Unverified lead",
+      "confidence": "D"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S028",
+      "name": "UTTP archive — main repository",
+      "date": "2026-11-19",
+      "type": "archive",
+      "url": "https://github.com/WinterGate-IC/UTTP",
+      "use": "Claims, tracking, source index, evidence standards",
+      "confidence": "A/D"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VC-016",
+      "type": "validated",
+      "claim": "DPOS is best described as a hardcore UTTP offshoot/splinter, not a separate unrelated group.",
+      "confidence": "C/D",
+      "basis": "WIC/third-party/community lineage; UTTP splinter context.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md"
+    },
+    {
+      "id": "VC-017",
+      "type": "validated",
+      "claim": "The archived DPOS server contains 53 channel snapshots and ~3,205 messages from February–June 2025, with Empire/Task Force/ISA HQ/log structures.",
+      "confidence": "E for structure",
+      "basis": "Direct observation of exported Discord JSON.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DPOS Chat Leaks JSON/"
+    },
+    {
+      "id": "VC-018",
+      "type": "validated",
+      "claim": "DPOS and 764 overlap in grooming/blackmail/self-harm/shock-content tactics; no command or merger is established.",
+      "confidence": "C/A; X for command/merger",
+      "basis": "WIC/third-party/community; UTTP/764 ecosystem analysis.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md"
+    },
+    {
+      "id": "FC-017",
+      "type": "false",
+      "claim": "'DPOS is a 764-derived network — 100% confirmed'",
+      "confidence": "X/A",
+      "basis": "Tactical/ideological overlap is supported; derivation/command is not. WIC language overstates the evidence.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-018",
+      "type": "false",
+      "claim": "'DPOS is a documented federal target'",
+      "confidence": "S/X",
+      "basis": "No primary federal case, indictment, or designation naming DPOS was located.",
+      "source": "02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/ThirdParty_Brief_DPOS_FullHistory_20251111.md"
+    },
+    {
+      "id": "FC-019",
+      "type": "false",
+      "claim": "'1,750+ linked accounts'",
+      "confidence": "D/S",
+      "basis": "third-party/DTAD count is not independently verified; counting method and unique-account threshold are not published.",
+      "source": "02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/ThirdParty_Brief_DPOS_UTTP_History_20251013.md"
+    },
+    {
+      "id": "FC-020",
+      "type": "false",
+      "claim": "'The DPOS lead is 90% likely a 764 member/affiliate'",
+      "confidence": "A/S",
+      "basis": "Behavioural/tactical overlap is not membership proof; the 90% figure has no published method.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-021",
+      "type": "false",
+      "claim": "'UNIPOL Level 3 designation'",
+      "confidence": "S/X",
+      "basis": "No UNIPOL/agency instrument was located.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-022",
+      "type": "false",
+      "claim": "'DPOS is UTTP' / 'DPOS is a 764 unit'",
+      "confidence": "X",
+      "basis": "DPOS is an offshoot/overlap node, not identical to UTTP or 764.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/"
+    }
+  ],
+  "not_supported": [
+    "11th Street is a verified offshoot"
+  ],
+  "learning": {
+    "stage": "lead",
+    "risk_score": 0.2,
+    "next_likely": "unverified",
+    "basis": "placeholder"
+  },
+  "published": "2026-11-21T04:42:15Z"
+}

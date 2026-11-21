@@ -1,0 +1,250 @@
+[
+  {
+    "id": "UTTP",
+    "name": "UTTP / UTube Troll Police",
+    "type": "harassment brand/network",
+    "status": "persistent but fragmented",
+    "confidence": "C",
+    "watch_priority": "high"
+  },
+  {
+    "id": "UTTP-EMPIRE",
+    "name": "UTTP Empire / Nu-UTTP",
+    "type": "faction",
+    "status": "active lineage",
+    "confidence": "D",
+    "watch_priority": "high"
+  },
+  {
+    "id": "CIRCUSFALL",
+    "name": "Circusfall faction",
+    "type": "2026 faction/revival",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "high"
+  },
+  {
+    "id": "OFFICERSLAPPY",
+    "name": "OfficerSlappy faction / UTTP Forum",
+    "type": "2026 faction/website lineage",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "AFR",
+    "name": "Anti-Fandom Resistance (AFR)",
+    "type": "2026 splinter",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "BN0R",
+    "name": "Bn0r Empire",
+    "type": "2026 subgroup",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "RDF",
+    "name": "Reddit Defence Force (RDF)",
+    "type": "2025-2026 revival",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "DPOS",
+    "name": "Degeneracy Police Order State (DPOS)",
+    "type": "hardcore UTTP offshoot",
+    "status": "active/reforming",
+    "confidence": "C/D",
+    "watch_priority": "high"
+  },
+  {
+    "id": "764",
+    "name": "764",
+    "type": "designated NVE network",
+    "status": "designated (Canada)",
+    "confidence": "E",
+    "watch_priority": "high"
+  },
+  {
+    "id": "O9A",
+    "name": "Order of Nine Angles (O9A / ONA)",
+    "type": "designated occult/NVE network",
+    "status": "designated (New Zealand)",
+    "confidence": "E",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "HARMNATION",
+    "name": "Harm Nation",
+    "type": "764 offshoot",
+    "status": "adjacent",
+    "confidence": "C/D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "SPAWNISM",
+    "name": "Spawnism",
+    "type": "self-harm/recruitment cult",
+    "status": "adjacent",
+    "confidence": "D/S",
+    "watch_priority": "high"
+  },
+  {
+    "id": "AUTTP",
+    "name": "Anti-UTTP / AUTTP",
+    "type": "opposition coalition",
+    "status": "loose",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "FPE",
+    "name": "FPE (Fundamental Paper Education) ecosystem",
+    "type": "target ecosystem",
+    "status": "target",
+    "confidence": "A",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "FPE-POLICE",
+    "name": "FPE-Police",
+    "type": "role-play/AU brand",
+    "status": "unverified formal entity",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "TNM",
+    "name": "TNM / The Militia",
+    "type": "adjacent network",
+    "status": "affiliate/lead",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "148",
+    "name": "148-1488",
+    "type": "adjacent network",
+    "status": "affiliate/lead",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "ENCLAVE",
+    "name": "Imperium of Enclave / UETR-GSR",
+    "type": "adjacent network",
+    "status": "affiliate/lead",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "SPWN",
+    "name": "SPWN / Spawnism",
+    "type": "affiliate/lead",
+    "status": "lead only",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "E11",
+    "name": "11th Street",
+    "type": "offshoot/lead",
+    "status": "unverified lead",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "KKTK",
+    "name": "KuKluxTrollKlan (KKTK)",
+    "type": "historical group",
+    "status": "historical",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "YFGA",
+    "name": "YouTube Farm Gang Army (YFGA)",
+    "type": "historical splinter",
+    "status": "historical",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "VGCP",
+    "name": "VideoGameCartoonPolice (VGCP)",
+    "type": "historical opposition",
+    "status": "disbanded",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "AFF",
+    "name": "Anti Fandom Front (AFF)",
+    "type": "opposition/adjacent",
+    "status": "historical/lead",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "TND",
+    "name": "TND / The Group That Destroyed FPE",
+    "type": "FPE conflict group",
+    "status": "rival/destroyer",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "ZETA",
+    "name": "Zeta",
+    "type": "UTTP ally (reported)",
+    "status": "reported ally",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "YTDESTROYERS",
+    "name": "YouTube Troll Destroyers",
+    "type": "opposition",
+    "status": "anti-UTTP",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "C09A",
+    "name": "09A Cult (legacy archive label)",
+    "type": "legacy archive label",
+    "status": "archive context",
+    "confidence": "D",
+    "watch_priority": "low"
+  },
+  {
+    "id": "TYRANNYRUTTP",
+    "name": "TYRANNY / RUTTP",
+    "type": "splinter",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "RDFPARTY",
+    "name": "RDFPARTY",
+    "type": "RDF splinter",
+    "status": "reported",
+    "confidence": "D",
+    "watch_priority": "medium"
+  },
+  {
+    "id": "THEFARTKNOCKERSTFK",
+    "name": "TheFartKnockers (TFK)",
+    "type": "splinter",
+    "status": "historical/disbanded",
+    "confidence": "D",
+    "watch_priority": "medium"
+  }
+]

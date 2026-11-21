@@ -1,0 +1,99 @@
+{
+  "id": "C09A",
+  "name": "09A Cult (legacy archive label)",
+  "type": "legacy archive label",
+  "status": "archive context",
+  "confidence": "D",
+  "summary": "Legacy archive label for O9A-adjacent material. Not a headquarters or proven parent; 09A is an alternate spelling.",
+  "origin": "archive label",
+  "current_state": "Legacy context only.",
+  "watch_priority": "low",
+  "related": [
+    "O9A"
+  ],
+  "tactics": [
+    "archive label"
+  ],
+  "areas": [
+    "archive"
+  ],
+  "evolution": [
+    {
+      "date": "2026-11-19",
+      "event": "Label corrected as legacy archive context",
+      "confidence": "D"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S037",
+      "name": "O9A trace",
+      "date": "2026-11-19",
+      "type": "analysis",
+      "url": "https://github.com/WinterGate-IC/UTTP/tree/main/14_O9A_764_TRACE",
+      "use": "O9A profile, designations, nexion limits",
+      "confidence": "E/C/A"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VC-015",
+      "type": "validated",
+      "claim": "O9A is a decentralised, leaderless network of autonomous nexions.",
+      "confidence": "E/C",
+      "basis": "NZ statement of case; ISD; GNET.",
+      "source": "14_O9A_764_TRACE/O9A_FULL_PROFILE.md"
+    },
+    {
+      "id": "VC-020",
+      "type": "validated",
+      "claim": "DPOS is not a designated terrorist entity in the reviewed instruments.",
+      "confidence": "E/X",
+      "basis": "No DPOS designation located.",
+      "source": "14_O9A_764_TRACE/DESIGNATIONS_AND_LEGAL.md"
+    },
+    {
+      "id": "FC-002",
+      "type": "false",
+      "claim": "'UTTP is a designated terrorist entity'",
+      "confidence": "X",
+      "basis": "No designation instrument naming UTTP was located. 764 and O9A are designated.",
+      "source": "02_CORE_INVESTIGATION/Historical/; 11_RESEARCH_EXPANSION/; 14_O9A_764_TRACE/"
+    },
+    {
+      "id": "FC-004",
+      "type": "false",
+      "claim": "'O9A/09A is the parent entity and 764 is its operational arm'",
+      "confidence": "X",
+      "basis": "The NZ statement lists 764 as an O9A nexion, but nexions are operationally independent; no parent/command relationship is established.",
+      "source": "02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    },
+    {
+      "id": "FC-005",
+      "type": "false",
+      "claim": "'O9A commands 764' / '764 = O9A'",
+      "confidence": "X",
+      "basis": "O9A nexions are operationally independent; 764 is a distinct network.",
+      "source": "14_O9A_764_TRACE/; 02_CORE_INVESTIGATION/Historical/"
+    },
+    {
+      "id": "FC-013",
+      "type": "false",
+      "claim": "'09A Cult is O9A's headquarters / the root of the hierarchy'",
+      "confidence": "X",
+      "basis": "'09A Cult' is a legacy archive label; no headquarters is established.",
+      "source": "05_PARENT_ENTITIES/09A Cult/; 02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    }
+  ],
+  "not_supported": [
+    "09A Cult is O9A headquarters",
+    "09A Cult is UTTP parent"
+  ],
+  "learning": {
+    "stage": "legacy label",
+    "risk_score": 0.1,
+    "next_likely": "none",
+    "basis": "archive label"
+  },
+  "published": "2026-11-21T04:42:15Z"
+}
