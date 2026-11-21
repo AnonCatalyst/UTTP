@@ -1,0 +1,29 @@
+entity_id,entity_name,entity_type,parent_or_alias,status,platforms,first_seen,last_source_check,confidence,primary_source,notes
+UTTP,UTTP / UTube Troll Police,brand-network,,fragmented; brand persists; community reports low activity,YouTube;Discord;X;Telegram;TikTok,2011-02-12,2026-11-19,C/D,https://soyjakwiki.org/UTTP; https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism,Decentralised; not one organisation; exact current membership unknown.
+UTTP-OLD,Legacy / old-sector UTTP,faction,UTTP,historical/legacy,Discord;YouTube,2011,2026-11-19,D,https://soyjakwiki.org/UTTP,Faction boundary disputed; do not treat as current command.
+UTTP-NU,Nu-UTTP / UTTP Empire,faction,UTTP,assessed active/splintered,Discord;X,2023,2026-11-19,A/D,02_CORE_INVESTIGATION/Historical/,Associated with more extreme content/NVE overlap; requires evidence for specific claims.
+UTTP-CIRCUS,Circusfall faction,faction,UTTP,reported 2026 revival,Discord;X,2026,2026-11-19,D,https://soyjakwiki.org/UTTP,Community-reported; early-2026 revival; not independently verified.
+UTTP-SLAPPY,OfficerSlappy faction,faction,UTTP,reported rival faction,Discord;YouTube,2018,2026-11-19,D,https://soyjakwiki.org/UTTP,Community-reported split; no independent confirmation.
+RUTTP,RUTTP / TYRANNY,splinter,UTTP,reported splinter,Discord,2020s,2026-11-19,D,02_CORE_INVESTIGATION/Members_List/,Reported rebrand; limited public evidence.
+AFR,Anti-Fandom Resistance,splinter,UTTP,reported splinter; forum shut down 2026-08-07,Discord;X;soycords,2026,2026-11-19,D,https://soyjakwiki.org/UTTP,Community reports antifandom.org shutdown and server nuke; decentralized after.
+DPOS,Degeneracy Police Order State,hardcore offshoot/splinter,UTTP,active/reforming brand; bridge node,Discord;X;Telegram,2023,2026-11-19,C/D,04_OFFSHOOTS/DPOS%20-%20Degeneracy%20Police%20Order%20State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md,UTTP lineage; 764 tactical overlap C/A; no merger/command.
+N764,764 network,NVE network,edge fusion/overlap with UTTP ecosystem,designated terrorist entity (Canada),Discord;Telegram;gaming platforms,2021,2026-11-19,E,https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html,Listed 2025-12-10; UTTP link is assessed; no merger/operational-arm evidence.
+O9A,Order of Nine Angles,extremist network,764 listed as an O9A nexion,designated terrorist entity (NZ),online,1970s,2026-11-19,E,https://gazette.govt.nz/notice/id/2025-au7135,Designated 2025-12-07; notice 2025-12-10; nexions operationally independent.
+FPE,Fundamental Paper Education ecosystem,target ecosystem,none,public fandom; infiltration assessed,YouTube;Discord;X,2024,2026-11-19,A,03_AFFILIATIONS/FPE%20-%20Fundamental%20Paper%20Education/,Target/entered ecosystem; not an affiliate.
+FPE-POLICE,FPE-Police branding,decentralised branding, FPE,unverified formal entity; branding used,Discord;YouTube,2025,2026-11-19,D,03_AFFILIATIONS/FPE%20-%20Fundamental%20Paper%20Education/README.md,No formal organisation confirmed.
+AUTTP,Anti-UTTP coalition,opposition/coalition, opposes UTTP,community coalition,Discord;YouTube,2020s,2026-11-19,D,06_COMMUNITY_NOTES/,Community opposition; not a WIC-controlled entity.
+SRA,Spam Report Army,affiliate/lead,UTTP,affiliate/lead material,Discord,2020s,2026-11-19,D,03_AFFILIATIONS/SRA%20-%20Spam%20Report%20Army/,"Presence in affiliations = documentation/lead, not proven command."
+TM-TNM,The Militia / TNM,affiliate/lead,UTTP,affiliate/lead material,Discord,2020s,2026-11-19,D,03_AFFILIATIONS/TM-TNM%20-%20The%20Militia/,2025 investigation material; relationship varies.
+UU,Universal Union,affiliate/lead,UTTP,affiliate/lead material,Discord,2020s,2026-11-19,D,03_AFFILIATIONS/UU%20-%20Universal%20Union/,Propaganda/media in archive; command link unproven.
+G148,148-1488,affiliate/lead,UTTP,affiliate/lead material,Discord,2020s,2026-11-19,D,03_AFFILIATIONS/148-1488/,Archive/export material; command link unproven.
+ENCL,UETR-GSR / Imperium of Enclave,affiliate/lead,UTTP,affiliate/lead material,Discord,2020s,2026-11-19,D,03_AFFILIATIONS/UETR-GSR%20-%20Imperium%20of%20Enclave/,UID lists in archive; treat as lead.
+SPWN,SPWN / Spawnism,affiliate/lead,UTTP,lead only,unknown,unknown,2026-11-19,D,03_AFFILIATIONS/SPWN%20-%20Spawnism/,Placeholder/lead; do not overstate.
+E11,11th Street,offshoot/lead,DPOS,unverified lead,unknown,unknown,2026-11-19,D,04_OFFSHOOTS/11th%20STREET/,Explicitly marked unverified lead.
+C09A,09A Cult,legacy archive label,O9A-adjacent,archive context,online,unknown,2026-11-19,D,05_PARENT_ENTITIES/09A%20Cult/,Not a headquarters or proven parent; 09A is an alternate spelling.
+WIC,WinterGate Intelligence Collective,documenter, none,maintainer,web;GitHub;Discord,2025,2026-11-19,E,https://github.com/WinterGate-IC/UTTP,Not a UTTP member; documents and defends.
+UTTP-FORUM,UTTP Forum / OfficerSlappy faction,faction,UTTP,reported 2026 faction/website lineage,Discord;YouTube;web,2025,2026-11-19,D,https://soyjakwiki.org/UTTP,Mention-spam campaigns; no independent census.
+BN0R,Bn0r Empire,subgroup,UTTP-adjacent,reported 2026 subgroup,YouTube;Discord,2026,2026-11-19,D,https://soyjakwiki.org/UTTP,Bn0r/Chizur-linked; community-reported.
+RDF,Reddit Defence Force,revival/faction,UTTP,reported 2025–2026 revival,Reddit;Discord,2025,2026-11-19,D,https://soyjakwiki.org/UTTP,Reddit-facing; RDFPARTY splinter.
+RDFPARTY,RDFPARTY,splinter,RDF,reported DNB/soycord splinter,Reddit;soycords,2026,2026-11-19,D,https://soyjakwiki.org/UTTP,Community-reported.
+VGCP,VideoGameCartoonPolice,historical opposition,UTTP,disbanded historical splinter,YouTube;GoAnimate,2012,2026-11-19,D,https://soyjakwiki.org/UTTP,Oldest known UTTP splinter; anti-UTTP.
+AFF,Anti Fandom Front,opposition/adjacent,UTTP-adjacent,historical/lead,Discord;YouTube,2020s,2026-11-19,D,https://soyjakwiki.org/UTTP,Distinct from AFR.

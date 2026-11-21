@@ -1,0 +1,51 @@
+{
+  "id": "FPE-POLICE",
+  "name": "FPE-Police",
+  "type": "role-play/AU brand",
+  "status": "unverified formal entity",
+  "confidence": "D",
+  "summary": "FPE-Police branding within the FPE ecosystem. Role-play/AU, not an official police force. No verified member list.",
+  "origin": "2025",
+  "current_state": "Branding used; no formal organisation confirmed.",
+  "watch_priority": "low",
+  "related": [
+    "FPE"
+  ],
+  "tactics": [
+    "role-play branding",
+    "community identity"
+  ],
+  "areas": [
+    "Discord",
+    "YouTube"
+  ],
+  "evolution": [
+    {
+      "date": "2025",
+      "event": "FPE-Police branding appears",
+      "confidence": "D"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S028",
+      "name": "UTTP archive — main repository",
+      "date": "2026-11-19",
+      "type": "archive",
+      "url": "https://github.com/WinterGate-IC/UTTP",
+      "use": "Claims, tracking, source index, evidence standards",
+      "confidence": "A/D"
+    }
+  ],
+  "claims": [],
+  "not_supported": [
+    "FPE-Police is an official police force"
+  ],
+  "learning": {
+    "stage": "role-play brand",
+    "risk_score": 0.25,
+    "next_likely": "brand reuse",
+    "basis": "unverified branding"
+  },
+  "published": "2026-11-21T05:17:01Z"
+}

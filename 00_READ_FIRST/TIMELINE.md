@@ -1,0 +1,91 @@
+# UTTP Snapshot — 2026-11-19
+
+**Classification:** public OSINT, group-level
+**Sources checked:** 2026-11-18/19
+**Confidence labels:** E/C/A/S/D/X
+
+---
+
+## 1. One-paragraph assessment
+
+UTTP remains a recognisable **brand and harassment playbook**, but not a single
+coherent organisation. In 2026 the public record describes a fragmented
+ecosystem: legacy/Nu-UTTP factions, a reported “Operation Circusfall” revival,
+a reported split with a rival faction, and an AFR splinter that moved into
+decentralised soycord/COM spaces after its forum was reportedly shut down. A
+community wiki now calls UTTP “complete DNB”/almost no members. That is a
+community assessment, not a census, and it should be read alongside independent
+analysis describing UTTP as an NVE network with overlap to 764/NLM/MMC.
+
+**UTTP is not a designated terrorist entity** in the sources reviewed. **764**
+(Canada, 2025) and **O9A/ONA** (New Zealand, 2025-12-07) are designated; NZ lists 764 as an O9A nexion, but nexions are operationally independent. The UTTP-764
+relationship is an assessment, not a legal designation. No evidence located that
+UTTP merged with 764 or became its operational arm.
+
+---
+
+## 2. Current group-level picture
+
+| Element | Assessment | Confidence |
+| --- | --- | --- |
+| UTTP brand | Survives faction collapse; reusable name/playbook | C/D |
+| Central command | No reliable evidence of one command chain | C |
+| Legacy/old-sector | Historical lineage; boundaries disputed | D |
+| Nu-UTTP/UTTP Empire | More extreme faction lineage; NVE overlap | A/D |
+| Circusfall faction | Reported 2026 revival; shock/gore spam on X | D |
+| OfficerSlappy faction | Reported rival; split details contested | D |
+| AFR | Reported splinter; forum shut down Aug 2026; decentralised after | D |
+| Bn0r Empire | Reported 2026 subgroup | D |
+| RDF / RDFPARTY | Reported 2025–2026 Reddit revival and DNB splinter | D |
+| VGCP / AFF | Historical splinter/opposition layer | D |
+| DPOS | Hardcore UTTP offshoot; bridge to 764/Com; no merger/command | C/D |
+| 764/O9A | Designated NVE ecosystem; edge fusion/overlap assessed; no merger/arm | E/C/A |
+| FPE | Target ecosystem; WIC operation, not alliance | A |
+| AUTTP | Community opposition | D |
+
+---
+
+## 3. What is actually observable
+
+These are safer tracking signals than individual identities:
+
+1. **Brand reuse** — new UTTP-branded forums, servers, “police”/“empire” names.
+2. **Campaign names** — e.g. “Operation Circusfall,” “Operation October
+   Surprise,” successor names.
+3. **Public domains and forums** — registration, shutdown, replacement.
+4. **Platform migration** — YouTube → Discord → X → TikTok/Telegram → soycords.
+5. **Recruitment language** — “prove yourself,” gore/CSAM-adjacent dares,
+   loyalty tests (do not reproduce graphic content).
+6. **Mass-report/raid patterns** — coordinated campaigns against creators and
+   fandom wikis.
+7. **NVE crossover** — public references to 764/O9A/COM, shared aesthetics,
+   shared campaign targets.
+8. **Enforcement outcomes** — platform bans, server nukes, domain seizures,
+   government designations, court cases.
+9. **Archive changes** — new donated material, missing multipart sets, new
+   captures.
+
+---
+
+## 4. What changed since the September 2026 baseline
+
+- **September 2026:** archive public release; WIC status “ACTIVE.”
+- **October 2026:** WIC Phase 1 observation report; community notes/petitions.
+- **November 2026:** archive reorganized; accuracy ledger added; UTTP current
+  state described by community wiki as heavily reduced.
+- **2026 (community):** Circusfall revival, faction split, AFR forum shutdown,
+  claimed reunification by a successor figure. These are **D/S** until
+  independently verified.
+
+---
+
+## 5. Gaps
+
+- No independent census of active UTTP-branded spaces.
+- No verified command map; faction claims are self-reported.
+- “Complete DNB” is a community label, not measured inactivity.
+- UTTP-specific 764 recruitment evidence remains partly single-source.
+- Platform enforcement data is not systematically available.
+- FPE operation is WIC self-authored; third-party claims remain unverified.
+
+See `OPEN_LEADS.md`.

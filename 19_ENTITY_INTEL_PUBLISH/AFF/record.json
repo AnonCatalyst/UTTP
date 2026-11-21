@@ -1,0 +1,131 @@
+{
+  "id": "AFF",
+  "name": "Anti Fandom Front (AFF)",
+  "type": "opposition/adjacent",
+  "status": "historical/lead",
+  "confidence": "D",
+  "summary": "Anti-fandom front distinct from AFR; community-reported.",
+  "origin": "2020s",
+  "current_state": "Lead only.",
+  "watch_priority": "low",
+  "related": [
+    "UTTP"
+  ],
+  "tactics": [
+    "opposition/adjacent"
+  ],
+  "areas": [
+    "YouTube",
+    "Discord"
+  ],
+  "evolution": [
+    {
+      "date": "2020s",
+      "event": "Community-reported activity",
+      "confidence": "D"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S023",
+      "name": "Soyjak Wiki — UTTP",
+      "date": "2026-11-18",
+      "type": "community wiki",
+      "url": "https://soyjakwiki.org/UTTP",
+      "use": "Faction history, current-state, 2026 offshoots",
+      "confidence": "D"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VC-010",
+      "type": "validated",
+      "claim": "No evidence was located that UTTP is an operational arm of 764 or merged with 764.",
+      "confidence": "X for the positive claim; negative finding",
+      "basis": "Web search; designations; Sparx; Bx; community claims.",
+      "source": "13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md"
+    },
+    {
+      "id": "FC-004",
+      "type": "false",
+      "claim": "'O9A/09A is the parent entity and 764 is its operational arm'",
+      "confidence": "X",
+      "basis": "The NZ statement lists 764 as an O9A nexion, but nexions are operationally independent; no parent/command relationship is established.",
+      "source": "02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    },
+    {
+      "id": "FC-006",
+      "type": "false",
+      "claim": "'UTTP is an operational arm of 764' / 'UTTP merged with 764'",
+      "confidence": "X",
+      "basis": "No command, merger, shared leadership, or tasking record located; both networks are decentralised.",
+      "source": "13_UTTP_764_OVERLAP/; 12_TRACKING/"
+    },
+    {
+      "id": "FC-007",
+      "type": "false",
+      "claim": "'764 infiltrated UTTP as an organisation'",
+      "confidence": "A/S",
+      "basis": "The infiltration described by Sparx is by 'bad actors' in 2019-2021 and is O9A-adjacent; 764 emerged in 2021.",
+      "source": "13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md"
+    },
+    {
+      "id": "FC-008",
+      "type": "false",
+      "claim": "'Profiles: 823'",
+      "confidence": "X",
+      "basis": "The raw file contains 823 rows, not 823 profiles; many are search, login, error, or duplicate pages.",
+      "source": "09_STYXNET_REPORTS/styxnet_UTTP_md_1789803293.md"
+    },
+    {
+      "id": "FC-011",
+      "type": "false",
+      "claim": "'22 validated handles/findings'",
+      "confidence": "X",
+      "basis": "The 22 are structural candidates, not ownership-confirmed accounts; 0 were ownership-verified in the 2026-11-19 pass.",
+      "source": "09_STYXNET_REPORTS/README.md; 09_STYXNET_REPORTS/WIC-INTEL-2026-0919-UTTP-02_Deep_Recon_Identity_Mapping.md"
+    },
+    {
+      "id": "FC-013",
+      "type": "false",
+      "claim": "'09A Cult is O9A's headquarters / the root of the hierarchy'",
+      "confidence": "X",
+      "basis": "'09A Cult' is a legacy archive label; no headquarters is established.",
+      "source": "05_PARENT_ENTITIES/09A Cult/; 02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    },
+    {
+      "id": "FC-014",
+      "type": "false",
+      "claim": "'764 is UTTP's parent ecosystem'",
+      "confidence": "X",
+      "basis": "764 is a designated, decentralised network; it is not a proven parent of UTTP.",
+      "source": "02_CORE_INVESTIGATION/Tactics/UTTP_AND_764_COMPLETE_TACTICAL_ANALYSIS_VOL1.md"
+    },
+    {
+      "id": "FC-016",
+      "type": "false",
+      "claim": "'764 operatives infiltrated UTTP high command' / 'merger mid-to-late 2025'",
+      "confidence": "A/S",
+      "basis": "WIC records describe alleged recruitment/overlap; no primary command, merger, or tasking record located.",
+      "source": "02_CORE_INVESTIGATION/Tactics/UTTP_AND_764_COMPLETE_TACTICAL_ANALYSIS_VOL1.md"
+    },
+    {
+      "id": "FC-019",
+      "type": "false",
+      "claim": "'1,750+ linked accounts'",
+      "confidence": "D/S",
+      "basis": "third-party/DTAD count is not independently verified; counting method and unique-account threshold are not published.",
+      "source": "02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/ThirdParty_Brief_DPOS_UTTP_History_20251013.md"
+    }
+  ],
+  "not_supported": [
+    "AFF is independently verified"
+  ],
+  "learning": {
+    "stage": "lead",
+    "risk_score": 0.2,
+    "next_likely": "unverified",
+    "basis": "community report"
+  },
+  "published": "2026-11-21T05:17:01Z"
+}

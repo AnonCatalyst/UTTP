@@ -1,0 +1,16 @@
+handle,platforms,occurrences,classification,confidence,reason
+kiloratstrzntputtp.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+michaelsuttptv.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+uttp-lieutenant2.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+uttpalette.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+uttparkrosie.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+uttpofficercoplord.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+uttpus.bsky.social,Bluesky,1,brand_token_cluster_tier2,A,Structured Bluesky cluster; structural only
+frickfunnymikeuttpthtdc,Mastodon,1,brand_token_tier1,A,Brand/faction token; structural only
+UTTP_OFFICAL,Mastodon,1,brand_token_tier1,A,Brand/faction token; structural only
+UTTPmastdept,Mastodon,1,brand_token_tier1,A,Brand/faction token; structural only
+kecuttpikding1970,Stack Overflow,1,brand_token_tier3,S,Single-source brand token; unverified
+uttpower,Deezer,1,brand_token_tier3,S,Single-source brand token; unverified
+uttpthdtc,GitHub,1,brand_token_tier3,S,Single-source brand token; unverified
+vecuttpadi1981,Stack Overflow,1,brand_token_tier3,S,Single-source brand token; unverified
+uttp,GitHub;Stack Overflow,2,target_handle_only,S,Exact target string; no ownership evidence

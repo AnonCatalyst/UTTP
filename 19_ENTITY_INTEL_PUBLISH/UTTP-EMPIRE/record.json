@@ -1,0 +1,250 @@
+{
+  "id": "UTTP-EMPIRE",
+  "name": "UTTP Empire / Nu-UTTP",
+  "type": "faction",
+  "status": "active lineage",
+  "confidence": "D",
+  "summary": "Later UTTP faction associated with more extreme content, CSAM/gore spam allegations, and NVE overlap. Tied to ‘Emperor of Anime Sucks’ / Hyper Bat Mapping in community records.",
+  "origin": "2023",
+  "current_state": "Lineage associated with extreme-content era and subsequent 2026 revival claims.",
+  "watch_priority": "high",
+  "related": [
+    "UTTP",
+    "CIRCUSFALL",
+    "DPOS",
+    "764"
+  ],
+  "tactics": [
+    "mass reporting",
+    "shock content",
+    "bot automation",
+    "fandom infiltration",
+    "platform migration"
+  ],
+  "areas": [
+    "Discord",
+    "X",
+    "YouTube",
+    "Telegram"
+  ],
+  "evolution": [
+    {
+      "date": "2023",
+      "event": "Nu-UTTP/UTTP Empire era; mass CSAM/gore spam and extremist recruitment alleged",
+      "confidence": "A/D"
+    },
+    {
+      "date": "2026",
+      "event": "Circusfall revival attributed to returning figures",
+      "confidence": "D"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S013",
+      "name": "Sparx Intelligence — UTTP: From Internet Trolling to Violent Extremism",
+      "date": "2026-07-15",
+      "type": "independent analysis",
+      "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
+      "use": "UTTP as NVE network; overlap with 764/NLM/MMC; grooming; fluid membership; joint Doxbin activity",
+      "confidence": "C"
+    },
+    {
+      "id": "S023",
+      "name": "Soyjak Wiki — UTTP",
+      "date": "2026-11-18",
+      "type": "community wiki",
+      "url": "https://soyjakwiki.org/UTTP",
+      "use": "Faction history, current-state, 2026 offshoots",
+      "confidence": "D"
+    }
+  ],
+  "claims": [
+    {
+      "id": "VC-010",
+      "type": "validated",
+      "claim": "No evidence was located that UTTP is an operational arm of 764 or merged with 764.",
+      "confidence": "X for the positive claim; negative finding",
+      "basis": "Web search; designations; Sparx; Bx; community claims.",
+      "source": "13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md"
+    },
+    {
+      "id": "VC-015",
+      "type": "validated",
+      "claim": "O9A is a decentralised, leaderless network of autonomous nexions.",
+      "confidence": "E/C",
+      "basis": "NZ statement of case; ISD; GNET.",
+      "source": "14_O9A_764_TRACE/O9A_FULL_PROFILE.md"
+    },
+    {
+      "id": "VC-016",
+      "type": "validated",
+      "claim": "DPOS is best described as a hardcore UTTP offshoot/splinter, not a separate unrelated group.",
+      "confidence": "C/D",
+      "basis": "WIC/third-party/community lineage; UTTP splinter context.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md"
+    },
+    {
+      "id": "VC-017",
+      "type": "validated",
+      "claim": "The archived DPOS server contains 53 channel snapshots and ~3,205 messages from February–June 2025, with Empire/Task Force/ISA HQ/log structures.",
+      "confidence": "E for structure",
+      "basis": "Direct observation of exported Discord JSON.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DPOS Chat Leaks JSON/"
+    },
+    {
+      "id": "VC-018",
+      "type": "validated",
+      "claim": "DPOS and 764 overlap in grooming/blackmail/self-harm/shock-content tactics; no command or merger is established.",
+      "confidence": "C/A; X for command/merger",
+      "basis": "WIC/third-party/community; UTTP/764 ecosystem analysis.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/ANALYSIS/DPOS_DEEP_DIVE_2026-11-19.md"
+    },
+    {
+      "id": "VC-020",
+      "type": "validated",
+      "claim": "DPOS is not a designated terrorist entity in the reviewed instruments.",
+      "confidence": "E/X",
+      "basis": "No DPOS designation located.",
+      "source": "14_O9A_764_TRACE/DESIGNATIONS_AND_LEGAL.md"
+    },
+    {
+      "id": "FC-002",
+      "type": "false",
+      "claim": "'UTTP is a designated terrorist entity'",
+      "confidence": "X",
+      "basis": "No designation instrument naming UTTP was located. 764 and O9A are designated.",
+      "source": "02_CORE_INVESTIGATION/Historical/; 11_RESEARCH_EXPANSION/; 14_O9A_764_TRACE/"
+    },
+    {
+      "id": "FC-004",
+      "type": "false",
+      "claim": "'O9A/09A is the parent entity and 764 is its operational arm'",
+      "confidence": "X",
+      "basis": "The NZ statement lists 764 as an O9A nexion, but nexions are operationally independent; no parent/command relationship is established.",
+      "source": "02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    },
+    {
+      "id": "FC-005",
+      "type": "false",
+      "claim": "'O9A commands 764' / '764 = O9A'",
+      "confidence": "X",
+      "basis": "O9A nexions are operationally independent; 764 is a distinct network.",
+      "source": "14_O9A_764_TRACE/; 02_CORE_INVESTIGATION/Historical/"
+    },
+    {
+      "id": "FC-006",
+      "type": "false",
+      "claim": "'UTTP is an operational arm of 764' / 'UTTP merged with 764'",
+      "confidence": "X",
+      "basis": "No command, merger, shared leadership, or tasking record located; both networks are decentralised.",
+      "source": "13_UTTP_764_OVERLAP/; 12_TRACKING/"
+    },
+    {
+      "id": "FC-007",
+      "type": "false",
+      "claim": "'764 infiltrated UTTP as an organisation'",
+      "confidence": "A/S",
+      "basis": "The infiltration described by Sparx is by 'bad actors' in 2019-2021 and is O9A-adjacent; 764 emerged in 2021.",
+      "source": "13_UTTP_764_OVERLAP/FINAL_ASSESSMENT_2026-11-19.md"
+    },
+    {
+      "id": "FC-008",
+      "type": "false",
+      "claim": "'Profiles: 823'",
+      "confidence": "X",
+      "basis": "The raw file contains 823 rows, not 823 profiles; many are search, login, error, or duplicate pages.",
+      "source": "09_STYXNET_REPORTS/styxnet_UTTP_md_1789803293.md"
+    },
+    {
+      "id": "FC-011",
+      "type": "false",
+      "claim": "'22 validated handles/findings'",
+      "confidence": "X",
+      "basis": "The 22 are structural candidates, not ownership-confirmed accounts; 0 were ownership-verified in the 2026-11-19 pass.",
+      "source": "09_STYXNET_REPORTS/README.md; 09_STYXNET_REPORTS/WIC-INTEL-2026-0919-UTTP-02_Deep_Recon_Identity_Mapping.md"
+    },
+    {
+      "id": "FC-013",
+      "type": "false",
+      "claim": "'09A Cult is O9A's headquarters / the root of the hierarchy'",
+      "confidence": "X",
+      "basis": "'09A Cult' is a legacy archive label; no headquarters is established.",
+      "source": "05_PARENT_ENTITIES/09A Cult/; 02_CORE_INVESTIGATION/Historical/UTubeTrollingPolice/WIC-DOSSIER-2026-0919-UTTP-05_764_O9A_Hierarchy_Analysis.md"
+    },
+    {
+      "id": "FC-014",
+      "type": "false",
+      "claim": "'764 is UTTP's parent ecosystem'",
+      "confidence": "X",
+      "basis": "764 is a designated, decentralised network; it is not a proven parent of UTTP.",
+      "source": "02_CORE_INVESTIGATION/Tactics/UTTP_AND_764_COMPLETE_TACTICAL_ANALYSIS_VOL1.md"
+    },
+    {
+      "id": "FC-016",
+      "type": "false",
+      "claim": "'764 operatives infiltrated UTTP high command' / 'merger mid-to-late 2025'",
+      "confidence": "A/S",
+      "basis": "WIC records describe alleged recruitment/overlap; no primary command, merger, or tasking record located.",
+      "source": "02_CORE_INVESTIGATION/Tactics/UTTP_AND_764_COMPLETE_TACTICAL_ANALYSIS_VOL1.md"
+    },
+    {
+      "id": "FC-017",
+      "type": "false",
+      "claim": "'DPOS is a 764-derived network — 100% confirmed'",
+      "confidence": "X/A",
+      "basis": "Tactical/ideological overlap is supported; derivation/command is not. WIC language overstates the evidence.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-018",
+      "type": "false",
+      "claim": "'DPOS is a documented federal target'",
+      "confidence": "S/X",
+      "basis": "No primary federal case, indictment, or designation naming DPOS was located.",
+      "source": "02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/ThirdParty_Brief_DPOS_FullHistory_20251111.md"
+    },
+    {
+      "id": "FC-019",
+      "type": "false",
+      "claim": "'1,750+ linked accounts'",
+      "confidence": "D/S",
+      "basis": "third-party/DTAD count is not independently verified; counting method and unique-account threshold are not published.",
+      "source": "02_CORE_INVESTIGATION/Historical/Degeneracy Police Order State/ThirdParty_Brief_DPOS_UTTP_History_20251013.md"
+    },
+    {
+      "id": "FC-020",
+      "type": "false",
+      "claim": "'The DPOS lead is 90% likely a 764 member/affiliate'",
+      "confidence": "A/S",
+      "basis": "Behavioural/tactical overlap is not membership proof; the 90% figure has no published method.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-021",
+      "type": "false",
+      "claim": "'UNIPOL Level 3 designation'",
+      "confidence": "S/X",
+      "basis": "No UNIPOL/agency instrument was located.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/DPOS - EV 2025/DOCS 2025/wic.intel.brief_entity-tomasthygreatest_Likelihood-of-764-Involvement-and-affiliation.1.8.2026.txt.txt"
+    },
+    {
+      "id": "FC-022",
+      "type": "false",
+      "claim": "'DPOS is UTTP' / 'DPOS is a 764 unit'",
+      "confidence": "X",
+      "basis": "DPOS is an offshoot/overlap node, not identical to UTTP or 764.",
+      "source": "04_OFFSHOOTS/DPOS - Degeneracy Police Order State/"
+    }
+  ],
+  "not_supported": [
+    "UTTP Empire is a formal organisation with verified command"
+  ],
+  "learning": {
+    "stage": "extreme faction lineage",
+    "risk_score": 0.74,
+    "next_likely": "faction splintering under platform pressure",
+    "basis": "extreme-content era, faction splits, community reports"
+  },
+  "published": "2026-11-21T05:17:01Z"
+}

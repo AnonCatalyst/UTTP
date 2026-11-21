@@ -1,0 +1,40 @@
+{
+  "internal_links_checked": 114,
+  "broken_internal_links": [],
+  "json_files_checked": 129,
+  "bad_json_files": [],
+  "non_strict_json_exports": [
+    {
+      "file": "03_AFFILIATIONS/TM-TNM - The Militia/2025 Investigation/DOCS/Fanto-Fantology_artifact_1413616391952793771.json",
+      "error": "Expecting property name enclosed in double quotes: line 38 column 3 (char 1055)"
+    },
+    {
+      "file": "02_CORE_INVESTIGATION/Members_List/WIC_OSINT_UTTP_CG_Burner_Profile_2026-11-13.json",
+      "error": "Expecting property name enclosed in double quotes: line 94 column 5 (char 3694)"
+    }
+  ],
+  "csv_files_checked": 17,
+  "bad_csv_files": [],
+  "manifest_rows_checked": 639,
+  "bad_manifest_rows": [
+    {
+      "path": "00_READ_FIRST/ARCHIVE_MAP.md",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "00_READ_FIRST/CHANGELOG.md",
+      "reason": "size_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/discovery_state.json",
+      "reason": "hash_mismatch"
+    },
+    {
+      "path": "18_ENTITY_MONITORING/rebrands.json",
+      "reason": "hash_mismatch"
+    }
+  ],
+  "manifest_hash_ok": true,
+  "candidate_handles": 15,
+  "ownership_verified": 15
+}
