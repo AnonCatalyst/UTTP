@@ -6,6 +6,7 @@ steps = [
  [sys.executable, str(BASE / 'discover.py')],
  [sys.executable, str(BASE / 'strict_validate.py')],
  [sys.executable, str(BASE / 'monitor.py')],
+ [sys.executable, str(BASE / 'styxnet_osint.py')],
  [sys.executable, str(BASE / 'build_entity_intelligence.py')],
  [sys.executable, str(BASE / 'update_manifest.py')],
 ]

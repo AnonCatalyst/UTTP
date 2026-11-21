@@ -201,6 +201,7 @@ Single-folder entity intelligence, validation, and overtime monitoring layer:
 - `discover.py` — incremental source/rebrand/migration discovery.
 - `strict_validate.py` — manifest/JSON/CSV and StyxNet strict validation.
 - `monitor.py` — lightweight StyxNet/source watch feed.
+- `styxnet_osint.py` — passive StyxNet username-hunt poller and OSINT findings.
 - `fill_tel.py` / `sync_tel_intake.py` — TEL register sync and intake leads.
 - `cold_storage.py` — hashed compressed snapshots.
 - `run_pipeline.py` / `run_pipeline.sh` — automated pipeline.

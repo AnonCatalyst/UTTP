@@ -429,6 +429,8 @@ discovered_sources = json.loads((discovery_dir / 'discovered_sources.json').read
 rebrands = json.loads((discovery_dir / 'rebrands.json').read_text(encoding='utf-8')) if (discovery_dir / 'rebrands.json').exists() else []
 migration_events = json.loads((discovery_dir / 'migration_events.json').read_text(encoding='utf-8')) if (discovery_dir / 'migration_events.json').exists() else []
 styxnet_profiles = json.loads((discovery_dir / 'styxnet_profiles.json').read_text(encoding='utf-8')) if (discovery_dir / 'styxnet_profiles.json').exists() else []
+osint_findings = json.loads((BASE / 'styxnet_osint.json').read_text(encoding='utf-8')) if (BASE / 'styxnet_osint.json').exists() else []
+osint_state = json.loads((BASE / 'styxnet_osint_state.json').read_text(encoding='utf-8')) if (BASE / 'styxnet_osint_state.json').exists() else {}
 discovery_state = json.loads((discovery_dir / 'discovery_state.json').read_text(encoding='utf-8')) if (discovery_dir / 'discovery_state.json').exists() else {}
 
 def norm_url(value):
@@ -477,6 +479,11 @@ monitor = {
   "rebrand_count": len(rebrands),
   "migration_event_count": len(migration_events),
   "styxnet_profile_count": len(styxnet_profiles),
+  "osint_finding_count": len(osint_findings),
+  "osint_exact_count": sum(1 for x in osint_findings if x.get('search_type') == 'exact' or x.get('similar_username') == x.get('username')),
+  "osint_high_confidence_count": sum(1 for x in osint_findings if int(x.get('confidence') or 0) >= 70),
+  "osint_new_7d": sum(1 for x in osint_findings if (x.get('first_seen') or '') >= (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%dT%H:%M:%SZ')),
+  "last_osint": osint_state.get('last_hunt'),
   "new_sources_7d": sum(1 for s in discovered_sources if (s.get('first_seen') or '') >= (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%dT%H:%M:%SZ')),
   "new_styxnet_profiles_7d": sum(1 for s in styxnet_profiles if (s.get('first_seen') or '') >= (datetime.now(timezone.utc) - timedelta(days=7)).strftime('%Y-%m-%dT%H:%M:%SZ')),
   "last_discovery": discovery_state.get('last_run'),
@@ -526,6 +533,7 @@ data = {
  "rebrands": rebrands,
  "migration_events": migration_events,
  "styxnet_profiles": styxnet_profiles,
+ "osint_findings": osint_findings,
  "strict_validation": strict_validation,
  "monitor_feed": monitor_feed,
  "tel_intake": tel_intake,

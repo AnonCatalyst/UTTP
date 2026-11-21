@@ -1,16 +1,16 @@
 {
-  "updated": "2026-11-21T04:25:08.887466Z",
-  "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T042508Z.json.gz",
-  "snapshot_bytes": 3217,
+  "updated": "2026-11-21T04:37:34.647964Z",
+  "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T043734Z.json.gz",
+  "snapshot_bytes": 3264,
   "snapshots": 24,
-  "total_bytes": 77285,
+  "total_bytes": 77375,
   "github": "disabled",
   "tel_records": 34,
-  "raw_snapshot_bytes": 11589,
-  "bytes_saved": 8372,
+  "raw_snapshot_bytes": 11706,
+  "bytes_saved": 8442,
   "db": {
     "checked": true,
-    "page_count": 83,
+    "page_count": 85,
     "freelist_before": 0,
     "full_vacuum": false,
     "freelist_after": 0

@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "WinterGateIC Entity Intelligence",
-    "updated": "2026-11-21 04:25 UTC",
+    "updated": "2026-11-21 04:37 UTC",
     "scope": "Group-level entity monitoring. No usernames, account IDs, invite links, victim data, or private identifiers.",
     "entity_count": 31,
     "area_rows": 200,
@@ -5291,145 +5291,145 @@
       "name": "UTTP / UTube Troll Police",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "UTTP Empire / Nu-UTTP",
       "entity_id": "UTTP-EMPIRE",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Circusfall faction",
       "entity_id": "CIRCUSFALL",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "OfficerSlappy faction / UTTP Forum",
       "entity_id": "OFFICERSLAPPY",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "DPOS / Degeneracy Police Order State",
       "entity_id": "DPOS",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "TYRANNY / RUTTP",
       "entity_id": "UTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Anti-Fandom Resistance (AFR)",
       "entity_id": "AFR",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Bn0r Empire",
       "entity_id": "BN0R",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Reddit Defence Force (RDF)",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "RDFPARTY",
       "entity_id": "RDF",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "KKTK / KuKluxTrollKlan",
       "entity_id": "KKTK",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "YFGA",
       "entity_id": "YFGA",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "VGCP / VideoGameCartoonPolice",
       "entity_id": "VGCP",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "AFF / Anti Fandom Front",
       "entity_id": "AFF",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "AUTTP / Anti-UTTP",
       "entity_id": "AUTTP",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "764",
       "entity_id": "764",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Harm Nation",
       "entity_id": "HARMNATION",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "O9A / ONA",
       "entity_id": "O9A",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Spawnism",
       "entity_id": "SPAWNISM",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "FPE-Police",
       "entity_id": "FPE-POLICE",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "FPE ecosystem",
       "entity_id": "FPE",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "TNM / The Militia",
       "entity_id": "TNM",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "148 / 1488",
       "entity_id": "148",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     },
     {
       "name": "Imperium of the Enclave / GRS",
       "entity_id": "ENCLAVE",
       "basis": "name_token",
-      "first_seen": "2026-11-21T04:24:57Z"
+      "first_seen": "2026-11-21T04:37:22Z"
     }
   ],
   "migration_events": [],
@@ -10804,6 +10804,4523 @@
       "last_seen": "2026-11-20T00:57:42Z"
     }
   ],
+  "osint_findings": [
+    {
+      "id": "OS0001",
+      "username": "uttp",
+      "platform": "SoundCloud",
+      "url": "https://soundcloud.com/uttp",
+      "title": "Stream uttp music | Listen to songs, albums, playlists for free on SoundCloud",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0002",
+      "username": "uttp",
+      "platform": "Tumblr",
+      "url": "https://www.tumblr.com/blog/uttp",
+      "title": "@uttp on Tumblr",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0003",
+      "username": "uttp",
+      "platform": "GETTR",
+      "url": "https://gettr.com/user/uttp",
+      "title": "uttp on GETTR - Profile and Posts",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0004",
+      "username": "uttp",
+      "platform": "GitHub Gist",
+      "url": "https://gist.github.com/uttp",
+      "title": "uttp’s gists · GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0005",
+      "username": "uttp",
+      "platform": "Chess.com",
+      "url": "https://www.chess.com/member/uttp",
+      "title": "uttp - Chess Profile - Chess.com",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0006",
+      "username": "uttp",
+      "platform": "Kick",
+      "url": "https://kick.com/uttp",
+      "title": "uttp Live Stream - Watch Live on KICK",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0007",
+      "username": "uttp",
+      "platform": "Giphy",
+      "url": "https://giphy.com/uttp",
+      "title": "Uttp GIFs - Find &amp; Share on GIPHY",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0008",
+      "username": "uttp",
+      "platform": "Streamlabs Design",
+      "url": "https://streamlabs.com/uttp",
+      "title": "uttp / Streamlabs",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0009",
+      "username": "uttp",
+      "platform": "Disqus",
+      "url": "https://disqus.com/uttp",
+      "title": "Disqus Profile - uttp",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0010",
+      "username": "uttp",
+      "platform": "Niftygateway",
+      "url": "https://niftygateway.com/profile/uttp",
+      "title": "uttp does not exits on Nifty Gateway",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0011",
+      "username": "uttp",
+      "platform": "Pokemon Showdown",
+      "url": "https://pokemonshowdown.com/users/uttp",
+      "title": "UTTP - Users - Pok&eacute;mon Showdown",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0012",
+      "username": "uttp",
+      "platform": "Dumpor",
+      "url": "https://dumpor.com/v/uttp",
+      "title": "uttp  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0013",
+      "username": "uttp",
+      "platform": "Minecraft-statistic",
+      "url": "https://minecraft-statistic.net/ru/player/uttp.html",
+      "title": "uttp — профиль игрока Minecraft, статистика и скин",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0014",
+      "username": "uttp",
+      "platform": "Tenor.com",
+      "url": "https://tenor.com/users/uttp",
+      "title": "uttp&#039;s GIFs on Tenor",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0015",
+      "username": "uttp",
+      "platform": "Dota2",
+      "url": "https://dota2.ru/forum/search?type=user&keywords=uttp&sort_by=username",
+      "title": "Результаты поиска по запросу \"uttp\"",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0016",
+      "username": "uttp",
+      "platform": "Libraries",
+      "url": "https://libraries.io/github/uttp/",
+      "title": "uttp (uttp) · GitHub",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0017",
+      "username": "uttp",
+      "platform": "Pornhub",
+      "url": "https://pornhub.com/users/uttp",
+      "title": "uttp&#039;s Profile - Pornhub.com",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0018",
+      "username": "uttp",
+      "platform": "Rentry",
+      "url": "https://rentry.co/uttp",
+      "title": "What is UTTP?",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0019",
+      "username": "uttp",
+      "platform": "Ethereum Name Service",
+      "url": "https://app.ens.domains/uttp.eth",
+      "title": "uttp.eth - ENS Profile",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0020",
+      "username": "uttp",
+      "platform": "Cash App Bitcoin",
+      "url": "https://cash.app/uttp",
+      "title": "Pay $uttp on Cash App",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0021",
+      "username": "uttp",
+      "platform": "Rainbow Wallet",
+      "url": "https://rainbow.me/uttp",
+      "title": "uttp | Rainbow",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0022",
+      "username": "uttp",
+      "platform": "LiveInternet",
+      "url": "https://www.liveinternet.ru/users/uttp/profile",
+      "title": "uttp -    LiveInternet.ru",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0023",
+      "username": "uttp",
+      "platform": "amp.flipboard.com",
+      "url": "https://amp.flipboard.com/@uttp",
+      "title": "Farouk (@uttp) on Flipboard",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0024",
+      "username": "uttp",
+      "platform": "Xvideos",
+      "url": "https://xvideos.com/profiles/uttp",
+      "title": "Uttp - Profile page - XVIDEOS.COM",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0025",
+      "username": "uttp",
+      "platform": "xHamster",
+      "url": "https://xhamster.com/users/uttp",
+      "title": "Uttp&#039;s porn videos and reels, nude photos and bio on xHamster",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0026",
+      "username": "uttp",
+      "platform": "CashMe",
+      "url": "https://cash.me/$uttp",
+      "title": "Pay $uttp on Cash App",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0027",
+      "username": "uttp",
+      "platform": "Eporner",
+      "url": "https://www.eporner.com/profile/uttp/",
+      "title": "uttp&#039;s profile - EPORNER: HD Porn Tube",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0028",
+      "username": "uttp",
+      "platform": "XvideosModels",
+      "url": "https://www.xvideos.com/models/uttp",
+      "title": "Uttp - Profile page - XVIDEOS.COM",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0029",
+      "username": "uttp",
+      "platform": "3ddd",
+      "url": "https://3ddd.ru/users/uttp",
+      "title": "uttp - 3D модели и галерея работ на 3ddd.ru",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0030",
+      "username": "uttp",
+      "platform": "SmiHub",
+      "url": "https://smihub.com/v/uttp",
+      "title": "uttp  Watch instagram stories and profile anonymous",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0031",
+      "username": "uttp",
+      "platform": "stripchat.global",
+      "url": "https://stripchat.global/uttp",
+      "title": "Uttp: Profile | Stripchat Global",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0032",
+      "username": "uttp",
+      "platform": "Plurk",
+      "url": "https://www.plurk.com/uttp",
+      "title": "uttp - Plurk",
+      "status": 200,
+      "confidence": 95,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0033",
+      "username": "uttp",
+      "platform": "Replit",
+      "url": "https://replit.com/@uttp",
+      "title": "Sign Up - Replit",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0034",
+      "username": "uttp",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0035",
+      "username": "uttp",
+      "platform": "Nextdoor",
+      "url": "https://nextdoor.com/profile/uttp",
+      "title": "Login - Nextdoor",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0036",
+      "username": "uttp",
+      "platform": "Weibo",
+      "url": "https://weibo.com/uttp",
+      "title": "Sina Visitor System",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0037",
+      "username": "uttp",
+      "platform": "Naver Blog",
+      "url": "https://blog.naver.com/uttp",
+      "title": "uttp님의 블로그 : 네이버 블로그",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0038",
+      "username": "uttp",
+      "platform": "Dice",
+      "url": "https://www.dice.com/profile/uttp",
+      "title": "Login to Your Dice Account or Register Today for an Account | Dice.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0039",
+      "username": "uttp",
+      "platform": "Xbox",
+      "url": "https://www.xbox.com/en-US/play/user/uttp",
+      "title": "View uttp&#x27;s profile | Xbox Cloud Gaming on  Xbox.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0040",
+      "username": "uttp",
+      "platform": "Hypixel",
+      "url": "https://hypixel.net/player/uttp",
+      "title": "uttp | Hypixel Forums",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0041",
+      "username": "uttp",
+      "platform": "Bandcamp",
+      "url": "https://uttp.bandcamp.com",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0042",
+      "username": "uttp",
+      "platform": "YouTube Music",
+      "url": "https://music.youtube.com/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0043",
+      "username": "uttp",
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/user/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0044",
+      "username": "uttp",
+      "platform": "Twitch VODs",
+      "url": "https://www.twitch.tv/uttp/videos?all=true",
+      "title": "Uttp Videos - Twitch",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0045",
+      "username": "uttp",
+      "platform": "Bandcamp Labels",
+      "url": "https://uttp.bandcamp.com/",
+      "title": "Signup | Bandcamp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0046",
+      "username": "uttp",
+      "platform": "ngl.link",
+      "url": "https://ngl.link/uttp",
+      "title": "@uttp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0047",
+      "username": "uttp",
+      "platform": "Coders Rank",
+      "url": "https://profile.codersrank.io/user/uttp/",
+      "title": "uttp&#x27;s CodersRank profile",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0048",
+      "username": "uttp",
+      "platform": "Carrd.co",
+      "url": "https://uttp.carrd.co",
+      "title": "UTTP Official Website",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0049",
+      "username": "uttp",
+      "platform": "Radiomed",
+      "url": "https://radiomed.ru/users/uttp",
+      "title": "Поиск | Портал радиологов",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0050",
+      "username": "uttp",
+      "platform": "Lolchess",
+      "url": "https://lolchess.gg/profile/na/uttp",
+      "title": "TFT Stats, Leaderboards, League of Legends Teamfight Tactics - LoLCHESS.GG",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0051",
+      "username": "uttp",
+      "platform": "Mactalk",
+      "url": "http://www.mactalk.com.au/member.php?username=uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0052",
+      "username": "uttp",
+      "platform": "Repl.it",
+      "url": "https://repl.it/@uttp",
+      "title": "Sign Up - Replit",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0053",
+      "username": "uttp",
+      "platform": "WhatsApp",
+      "url": "https://wa.me/uttp",
+      "title": "Share on WhatsApp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0054",
+      "username": "uttp",
+      "platform": "CashApp",
+      "url": "https://cash.app/$uttp",
+      "title": "Pay $uttp on Cash App",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0055",
+      "username": "uttp",
+      "platform": "Audible",
+      "url": "https://www.audible.com/member/uttp",
+      "title": "Audible | Luister audioboeken, hoorspelen & podcasts",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0056",
+      "username": "uttp",
+      "platform": "Linkpop",
+      "url": "https://linkpop.com/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0057",
+      "username": "uttp",
+      "platform": "Google Flights",
+      "url": "https://www.google.com/travel/flights/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0058",
+      "username": "uttp",
+      "platform": "Anchor",
+      "url": "https://anchor.fm/uttp",
+      "title": "Under the table : Sydcarmy Podcast \n • A podcast on Spotify for Creators",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0059",
+      "username": "uttp",
+      "platform": "Pastebin",
+      "url": "https://pastebin.com/u/uttp",
+      "title": "UTTP&#039;s Pastebin - Pastebin.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0060",
+      "username": "uttp",
+      "platform": "BuiltWith",
+      "url": "https://builtwith.com/uttp",
+      "title": "Search results for uttp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0061",
+      "username": "uttp",
+      "platform": "Stacker News",
+      "url": "https://stacker.news/user/uttp",
+      "title": "user/uttp \\ stacker news",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0062",
+      "username": "uttp",
+      "platform": "ZwiftPower",
+      "url": "https://zwiftpower.com/profile.php? rider_id=uttp",
+      "title": "ZwiftPower -&nbsp;Login",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0063",
+      "username": "uttp",
+      "platform": "Arduino Project Hub",
+      "url": "https://create.arduino.cc/projecthub/uttp",
+      "title": "Arduino Project Hub",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0064",
+      "username": "uttp",
+      "platform": "Google Cache",
+      "url": "https://webcache.googleusercontent.com/search?q=cache:uttp",
+      "title": "cache:uttp - Google Suche",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0065",
+      "username": "uttp",
+      "platform": "Ccm",
+      "url": "https://ccm.net/profile/user/uttp",
+      "title": "uttp's profile - CCM",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0066",
+      "username": "uttp",
+      "platform": "AreKamrbb",
+      "url": "https://are.kamrbb.ru/?x=find&f=uttp#top",
+      "title": "SMILE PROJECT",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0067",
+      "username": "uttp",
+      "platform": "Hyundaitruckclub",
+      "url": "https://hyundaitruckclub.kamrbb.ru/?x=find&f=uttp&type=topics&nick=on#top",
+      "title": "HyundaiTruckClub",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0068",
+      "username": "uttp",
+      "platform": "Thelion",
+      "url": "http://www.thelion.com/bin/profile.cgi?c=s&ru_name=uttp",
+      "title": "TheLion.com - User",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0069",
+      "username": "uttp",
+      "platform": "Rusarmy",
+      "url": "http://www.rusarmy.com/forum/members/?username=uttp",
+      "title": "Полезные пользователи | Форумы RusArmy.com",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0070",
+      "username": "uttp",
+      "platform": "Prokoni",
+      "url": "https://www.prokoni.ru/forum/members/?username=uttp",
+      "title": "Полезные пользователи | Prokoni.ru",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0071",
+      "username": "uttp",
+      "platform": "LiveTrack24",
+      "url": "https://www.livetrack24.com/user/uttp",
+      "title": "LiveTrack24 | User - uttp",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0072",
+      "username": "uttp",
+      "platform": "Megane2",
+      "url": "http://megane2.ru/forum/members/?username=uttp",
+      "title": "Выдающиеся пользователи | Форум владельцев Renault Megane",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0073",
+      "username": "uttp",
+      "platform": "Fragment",
+      "url": "https://fragment.com/username/uttp",
+      "title": "uttp – Fragment",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0074",
+      "username": "uttp",
+      "platform": "Railfan",
+      "url": "http://forums.railfan.net/forums.cgi?action=viewprofile;username=uttp",
+      "title": "Human Verification - Forums.Railfan.net",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0075",
+      "username": "uttp",
+      "platform": "RomanticCollection",
+      "url": "https://www.romanticcollection.ru/forum/search.php?keywords=&terms=all&author=uttp",
+      "title": "Форумы о любви — Информация",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0076",
+      "username": "uttp",
+      "platform": "playtime",
+      "url": "https://forum.playtime-forum.info/members/?username=uttp",
+      "title": "Namhafte Mitglieder | Playtime Forum",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0077",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttp",
+      "title": "uttp on GitHub",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "similarity",
+      "similar_username": "uttp",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0078",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/3081229/uttp",
+      "title": "uttp on Stack Overflow",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "similarity",
+      "similar_username": "uttp",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0079",
+      "username": "uttp",
+      "platform": "npm",
+      "url": "https://github.com/sachinraja/uttp.git",
+      "title": "uttp on npm",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "similarity",
+      "similar_username": "uttp",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0080",
+      "username": "uttp",
+      "platform": "Amazon Music Artist",
+      "url": "https://music.amazon.com/artist/uttp",
+      "title": "Amazon Music",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0081",
+      "username": "uttp",
+      "platform": "Tweakers",
+      "url": "https://tweakers.net/gallery/uttp",
+      "title": "DPG Media Privacy Gate",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0082",
+      "username": "uttp",
+      "platform": "Plug.DJ",
+      "url": "https://plug.dj/@/uttp",
+      "title": "Sign in ・ Cloudflare Access",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0083",
+      "username": "uttp",
+      "platform": "MapMyRun",
+      "url": "https://www.mapmyrun.com/athlete/uttp",
+      "title": "MapMyRun",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0084",
+      "username": "uttp",
+      "platform": "MapMyWalk",
+      "url": "https://www.mapmywalk.com/athlete/uttp",
+      "title": "MapMyWalk",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0085",
+      "username": "uttp",
+      "platform": "MapMyRide",
+      "url": "https://www.mapmyride.com/athlete/uttp",
+      "title": "MapMyRide",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0086",
+      "username": "uttp",
+      "platform": "OpenAIRE",
+      "url": "https://explore.openaire.eu/search/find?keyword=uttp",
+      "title": "One more step to access OpenAIRE",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0087",
+      "username": "uttp",
+      "platform": "Radioscanner",
+      "url": "http://www.radioscanner.ru/forum/index.php?posterName=uttp&action=search&searchGo=1",
+      "title": "-",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0088",
+      "username": "uttp",
+      "platform": "Astro-talks",
+      "url": "http://www.astro-talks.ru/forum/search.php?keywords=&terms=all&author=uttp",
+      "title": "astro-talks - Информация",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0089",
+      "username": "uttp",
+      "platform": "Chamsko.pl",
+      "url": "https://www.chamsko.pl/profil/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0090",
+      "username": "uttp",
+      "platform": "trepup.com",
+      "url": "https://trepup.com/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0091",
+      "username": "uttp",
+      "platform": "Fatsecret",
+      "url": "https://www.fatsecret.com/member/uttp",
+      "title": "Sign In",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0092",
+      "username": "uttp",
+      "platform": "Animebase",
+      "url": "https://animebase.me/members/uttp/",
+      "title": "Log in | Anime Forum",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0093",
+      "username": "uttp",
+      "platform": "RussianFI",
+      "url": "http://www.russian.fi/members/uttp.html",
+      "title": "Главная — Russian.fi",
+      "status": 200,
+      "confidence": 70,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0094",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpal",
+      "title": "uttpal on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpal",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0095",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/UttpalSingh",
+      "title": "UttpalSingh on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "UttpalSingh",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0096",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttpalmishra",
+      "title": "Uttpalmishra on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttpalmishra",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0097",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttpal-Tripathy",
+      "title": "Uttpal-Tripathy on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttpal-Tripathy",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0098",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpalKachhawa",
+      "title": "uttpalKachhawa on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpalKachhawa",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0099",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/UttpatiSahu",
+      "title": "UttpatiSahu on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "UttpatiSahu",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0100",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/UTTPALKANT",
+      "title": "UTTPALKANT on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "UTTPALKANT",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0101",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpthdtc",
+      "title": "uttpthdtc on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpthdtc",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0102",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpesh-vyas",
+      "title": "uttpesh-vyas on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpesh-vyas",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0103",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttpol11",
+      "title": "Uttpol11 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttpol11",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0104",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpal1",
+      "title": "uttpal1 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpal1",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0105",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttp3",
+      "title": "uttp3 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttp3",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0106",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpaul",
+      "title": "uttpaul on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpaul",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0107",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpal95",
+      "title": "uttpal95 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpal95",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0108",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttpal47",
+      "title": "Uttpal47 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttpal47",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0109",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttpal-076",
+      "title": "uttpal-076 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpal-076",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0110",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttpal-Kumar",
+      "title": "Uttpal-Kumar on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttpal-Kumar",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0111",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/uttp333",
+      "title": "uttp333 on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttp333",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0112",
+      "username": "uttp",
+      "platform": "GitHub",
+      "url": "https://github.com/Uttprerak",
+      "title": "Uttprerak on GitHub",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Uttprerak",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0113",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/uttparkrosie.bsky.social",
+      "title": "uttparkrosie.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttparkrosie.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0114",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/michaelsuttptv.bsky.social",
+      "title": "michaelsuttptv.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "michaelsuttptv.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0115",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/uttpalette.bsky.social",
+      "title": "uttpalette.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpalette.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0116",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/kiloratstrzntputtp.bsky.social",
+      "title": "kiloratstrzntputtp.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "kiloratstrzntputtp.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0117",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/uttplawo.bsky.social",
+      "title": "uttplawo.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttplawo.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0118",
+      "username": "uttp",
+      "platform": "Bluesky",
+      "url": "https://bluesky.com/uttpofficercoplord.bsky.social",
+      "title": "uttpofficercoplord.bsky.social on Bluesky",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpofficercoplord.bsky.social",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0119",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/101005/puttputt",
+      "title": "puttputt on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "puttputt",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0120",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/8529255/buttpee",
+      "title": "buttpee on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "buttpee",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0121",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/10995478/pnuttpad",
+      "title": "pnuttpad on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "pnuttpad",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0122",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/12456576/freebuttplugs",
+      "title": "FreeButtPlugs on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "FreeButtPlugs",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0123",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/9342247/uttpal",
+      "title": "uttpal on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpal",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0124",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/9818749/kecuttpikding1970",
+      "title": "kecuttpikding1970 on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "kecuttpikding1970",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0125",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/9981911/vecuttpadi1981",
+      "title": "vecuttpadi1981 on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "vecuttpadi1981",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0126",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/13116089/smuttprogramming",
+      "title": "smuttprogramming on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "smuttprogramming",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0127",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/13675809/puttputt",
+      "title": "puttputt on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "puttputt",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0128",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/15335106/mrbuttpk",
+      "title": "Mrbuttpk on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Mrbuttpk",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0129",
+      "username": "uttp",
+      "platform": "Stack Overflow",
+      "url": "https://stackoverflow.com/users/16481314/ahmadbuttpunjab",
+      "title": "Ahmadbuttpunjab on Stack Overflow",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Ahmadbuttpunjab",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0130",
+      "username": "uttp",
+      "platform": "Mastodon",
+      "url": "https://mastodon.social/@UTTP_OFFICAL",
+      "title": "UTTP_OFFICAL on Mastodon",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "UTTP_OFFICAL",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0131",
+      "username": "uttp",
+      "platform": "Mastodon",
+      "url": "https://mastodon.social/@frickfunnymikeuttpthtdc",
+      "title": "frickfunnymikeuttpthtdc on Mastodon",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "frickfunnymikeuttpthtdc",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0132",
+      "username": "uttp",
+      "platform": "Mastodon",
+      "url": "https://mastodon.social/@UTTPmastdept",
+      "title": "UTTPmastdept on Mastodon",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "UTTPmastdept",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0133",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://sh.itjust.works/u/TacoButtPlug",
+      "title": "TacoButtPlug on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "TacoButtPlug",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0134",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemmy.world/u/Waluigis_Talking_Buttplug",
+      "title": "Waluigis_Talking_Buttplug on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Waluigis_Talking_Buttplug",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0135",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemmy.zip/u/SEND_BUTTPLUG_PICS",
+      "title": "SEND_BUTTPLUG_PICS on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "SEND_BUTTPLUG_PICS",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0136",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://beehaw.org/u/puttputt",
+      "title": "puttputt on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "puttputt",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0137",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemmy.world/u/buttPickle",
+      "title": "buttPickle on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "buttPickle",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0138",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemmy.world/u/SEND_BUTTPLUG_PICS",
+      "title": "SEND_BUTTPLUG_PICS on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "SEND_BUTTPLUG_PICS",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0139",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemmy.world/u/improvisedbuttplug",
+      "title": "improvisedbuttplug on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "improvisedbuttplug",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0140",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://sopuli.xyz/u/SpicedUpButtplug",
+      "title": "SpicedUpButtplug on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "SpicedUpButtplug",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0141",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://kbin.social/u/TacoButtPlug",
+      "title": "TacoButtPlug on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "TacoButtPlug",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0142",
+      "username": "uttp",
+      "platform": "Lemmy.ml",
+      "url": "https://lemm.ee/u/buttpooper",
+      "title": "buttpooper on Lemmy.ml",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "buttpooper",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0143",
+      "username": "uttp",
+      "platform": "Lemmy.World",
+      "url": "https://lemmynsfw.com/u/SEND_BUTTPLUG_PICS",
+      "title": "SEND_BUTTPLUG_PICS on Lemmy.World",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "SEND_BUTTPLUG_PICS",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0144",
+      "username": "uttp",
+      "platform": "Beehaw",
+      "url": "https://mastodon.social/users/buttpuddle",
+      "title": "buttpuddle on Beehaw",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "buttpuddle",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0145",
+      "username": "uttp",
+      "platform": "Beehaw",
+      "url": "https://lemmynsfw.com/u/SendMeYourButtPics",
+      "title": "SendMeYourButtPics on Beehaw",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "SendMeYourButtPics",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0146",
+      "username": "uttp",
+      "platform": "Beehaw",
+      "url": "https://lemmynsfw.com/u/pm_me_wearing_buttplugs",
+      "title": "pm_me_wearing_buttplugs on Beehaw",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "pm_me_wearing_buttplugs",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0147",
+      "username": "uttp",
+      "platform": "Beehaw",
+      "url": "https://kbin.social/u/Buttplugpeddler",
+      "title": "Buttplugpeddler on Beehaw",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "Buttplugpeddler",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0148",
+      "username": "uttp",
+      "platform": "Deezer",
+      "url": "https://deezer.com/uttpower",
+      "title": "uttpower on Deezer",
+      "status": 200,
+      "confidence": 56,
+      "search_type": "similarity",
+      "similar_username": "uttpower",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0149",
+      "username": "uttp",
+      "platform": "Steam",
+      "url": "https://steamcommunity.com/id/uttp",
+      "title": "Steam Community :: b25",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0150",
+      "username": "uttp",
+      "platform": "Steam (Group)",
+      "url": "https://steamcommunity.com/groups/uttp",
+      "title": "Steam Community :: Group :: Under the Tree People",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0151",
+      "username": "uttp",
+      "platform": "Steam (by id)",
+      "url": "https://steamcommunity.com/profiles/uttp",
+      "title": "Steam Community :: Error",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0152",
+      "username": "uttp",
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/uttp/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0153",
+      "username": "uttp",
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/user/uttp",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0154",
+      "username": "uttp",
+      "platform": "Mixcloud",
+      "url": "https://www.mixcloud.com/uttp/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0155",
+      "username": "uttp",
+      "platform": "Truth Social",
+      "url": "https://truthsocial.com/@uttp",
+      "title": "Truth Social",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0156",
+      "username": "uttp",
+      "platform": "Pixelfed",
+      "url": "https://pixelfed.org/uttp",
+      "title": "Pixelfed - Decentralized social media",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0157",
+      "username": "uttp",
+      "platform": "Rockstar Social Club",
+      "url": "https://socialclub.rockstargames.com/member/uttp",
+      "title": "Rockstar Games",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0158",
+      "username": "uttp",
+      "platform": "Odysee",
+      "url": "https://odysee.com/@uttp",
+      "title": "Under the Tower Productions",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0159",
+      "username": "uttp",
+      "platform": "StackOverflow",
+      "url": "https://stackoverflow.com/users/filter?search=uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0160",
+      "username": "uttp",
+      "platform": "ChaturBate",
+      "url": "https://chaturbate.com/uttp/",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0161",
+      "username": "uttp",
+      "platform": "Paltalk",
+      "url": "https://www.paltalk.com/people/users/uttp",
+      "title": "Chat Room Member on Paltalk",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0162",
+      "username": "uttp",
+      "platform": "YouNow",
+      "url": "https://www.younow.com/uttp/",
+      "title": "YouNow",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0163",
+      "username": "uttp",
+      "platform": "Old-games",
+      "url": "https://www.old-games.ru/forum/members/?username=uttp",
+      "title": "Выдающиеся пользователи | Форум Old-Games.RU. Всё о старых играх",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0164",
+      "username": "uttp",
+      "platform": "CSSBattle",
+      "url": "https://cssbattle.dev/player/uttp",
+      "title": "CSSBattle",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0165",
+      "username": "uttp",
+      "platform": "Arhrock",
+      "url": "https://arhrock.info/forum/members/?username=uttp",
+      "title": "Выдающиеся пользователи | ArhRock Forum",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0166",
+      "username": "uttp",
+      "platform": "OP.GG LoL Brazil",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=br",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0167",
+      "username": "uttp",
+      "platform": "OP.GG LoL North America",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=na",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0168",
+      "username": "uttp",
+      "platform": "OP.GG LoL Middle East",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=me",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0169",
+      "username": "uttp",
+      "platform": "OP.GG LoL Europe Nordic & East",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=eune",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0170",
+      "username": "uttp",
+      "platform": "OP.GG LoL Europe West",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=euw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0171",
+      "username": "uttp",
+      "platform": "OP.GG LoL Oceania",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=oce",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0172",
+      "username": "uttp",
+      "platform": "OP.GG LoL Korea",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=kr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0173",
+      "username": "uttp",
+      "platform": "OP.GG LoL Japan",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=jp",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0174",
+      "username": "uttp",
+      "platform": "OP.GG LoL LAS",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=las",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0175",
+      "username": "uttp",
+      "platform": "OP.GG LoL LAN",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=lan",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0176",
+      "username": "uttp",
+      "platform": "OP.GG LoL Russia",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=ru",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0177",
+      "username": "uttp",
+      "platform": "OP.GG LoL Turkey",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=tr",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0178",
+      "username": "uttp",
+      "platform": "OP.GG LoL Taiwan",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=tw",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0179",
+      "username": "uttp",
+      "platform": "Yelp (by id)",
+      "url": "https://www.yelp.com/user_details?userid=uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0180",
+      "username": "uttp",
+      "platform": "phpbbguru.net",
+      "url": "https://www.phpbbguru.net/community/memberlist.php?mode=viewprofile&u=uttp",
+      "title": "phpBB Guru - Официальная русская поддержка форума phpBB - Вход",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0181",
+      "username": "uttp",
+      "platform": "Something Awful",
+      "url": "https://forums.somethingawful.com/member.php?u=uttp",
+      "title": "Something happened - The Something Awful Forums",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0182",
+      "username": "uttp",
+      "platform": "Etherscan",
+      "url": "https://etherscan.io/address/uttp",
+      "title": "Ethereum Account (Invalid Address)",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0183",
+      "username": "uttp",
+      "platform": "OpenSea",
+      "url": "https://opensea.io/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0184",
+      "username": "uttp",
+      "platform": "Strava",
+      "url": "https://www.strava.com/athletes/uttp",
+      "title": "Pongsathon Utt | Strava Athlete Profile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0185",
+      "username": "uttp",
+      "platform": "Life of Pix",
+      "url": "https://www.lifeofpix.com/uttp",
+      "title": "Life of Pix",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0186",
+      "username": "uttp",
+      "platform": "Weebly",
+      "url": "https://uttp.weebly.com",
+      "title": "FASILITASI PELAYANAN TERA  TERA ULANG SPBU (Stasiun pengisian bahan bakar umum) - Home",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0187",
+      "username": "uttp",
+      "platform": "Strikingly",
+      "url": "https://uttp.mystrikingly.com",
+      "title": "Taugresanun1986's Site on Strikingly",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0188",
+      "username": "uttp",
+      "platform": "Make:",
+      "url": "https://makezine.com/uttp",
+      "title": "This is not the page you&#039;re looking for... | Make: DIY Projects and Ideas for Makers",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0189",
+      "username": "uttp",
+      "platform": "Polygonscan",
+      "url": "https://polygonscan.com/address/uttp",
+      "title": "Polygon PoS Chain Account (Invalid Address)",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0190",
+      "username": "uttp",
+      "platform": "BaseScan",
+      "url": "https://basescan.org/address/uttp",
+      "title": "Base Account (Invalid Address)",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0191",
+      "username": "uttp",
+      "platform": "OpenSea (Collections)",
+      "url": "https://opensea.io/collection/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0192",
+      "username": "uttp",
+      "platform": "PeerTube Instance",
+      "url": "https://peertube.tv/account/uttp",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0193",
+      "username": "uttp",
+      "platform": "PeerTube.social",
+      "url": "https://peertube.social/account/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0194",
+      "username": "uttp",
+      "platform": "Elektronaut",
+      "url": "https://www.reddit.com/user/uttp/",
+      "title": "Reddit",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0195",
+      "username": "uttp",
+      "platform": "WeatherUnderground Station",
+      "url": "https://www.wunderground.com/dashboard/pws/uttp",
+      "title": "Local Weather Forecast, News and Conditions | Weather Underground",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0196",
+      "username": "uttp",
+      "platform": "WikimapiaSearch",
+      "url": "http://wikimapia.org/user/tools/users_rating/?username=uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0197",
+      "username": "uttp",
+      "platform": "MercadoLivre",
+      "url": "https://www.mercadolivre.com.br/perfil/uttp",
+      "title": "Parece que esta página não existe",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0198",
+      "username": "uttp",
+      "platform": "Physicsforums",
+      "url": "https://www.physicsforums.com/members/?username=uttp",
+      "title": "Notable members &#8226; Physics Forums - Science by Humans",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0199",
+      "username": "uttp",
+      "platform": "ManifoldMarkets",
+      "url": "https://manifold.markets/uttp",
+      "title": "Manifold",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0200",
+      "username": "uttp",
+      "platform": "Max",
+      "url": "https://max.ru/uttp",
+      "title": "MAX — быстрое и легкое приложение для общения и решения повседневных задач",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0201",
+      "username": "uttp",
+      "platform": "AWS Skills Profile",
+      "url": "https://skillsprofile.skillbuilder.aws/user/uttp/",
+      "title": "Skills Profile",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0202",
+      "username": "uttp",
+      "platform": "Avtomarket",
+      "url": "https://avtomarket.ru/u/uttp/",
+      "title": "Пользователь не найден",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0203",
+      "username": "uttp",
+      "platform": "Rusfishing",
+      "url": "https://www.rusfishing.ru/forum/members/?username=uttp",
+      "title": "Validating browser…",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0204",
+      "username": "uttp",
+      "platform": "Caduser",
+      "url": "https://www.caduser.ru/forum/userlist.php?username=uttp",
+      "title": "Пользователи &mdash; Форумы CADUser",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0205",
+      "username": "uttp",
+      "platform": "S-forum",
+      "url": "https://s-forum.biz/members/?username=uttp",
+      "title": "Notable members | Sex-Forum - All New Porn For Free, Mydirtyhobby Porno Clips und Videos",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0206",
+      "username": "uttp",
+      "platform": "Cydak",
+      "url": "http://www.cydak.ru/forum/profile.php?mode=viewprofile&u=uttp",
+      "title": "-     ,   .",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0207",
+      "username": "uttp",
+      "platform": "Ficwriter",
+      "url": "https://ficwriter.info/polzovateli/userprofile/uttp.html",
+      "title": "Пользователи",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0208",
+      "username": "uttp",
+      "platform": "ForumYuristov",
+      "url": "https://forumyuristov.ru/members/?username=uttp",
+      "title": "Полезные пользователи | Форум юристов",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0209",
+      "username": "uttp",
+      "platform": "Free-lance.ua",
+      "url": "https://free-lance.ua/users/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0210",
+      "username": "uttp",
+      "platform": "Mobrep",
+      "url": "https://www.mobrep.ru/users?criteria=uttp",
+      "title": "Главное / Репортеры",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0211",
+      "username": "uttp",
+      "platform": "Polczat.pl",
+      "url": "https://polczat.pl/forum/profile/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0212",
+      "username": "uttp",
+      "platform": "Prosvetlenie",
+      "url": "http://www.prosvetlenie.org/forum/members/?username=uttp",
+      "title": "Выдающиеся пользователи | Просветление. Эзотерический форум",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0213",
+      "username": "uttp",
+      "platform": "minfin.com.ua",
+      "url": "https://minfin.com.ua/users/uttp/",
+      "title": "Профиль недоступен - Minfin.com.ua",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0214",
+      "username": "uttp",
+      "platform": "perfuforum.pl",
+      "url": "https://perfuforum.pl/memberlist.php?username=uttp",
+      "title": "Perfuforum - Lista użytkowników",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0215",
+      "username": "uttp",
+      "platform": "forum.hebat-malek.com",
+      "url": "https://forum.hebat-malek.com/member.php?username=uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0216",
+      "username": "uttp",
+      "platform": "nasser-alyamani.org",
+      "url": "https://nasser-alyamani.org/member.php?username=uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0217",
+      "username": "uttp",
+      "platform": "Kaskus",
+      "url": "https://www.kaskus.co.id/@uttp",
+      "title": "KASKUS - Berbagi Hobi, Berkomunitas",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0218",
+      "username": "uttp",
+      "platform": "Totseans",
+      "url": "http://www.totseans.com/bbs/profile/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0219",
+      "username": "uttp",
+      "platform": "openriskmanual.org",
+      "url": "https://openriskmanual.org/wiki/User:uttp",
+      "title": "Login required - Open Risk Manual",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0220",
+      "username": "uttp",
+      "platform": "Dobroeslovo",
+      "url": "http://www.dobroeslovo.ru/memberlist.php?username=uttp",
+      "title": "Православный форум Доброе слово &bull; Пользователи",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0221",
+      "username": "uttp",
+      "platform": "ForumEvaveda",
+      "url": "http://forum.evaveda.com/memberlist.php?username=uttp",
+      "title": "Форум Аюрведа и Йога - Пользователи",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0222",
+      "username": "uttp",
+      "platform": "diorama.ru",
+      "url": "https://diorama.ru/forum/memberlist.php?mode=viewprofile&u=uttp",
+      "title": "Вход | Раздел форума | Diorama.ru",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0223",
+      "username": "uttp",
+      "platform": "forum.1796web.com",
+      "url": "https://forum.1796web.com/memberlist.php?mode=viewprofile&u=uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0224",
+      "username": "uttp",
+      "platform": "forum.gong.bg",
+      "url": "https://forum.gong.bg/memberlist.php?username=uttp",
+      "title": "forum.gong.bg - Потребители",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0225",
+      "username": "uttp",
+      "platform": "forum.prihoz.ru",
+      "url": "https://forum.prihoz.ru/memberlist.php?mode=viewprofile&u=uttp",
+      "title": "Дачный форум: дача, сад, огород, цветы. - Вход",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0226",
+      "username": "uttp",
+      "platform": "forums.mozfr.org",
+      "url": "https://forums.mozfr.org/memberlist.php?username=uttp",
+      "title": "Geckozone - Membres",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0227",
+      "username": "uttp",
+      "platform": "Deezer",
+      "url": "https://deezer.com/utp",
+      "title": "utp on Deezer",
+      "status": 200,
+      "confidence": 52,
+      "search_type": "similarity",
+      "similar_username": "utp",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0228",
+      "username": "uttp",
+      "platform": "PeerTube",
+      "url": "https://peertube.tv/uttp",
+      "title": "PeerTube.TV",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0229",
+      "username": "uttp",
+      "platform": "Vimeo Showcase",
+      "url": "https://vimeo.com/showcase/uttp",
+      "title": "Showcase on Vimeo",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0230",
+      "username": "uttp",
+      "platform": "ItemFix",
+      "url": "https://www.itemfix.com/c/uttp",
+      "title": "ItemFix - Channel:",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0231",
+      "username": "uttp",
+      "platform": "Wishlistr",
+      "url": "https://www.wishlistr.com/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0232",
+      "username": "uttp",
+      "platform": "1001tracklists",
+      "url": "https://www.1001tracklists.com/user/uttp/index.html",
+      "title": "1001Tracklists &sdot; The World's Leading DJ Tracklist/Playlist Database",
+      "status": 206,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0233",
+      "username": "uttp",
+      "platform": "SchemeColor",
+      "url": "https://www.schemecolor.com/author/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0234",
+      "username": "uttp",
+      "platform": "rec.poker",
+      "url": "https://rec.poker/author/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0235",
+      "username": "uttp",
+      "platform": "1x",
+      "url": "https://1x.com/member/uttp",
+      "title": "1x.com • In Pursuit of the Sublime",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0236",
+      "username": "uttp",
+      "platform": "Temu",
+      "url": "https://www.temu.com/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0237",
+      "username": "uttp",
+      "platform": "TanTan",
+      "url": "https://www.tantan.com/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0238",
+      "username": "uttp",
+      "platform": "Coursera Learner",
+      "url": "https://www.coursera.org/learner/uttp",
+      "title": "Coursera | Online Courses From Top Universities. Join for Free",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0239",
+      "username": "uttp",
+      "platform": "EDGAR Full-Text Search",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22uttp%22",
+      "title": "",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0240",
+      "username": "uttp",
+      "platform": "Lemmy.ee",
+      "url": "https://feddit.de/u/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0241",
+      "username": "uttp",
+      "platform": "Anycubic",
+      "url": "https://www.anycubic.com/uttp",
+      "title": "Anycubic 3D Printer | For Freedom to Make",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0242",
+      "username": "uttp",
+      "platform": "Spaghettimodels",
+      "url": "https://spaghettimodels.com/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0243",
+      "username": "uttp",
+      "platform": "SideProjectors",
+      "url": "https://www.sideprojectors.com/uttp",
+      "title": "Sell, buy, show off your side projects - SideProjectors | Marketplace to buy and sell side projects.",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0244",
+      "username": "uttp",
+      "platform": "Riffle",
+      "url": "https://www.rifflebooks.com/uttp",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0245",
+      "username": "uttp",
+      "platform": "podolsk",
+      "url": "https://forum.podolsk.ru/search.php?keywords=&terms=all&author=uttp",
+      "title": "Подольский городской форум - Информация",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0246",
+      "username": "uttp",
+      "platform": "lightstalking.com",
+      "url": "https://www.lightstalking.com/author/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0247",
+      "username": "uttp",
+      "platform": "Poembook",
+      "url": "https://poembook.ru/any?query=uttp",
+      "title": "Все поэты\n         | Поэмбук",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0248",
+      "username": "uttp",
+      "platform": "ultrasdiary.pl",
+      "url": "https://ultrasdiary.pl/u/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0249",
+      "username": "uttp",
+      "platform": "GotovimDoma",
+      "url": "https://gotovim-doma.ru/forum/search.php?keywords=&terms=all&author=uttp",
+      "title": "Информация",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0250",
+      "username": "uttp",
+      "platform": "650f.bike",
+      "url": "https://650f.bike/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0251",
+      "username": "uttp",
+      "platform": "Macosx",
+      "url": "https://macosx.com/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0252",
+      "username": "uttp",
+      "platform": "Nygunforum",
+      "url": "https://nygunforum.com/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0253",
+      "username": "uttp",
+      "platform": "OurDJTalk",
+      "url": "https://ourdjtalk.com/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0254",
+      "username": "uttp",
+      "platform": "Reincarnationforum",
+      "url": "http://reincarnationforum.com/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0255",
+      "username": "uttp",
+      "platform": "foropuros.com",
+      "url": "https://foropuros.com/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0256",
+      "username": "uttp",
+      "platform": "forum.neformat.com.ua",
+      "url": "https://forum.neformat.com.ua/members/uttp/",
+      "title": "One moment, please...",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0257",
+      "username": "uttp",
+      "platform": "Deezer",
+      "url": "https://deezer.com/Utti",
+      "title": "Utti on Deezer",
+      "status": 200,
+      "confidence": 38,
+      "search_type": "similarity",
+      "similar_username": "Utti",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0258",
+      "username": "uttp",
+      "platform": "Deezer",
+      "url": "https://deezer.com/Utop",
+      "title": "Utop on Deezer",
+      "status": 200,
+      "confidence": 29,
+      "search_type": "similarity",
+      "similar_username": "Utop",
+      "detection_in": [
+        "search_similarity"
+      ],
+      "first_seen": "2026-11-21T04:35:22Z",
+      "last_seen": "2026-11-21T04:35:22Z"
+    },
+    {
+      "id": "OS0259",
+      "username": "uttp",
+      "platform": "Loop",
+      "url": "https://twitch.tv/uttp",
+      "title": "Uttp - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0260",
+      "username": "uttp",
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/uttp",
+      "title": "Uttp - Twitch",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0261",
+      "username": "uttp",
+      "platform": "Vimeo",
+      "url": "https://vimeo.com/uttp",
+      "title": "UTTP",
+      "status": 200,
+      "confidence": 100,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "meta",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0262",
+      "username": "uttp",
+      "platform": "Threads",
+      "url": "https://www.threads.net/@uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0263",
+      "username": "uttp",
+      "platform": "Twitch (VOD)",
+      "url": "https://www.twitch.tv/uttp/videos",
+      "title": "Uttp Videos - Twitch",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "title",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0264",
+      "username": "uttp",
+      "platform": "OP.GG LoL Singapore",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=sg",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0265",
+      "username": "uttp",
+      "platform": "OP.GG LoL Phillippines",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=ph",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0266",
+      "username": "uttp",
+      "platform": "OP.GG LoL Thailand",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=th",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0267",
+      "username": "uttp",
+      "platform": "Viber",
+      "url": "https://viber.com/uttp",
+      "title": "Viber Account Page",
+      "status": 200,
+      "confidence": 80,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "url",
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0268",
+      "username": "uttp",
+      "platform": "OSRS Hiscores",
+      "url": "https://secure.runescape.com/m=hiscore_oldschool/hiscorepersonal?user1=uttp",
+      "title": "RuneScape 2007 Server - Play Old School RS",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0269",
+      "username": "uttp",
+      "platform": "Maga-Chat",
+      "url": "https://maga-chat.com/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0270",
+      "username": "uttp",
+      "platform": "Mcuuid",
+      "url": "https://playerdb.co/api/player/minecraft/uttp",
+      "title": "",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0271",
+      "username": "uttp",
+      "platform": "OP.GG LoL Vietnam",
+      "url": "https://op.gg/lol/summoners/search?q=uttp&region=vn",
+      "title": "OP.GG - The Best LoL Builds and Tier List. Search Riot ID and Tagline for Stats",
+      "status": 200,
+      "confidence": 55,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0272",
+      "username": "uttp",
+      "platform": "GameBanana",
+      "url": "https://gamebanana.com/uttp",
+      "title": "Tango Down! | GameBanana",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    },
+    {
+      "id": "OS0273",
+      "username": "uttp",
+      "platform": "Flaticon",
+      "url": "https://www.flaticon.com/uttp",
+      "title": "&nbsp;",
+      "status": 200,
+      "confidence": 45,
+      "search_type": "exact",
+      "similar_username": "",
+      "detection_in": [
+        "page"
+      ],
+      "first_seen": "2026-11-21T04:36:53Z",
+      "last_seen": "2026-11-21T04:36:53Z"
+    }
+  ],
   "strict_validation": {
     "raw_rows": 823,
     "strict_valid": 233,
@@ -10823,20 +15340,16 @@
     "bad_csv_files": [],
     "bad_manifest_rows": [
       {
+        "path": "00_READ_FIRST/ARCHIVE_MAP.md",
+        "reason": "size_mismatch"
+      },
+      {
         "path": "00_READ_FIRST/CHANGELOG.md",
         "reason": "size_mismatch"
       },
       {
-        "path": "18_ENTITY_MONITORING/README.md",
-        "reason": "size_mismatch"
-      },
-      {
-        "path": "18_ENTITY_MONITORING/discovered_sources.json",
-        "reason": "size_mismatch"
-      },
-      {
         "path": "18_ENTITY_MONITORING/discovery_state.json",
-        "reason": "size_mismatch"
+        "reason": "hash_mismatch"
       },
       {
         "path": "18_ENTITY_MONITORING/rebrands.json",
@@ -10856,7 +15369,7 @@
     }
   },
   "monitor_feed": {
-    "updated": "2026-11-21T04:25:08Z",
+    "updated": "2026-11-21T04:37:34Z",
     "mode": "lightweight source watch",
     "urls_checked": 10,
     "results": [
@@ -10864,7 +15377,7 @@
         "status": 0,
         "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
         "content_type": "",
-        "elapsed_ms": 5091,
+        "elapsed_ms": 5134,
         "ok": false,
         "error": "The read operation timed out",
         "source_id": "S001",
@@ -10874,7 +15387,7 @@
         "status": 200,
         "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
         "content_type": "text/html",
-        "elapsed_ms": 813,
+        "elapsed_ms": 68,
         "ok": true,
         "source_id": "S003",
         "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -10883,7 +15396,7 @@
         "status": 200,
         "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
         "content_type": "application/pdf",
-        "elapsed_ms": 853,
+        "elapsed_ms": 904,
         "ok": true,
         "source_id": "S005",
         "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -10892,7 +15405,7 @@
         "status": 200,
         "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 131,
+        "elapsed_ms": 129,
         "ok": true,
         "source_id": "S013",
         "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -10901,7 +15414,7 @@
         "status": 200,
         "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
         "content_type": "text/html; charset=UTF-8",
-        "elapsed_ms": 404,
+        "elapsed_ms": 406,
         "ok": true,
         "source_id": "S014",
         "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -10910,7 +15423,7 @@
         "status": 200,
         "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 553,
+        "elapsed_ms": 119,
         "ok": true,
         "source_id": "S021",
         "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -10928,7 +15441,7 @@
         "status": 200,
         "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
         "content_type": "application/pdf",
-        "elapsed_ms": 105,
+        "elapsed_ms": 93,
         "ok": true,
         "source_id": "S031",
         "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -10937,7 +15450,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 508,
+        "elapsed_ms": 72,
         "ok": true,
         "source_id": "S034",
         "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -10946,7 +15459,7 @@
         "status": 200,
         "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
         "content_type": "text/html; charset=utf-8",
-        "elapsed_ms": 416,
+        "elapsed_ms": 74,
         "ok": true,
         "source_id": "S040",
         "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -10955,23 +15468,23 @@
     "tel_records": 34
   },
   "tel_intake": {
-    "updated": "2026-11-21T04:25:08Z",
+    "updated": "2026-11-21T04:37:34Z",
     "count": 0,
     "entries": []
   },
   "cold_storage": {
-    "updated": "2026-11-21T04:15:13.646081Z",
-    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T041513Z.json.gz",
-    "snapshot_bytes": 3218,
+    "updated": "2026-11-21T04:36:55.142245Z",
+    "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T043655Z.json.gz",
+    "snapshot_bytes": 3268,
     "snapshots": 24,
-    "total_bytes": 77288,
+    "total_bytes": 77332,
     "github": "disabled",
     "tel_records": 34,
-    "raw_snapshot_bytes": 11590,
-    "bytes_saved": 8372,
+    "raw_snapshot_bytes": 11710,
+    "bytes_saved": 8442,
     "db": {
       "checked": true,
-      "page_count": 87,
+      "page_count": 82,
       "freelist_before": 0,
       "full_vacuum": false,
       "freelist_after": 0
@@ -11071,7 +15584,7 @@
   ],
   "tel_records": 34,
   "monitor": {
-    "updated": "2026-11-21 04:25 UTC",
+    "updated": "2026-11-21 04:37 UTC",
     "styxnet": {
       "raw_rows": 823,
       "exact_rows": 761,
@@ -11088,14 +15601,19 @@
       "unclear_rows": 73
     },
     "archive": {
-      "manifest_files": 636,
+      "manifest_files": 639,
       "discovered_source_count": 21,
       "rebrand_count": 24,
       "migration_event_count": 0,
       "styxnet_profile_count": 767,
+      "osint_finding_count": 273,
+      "osint_exact_count": 215,
+      "osint_high_confidence_count": 102,
+      "osint_new_7d": 273,
+      "last_osint": null,
       "new_sources_7d": 21,
       "new_styxnet_profiles_7d": 767,
-      "last_discovery": "2026-11-21T04:24:57Z",
+      "last_discovery": "2026-11-21T04:37:22Z",
       "public_release_gb": 6,
       "entity_count": 31,
       "source_count": 112,
@@ -11107,7 +15625,7 @@
       "unique_tactics": 49
     },
     "monitor_feed": {
-      "updated": "2026-11-21T04:25:08Z",
+      "updated": "2026-11-21T04:37:34Z",
       "mode": "lightweight source watch",
       "urls_checked": 10,
       "results": [
@@ -11115,7 +15633,7 @@
           "status": 0,
           "final_url": "https://www.canada.ca/en/public-safety-canada/news/2025/12/government-of-canada-lists-four-new-terrorist-entities0.html",
           "content_type": "",
-          "elapsed_ms": 5091,
+          "elapsed_ms": 5134,
           "ok": false,
           "error": "The read operation timed out",
           "source_id": "S001",
@@ -11125,7 +15643,7 @@
           "status": 200,
           "final_url": "https://gazette.govt.nz/notice/id/2025-au7135",
           "content_type": "text/html",
-          "elapsed_ms": 813,
+          "elapsed_ms": 68,
           "ok": true,
           "source_id": "S003",
           "url": "https://gazette.govt.nz/notice/id/2025-au7135"
@@ -11134,7 +15652,7 @@
           "status": 200,
           "final_url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf",
           "content_type": "application/pdf",
-          "elapsed_ms": 853,
+          "elapsed_ms": 904,
           "ok": true,
           "source_id": "S005",
           "url": "https://www.police.govt.nz/sites/default/files/publications/statement-of-case-order-of-nine-angles-terrorist-designation.pdf"
@@ -11143,7 +15661,7 @@
           "status": 200,
           "final_url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 131,
+          "elapsed_ms": 129,
           "ok": true,
           "source_id": "S013",
           "url": "https://sparxintel.com/publications/the-uttp-from-internet-trolling-to-violent-extremism"
@@ -11152,7 +15670,7 @@
           "status": 200,
           "final_url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/",
           "content_type": "text/html; charset=UTF-8",
-          "elapsed_ms": 404,
+          "elapsed_ms": 406,
           "ok": true,
           "source_id": "S014",
           "url": "https://gnet-research.org/2026/03/16/the-designation-of-764-network-why-does-it-matter/"
@@ -11161,7 +15679,7 @@
           "status": 200,
           "final_url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 553,
+          "elapsed_ms": 119,
           "ok": true,
           "source_id": "S021",
           "url": "https://www.cbc.ca/news/politics/764-youth-extremist-group-9.7010571"
@@ -11179,7 +15697,7 @@
           "status": 200,
           "final_url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline",
           "content_type": "application/pdf",
-          "elapsed_ms": 105,
+          "elapsed_ms": 93,
           "ok": true,
           "source_id": "S031",
           "url": "https://www.justice.gov/usao-nj/media/1417486/dl?inline"
@@ -11188,7 +15706,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 508,
+          "elapsed_ms": 72,
           "ok": true,
           "source_id": "S034",
           "url": "https://github.com/WinterGate-IC/UTTP/blob/main/02_CORE_INVESTIGATION/AREA_INTELLIGENCE/UTTP_AREA_REGISTER.csv"
@@ -11197,7 +15715,7 @@
           "status": 200,
           "final_url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE",
           "content_type": "text/html; charset=utf-8",
-          "elapsed_ms": 416,
+          "elapsed_ms": 74,
           "ok": true,
           "source_id": "S040",
           "url": "https://github.com/WinterGate-IC/UTTP/tree/main/17_CURRENT_STATE_PACKAGE"
@@ -11208,18 +15726,18 @@
     "tel_records": 34,
     "tel_intake": 0,
     "cold_storage": {
-      "updated": "2026-11-21T04:15:13.646081Z",
-      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T041513Z.json.gz",
-      "snapshot_bytes": 3218,
+      "updated": "2026-11-21T04:36:55.142245Z",
+      "latest_snapshot": "/var/lib/wintergate/cold_storage/entity_intelligence/entity-intelligence-20261121T043655Z.json.gz",
+      "snapshot_bytes": 3268,
       "snapshots": 24,
-      "total_bytes": 77288,
+      "total_bytes": 77332,
       "github": "disabled",
       "tel_records": 34,
-      "raw_snapshot_bytes": 11590,
-      "bytes_saved": 8372,
+      "raw_snapshot_bytes": 11710,
+      "bytes_saved": 8442,
       "db": {
         "checked": true,
-        "page_count": 87,
+        "page_count": 82,
         "freelist_before": 0,
         "full_vacuum": false,
         "freelist_after": 0
@@ -11228,7 +15746,7 @@
     "overtime": {
       "mode": "rule-based scheduled refresh",
       "refresh_seconds": 30,
-      "last_refresh": "2026-11-21T04:25:08Z",
+      "last_refresh": "2026-11-21T04:37:34Z",
       "next_checks": [
         "offshoot survival",
         "platform removals",

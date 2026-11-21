@@ -8,6 +8,8 @@
   timing; stats are cumulative and grow as registers change.
 - Added live update timestamps, cache-busting, and tabbed Entities/Sources/Areas/Claims navigation.
 - Added incremental discovery for sources, rebrands, migration timing, and StyxNet profiles.
+- Added passive StyxNet OSINT polling with cached-hunt ingestion and one shallow hunt per 6 hours.
+- Removed the redundant top-bar Entities tab; the page title now returns to the entity dashboard.
 - Manifest now contains 636 files with 0 hash/size errors.
 
 ## 2026-11-19 — Live monitoring and TEL auto-fill
